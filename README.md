@@ -22,7 +22,7 @@ dataset can't stay stagnant.
 METHODS & LIBRARIES
 
 The main packages I will be using for this are Selenium to webscrape RMP and Pandas to create the .csv
-file.
+file. I may add more libraries as I work through each component.
 
 In order to be able to rank the professors by their scores, I plan on using a priority queue data structure
 paired with a max heap for this. I also intend to use a hash table to store the data that will be extracted from the 
