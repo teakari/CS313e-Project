@@ -1,11 +1,23 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import TimeoutException, ElementClickInterceptedException
+from selenium.webdriver.support.ui import WebDriverWait
+from time import sleep
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.action_chains import ActionChains
 import pandas as pd
+options = Options()
+options.add_argument("--disable-notifications")
+options.add_argument("--disable-gpu")
 
-url = "https://www.ratemyprofessors.com/search/professors/1255?q=*&did=19"
+url = "https://www.ratemyprofessors.com/search/professors/1255?q=*&did=16"
 
 driver = webdriver.Chrome()
+wait = WebDriverWait(driver, 20)
 driver.get(url)
+
+timeout = 20
 
 # class="TeacherCard__StyledTeacherCard-syjs0d-0 dLJIlx"
 # name: //*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[3]/a[1]/div/div[2]/div[1]
@@ -13,6 +25,76 @@ driver.get(url)
 # rating: //*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[3]/a[1]/div/div[1]/div/div[2]
 # review num: //*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[3]/a[1]/div/div[1]/div/div[3]
 # difficulty: //*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[3]/a[1]/div/div[2]/div[3]/div[3]
+
+cookies_exit = wait.until(EC.element_to_be_clickable((By.XPATH, '/html/body/div[5]/div/div/button')))
+cookies_exit.click()
+
+try:
+    close_ad2 = wait.until(EC.element_to_be_clickable((By.XPATH, '//*[@id="IL_SR_X4"]/svg/g/path[2]')))
+    close_ad2.click()
+except TimeoutException:
+    print("Timed Out")
+try:
+    close_ad = wait.until(EC.element_to_be_clickable((By.XPATH, '//*[@id="bx-close-inside-1177612"]')))
+    close_ad.click()
+except TimeoutException:
+    print("Unable to close--Timed out")
+
+
+
+# try:
+#     WebDriverWait(driver, timeout).until(
+#         EC.presence_of_element_located((By.XPATH, '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[4]/button')))
+#     show_more_button = driver.find_element(By.XPATH, '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[4]/button')
+#
+#     while show_more_button:
+#         show_more_button.click()
+#         print("Button clicked!")
+#
+#         try:
+#             WebDriverWait(driver, timeout).until(
+#                 EC.presence_of_element_located((By.XPATH, '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[4]/button')))
+#             show_more_button = driver.find_element(By.XPATH, '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[4]/button')
+#
+#         except TimeoutException:
+#             print("TIMEOUT")
+#             break
+#         except ElementClickInterceptedException:
+#             print("Trying to click the button again")
+#             driver.execute_script("arguments[0].click()", show_more_button)
+# except TimeoutException:
+#     print("Results timed out")
+
+# try:
+#     # Wait for the "Show More" button to be present
+#     show_more_button = WebDriverWait(driver, timeout).until(
+#         EC.presence_of_element_located((By.XPATH, '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[4]/button'))
+#     )
+#
+#     # Loop to click the "Show More" button until it's not present
+#     while show_more_button:
+#         show_more_button.click()
+#
+#         # Wait for the button to disappear or load new content
+#         try:
+#             show_more_button = WebDriverWait(driver, timeout).until(
+#                 EC.presence_of_element_located((By.XPATH, '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[4]/button'))
+#             )
+#         except TimeoutException:
+#             # The button is not present, exit the loop
+#             break
+#
+# except TimeoutException:
+#     print("Timed out waiting for page to load")
+
+for _ in range(3):
+    button = driver.find_element(By.XPATH, '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[4]/button')
+    wait.until(EC.element_to_be_clickable((By.XPATH, '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[4]/button')))
+
+    action = ActionChains(driver)
+    action.move_to_element(button).click().perform()
+
+
 
 in_department = driver.find_elements(By.XPATH, '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[1]/div/h1')
 total = in_department[0].text.split()
@@ -23,14 +105,21 @@ print(total_professors)
 num_ratings = driver.find_elements(By.XPATH, '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[3]/a/div/div[1]/div/div[2]')
 # name = driver.find_elements(By.CLASS_NAME, 'CardName__StyledCardName-sc-1gyrgim-0 cJdVEK')
 names = []
-for i in range(6):
-    name = driver.find_elements(By.XPATH, '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[3]/a[' + str(i + 1) + ']/div/div[2]/div[1]')
+
+
+for i in range(1, 16):
+    WebDriverWait(driver, timeout).until(EC.presence_of_element_located((By.XPATH,
+            '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[3]/a[' + str(i) + ']/div/div[2]/div[1]')))
+    name = driver.find_elements(By.XPATH, '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[3]/a[' +
+            str(i) + ']/div/div[2]/div[1]')
+    print(name[0].text)
     names.append(name[0].text)
 
 print(names)
-# field = driver.find_elements(By.XPATH, '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[3]/a[1]/div/div[2]/div[2]/div[1]')
-# total_reviews = driver.find_elements(By.XPATH, '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[3]/a[1]/div/div[1]/div/div[3]')
-# difficulty = driver.find_elements(By.XPATH, '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[3]/a[1]/div/div[2]/div[3]/div[3]')
+# field = driver.find_elements(By.XPATH, '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[3]/a[1]/div/div[2]/div[
+# 2]/div[1]') total_reviews = driver.find_elements(By.XPATH, '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[3]/a[
+# 1]/div/div[1]/div/div[3]') difficulty = driver.find_elements(By.XPATH, '//*[@id="root"]/div/div/div[4]/div[1]/div[
+# 1]/div[3]/a[1]/div/div[2]/div[3]/div[3]')
 
 # for index in range(6):
 #     print(num_ratings[index].text)
