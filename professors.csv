@@ -1,0 +1,3643 @@
+,name,department,rating,total_ratings,would take again,difficulty
+0,Lynda Cleveland,Business,2.6,24 ratings,0%,3.2
+1,Paul Hudson,Geography,3.8,9 ratings,N/A,4.1
+2,James Enelow,Political Science,2.9,57 ratings,67%,3.1
+3,William Doolittle,Geography,4.8,17 ratings,100%,3.4
+4,Bruce Palka,Mathematics,3.7,6 ratings,N/A,3.5
+5,John Murphy,Communication,3.8,29 ratings,N/A,4.3
+6,Marc Lewis,Psychology,4.2,34 ratings,100%,2.6
+7,Josh Dever,Philosophy,4.1,13 ratings,100%,3.9
+8,David Sosa,Philosophy,4.4,4 ratings,N/A,2.5
+9,David Edwards,Political Science,3.1,27 ratings,N/A,4
+10,Manuel Ramirez,Psychology,2.4,37 ratings,55%,4.1
+11,Corinne Irwin,Mathematics,4.8,25 ratings,N/A,1.8
+12,Gary Berg,Mathematics,2.1,40 ratings,100%,3.4
+13,Sharon Jasper,Biology,3.2,9 ratings,N/A,3
+14,Alan Bovik,Engineering,4.5,7 ratings,80%,3.6
+15,Bruce Buchanan,Political Science,4.0,13 ratings,0%,3.2
+16,Gene Kincaid,Communication,3.8,7 ratings,N/A,3.7
+17,Lino Graglia,Law,2.9,9 ratings,N/A,3.3
+18,Joydeep Ghosh,Engineering,0.0,0 ratings,100%,0
+19,Michael Garrison,Architecture,3.6,6 ratings,100%,4.2
+20,Robert Jensen,Journalism,3.9,99 ratings,68%,1.9
+21,Herbert Hochberg,Philosophy,2.1,8 ratings,N/A,3.3
+22,David Fonken,Mathematics,4.8,9 ratings,N/A,3.4
+23,Joseph Kruppa,English,4.4,9 ratings,N/A,2
+24,Beverly Finklea,Biology,3.8,33 ratings,N/A,4.5
+25,Edward Robinson,Science,2.7,74 ratings,56%,3.5
+26,Mark Gergen,Law,2.5,7 ratings,N/A,3.7
+27,Duana Dinitto,Social Science,0.0,0 ratings,N/A,0
+28,Jarvis Ulbricht,Fine Arts,3.2,5 ratings,100%,2.6
+29,Joan Holladay,Fine Arts,4.1,15 ratings,67%,3.5
+30,Juan Salinas,Psychology,3.0,42 ratings,0%,2.7
+31,David Hillis,Biology,4.8,4 ratings,100%,4
+32,Dena Granof,Communication,4.6,6 ratings,N/A,1.7
+33,Kurt Weyland,Social Science,3.9,39 ratings,66%,3.8
+34,Mia Carter,English,4.8,10 ratings,86%,4
+35,Larry Sager,Law,3.0,12 ratings,100%,3.9
+36,Jim Glavan,Theater,4.3,9 ratings,100%,3.3
+37,Muir McPherson,Business,0.0,0 ratings,N/A,0
+38,Mathew Hayward,Business,0.0,0 ratings,N/A,0
+39,Edward Odell,Mathematics,3.5,8 ratings,N/A,4
+40,Burton Pierson,Biology,3.5,26 ratings,N/A,4.6
+41,Richard Jones,Chemistry,4.3,32 ratings,89%,2.7
+42,Robyn Honig,Psychology,0.0,0 ratings,N/A,0
+43,John Gilbert,Mathematics,3.9,24 ratings,63%,3.1
+44,John Batterton,Biology,3.1,93 ratings,48%,3.8
+45,Stephen G Bronars,Economics,2.7,3 ratings,N/A,1.3
+46,Chandrajit Bajaj,Computer Science,2.7,7 ratings,100%,3.1
+47,Samer Ali,Literature,3.6,8 ratings,N/A,2.6
+48,Rafael De La Llave,Mathematics,2.9,8 ratings,N/A,2.4
+49,Kamran Aghaie,History,2.9,17 ratings,50%,3.7
+50,John Ivy,Health Science,5.0,1 ratings,N/A,1
+51,Ed Coyle,Health Science,3.5,4 ratings,N/A,3.5
+52,Roger Farrar,Health Science,3.4,5 ratings,N/A,4.2
+53,Penny A. Green,Sociology,3.6,43 ratings,75%,3.2
+54,Karrol A. Kitt,Humanities,2.5,13 ratings,N/A,3.2
+55,Mark Bierner,Biology,4.1,21 ratings,100%,2.3
+56,Karl Galinsky,Classics,3.8,40 ratings,70%,3.3
+57,Stuart Reifel,Education,4.3,4 ratings,N/A,2.3
+58,James Schiek,English,2.5,3 ratings,N/A,4
+59,Louise Wolitz,Economics,2.8,5 ratings,N/A,3.6
+60,Phil Kushner,Mathematics,2.6,26 ratings,N/A,3.7
+61,Scot Powe,Law,4.2,6 ratings,100%,3.3
+62,Klaus Kalthoff,Biology,2.8,11 ratings,N/A,4.6
+63,Brian Leiter,Law,3.2,14 ratings,N/A,2.6
+64,Neal Burns,Journalism,2.9,6 ratings,N/A,2.5
+65,Harry Cleaver,Economics,3.7,6 ratings,N/A,3.5
+66,Isabella Cunningham,Marketing,3.0,5 ratings,100%,3.8
+67,. Kimball,English,4.2,3 ratings,N/A,2.3
+68,. Whigham,English,3.4,22 ratings,100%,3.8
+69,Wayne Rebhorn,English,3.1,20 ratings,63%,3.2
+70,Perry Connolly,Languages,2.6,4 ratings,N/A,3.5
+71,Karl Miller,History,4.6,14 ratings,N/A,2.9
+72,Sarah Buel,Law,1.9,6 ratings,N/A,3
+73,John Swinnea,Engineering,4.1,20 ratings,80%,2.1
+74,Donna Lyon,Chemistry,3.3,34 ratings,N/A,2.9
+75,Carl Blyth,Languages,4.2,5 ratings,100%,2.8
+76,Eric Mallin,English,4.0,23 ratings,80%,3.4
+77,Leslie Vaaler,Mathematics,2.1,7 ratings,N/A,4.1
+78,Robin Doughty,Geography,2.8,15 ratings,34%,3.5
+79,Kenneth Liechti,Engineering,3.5,5 ratings,100%,4.6
+80,Klaus Bichteler,Mathematics,1.5,32 ratings,N/A,4.4
+81,Rosanne Loop,Nutrition,2.2,11 ratings,N/A,4.3
+82,Ekwere Peters,Engineering,2.1,7 ratings,N/A,3.3
+83,Joshua Klein,Physics,5.0,3 ratings,N/A,3.3
+84,Paul Oakes,Physics,0.0,0 ratings,N/A,0
+85,Mary Baker,Languages,3.7,5 ratings,N/A,4.4
+86,Harry Swinney,Physics,3.5,28 ratings,64%,4
+87,Hao Ling,Engineering,5.0,4 ratings,N/A,2.5
+88,Francis Bostick,Engineering,5.0,3 ratings,N/A,2.3
+89,Derek Wills,Science,2.9,27 ratings,N/A,4
+90,Matthew Russell,English,2.7,3 ratings,100%,1
+91,. Rhodes,Mathematics,2.3,5 ratings,N/A,2
+92,Arthur Markman,Psychology,4.4,13 ratings,91%,2
+93,Steven Biegalski,Engineering,4.7,24 ratings,100%,2.9
+94,Elizabeth Bishop,Literature,0.0,0 ratings,N/A,0
+95,Stephen Phillips,Philosophy,3.1,22 ratings,25%,3
+96,Erika Bsumek,History,4.2,17 ratings,97%,3.2
+97,Evelyn Schultz,Mathematics,1.8,120 ratings,27%,4.4
+98,Mark Lawrence,History,4.2,24 ratings,89%,3.4
+99,Megan Seaholm,History,3.4,98 ratings,56%,2.9
+100,Brian Bocknack,Chemistry,3.5,32 ratings,36%,3.6
+101,Jim Spivey,Psychology,4.4,15 ratings,N/A,3.2
+102,John Rickard,Engineering,0.0,0 ratings,N/A,0
+103,T.K. Seung,Philosophy,3.9,8 ratings,N/A,4.1
+104,Eric Warr,Sociology,4.8,21 ratings,100%,2.7
+105,Andrew Karch,Political Science,4.7,9 ratings,N/A,2.4
+106,Inderjit Dhillon,Computer Science,4.5,2 ratings,N/A,3.5
+107,James Ayres,English,1.8,12 ratings,N/A,4.6
+108,Kathryn Metz,Music,0.0,0 ratings,N/A,0
+109,Jennifer Proft,Mathematics,4.3,2 ratings,N/A,3
+110,Chris Bell,Geology,3.4,20 ratings,50%,4
+111,James Henderson,Music,0.0,0 ratings,N/A,0
+112,. McDaniel,History,3.3,16 ratings,50%,2.7
+113,Keith Livers,Literature,4.0,8 ratings,100%,1.9
+114,Helena Woodard,English,4.3,15 ratings,100%,2.9
+115,Anita Vangelisti,Communication,3.5,4 ratings,34%,3.8
+116,Patrick Hughes,Music,5.0,1 ratings,100%,4
+117,Lisa Carroll-Lee,Literature,5.0,2 ratings,N/A,3
+118,Diane Radin,Mathematics,3.2,48 ratings,30%,3.9
+119,Tiffany Gill,History,4.1,6 ratings,N/A,2.7
+120,William Carner,Marketing,3.3,2 ratings,N/A,2
+121,Diane Kneeland,Chemistry,3.0,2 ratings,N/A,3
+122,Allen Cowley,Chemistry,2.7,6 ratings,N/A,3.8
+123,Benjamin Hicks,Classics,0.0,0 ratings,N/A,0
+124,Alan Kessler,Political Science,4.3,4 ratings,67%,3.3
+125,Elizabeth Scala,English,4.1,13 ratings,100%,3.8
+126,Ann Keller-Lally,Languages,5.0,3 ratings,N/A,2.7
+127,Steve Ross,Architecture,3.4,7 ratings,N/A,2.4
+128,Amarante Lucero,Theater,2.7,17 ratings,N/A,4.3
+129,Lee Abraham,Theater,4.5,2 ratings,N/A,4
+130,Pam Christian,Theater,4.3,3 ratings,N/A,2.3
+131,Christopher Adejumo,Fine Arts,4.0,3 ratings,100%,1.7
+132,Michael White,Religion,4.3,18 ratings,82%,2.3
+133,Fran Dorn,Theater,4.7,7 ratings,75%,2.1
+134,Craig Chase,Engineering,3.7,11 ratings,N/A,3.6
+135,Jayadev Misra,Computer Science,4.3,3 ratings,N/A,4
+136,Elaine Rich,Computer Science,3.9,12 ratings,100%,3.5
+137,Marvin Olasky,Journalism,4.8,2 ratings,N/A,3.5
+138,Andrew Dell'Antonio,Music,4.2,6 ratings,0%,1.5
+139,Roderick Hart,Communication,5.0,2 ratings,100%,2.5
+140,Craig Wheeler,Astronomy,4.3,14 ratings,75%,2.6
+141,Sankaran Radhakrishnan,Languages,4.8,2 ratings,N/A,2.5
+142,Leon Long,Geology,4.0,17 ratings,100%,3.2
+143,G. Howard Miller,History,2.8,2 ratings,N/A,4
+144,Ted Aanstoos,Engineering,4.8,4 ratings,N/A,1.5
+145,Robert Anderson,Fine Arts,2.5,1 ratings,N/A,3
+146,Suzanne Barth,Biology,4.2,8 ratings,80%,2.7
+147,Daniel Alexander Jones,Theater,0.0,0 ratings,N/A,0
+148,Joni Jones,Theater,3.7,8 ratings,67%,2.9
+149,Bill Wiman,Fine Arts,0.0,0 ratings,N/A,0
+150,Bill Lundberg,Fine Arts,3.5,1 ratings,N/A,3
+151,Loril Gossett,Communication,0.0,0 ratings,N/A,0
+152,Sunshine Webster,Communication,5.0,2 ratings,N/A,2.5
+153,Catherine Echols,Psychology,0.0,0 ratings,100%,0
+154,Gwyn Morgan,Classics,4.0,4 ratings,N/A,3.8
+155,Johanna Hartelius,Communication,4.4,5 ratings,100%,2.4
+156,Clariza Ruiz De Castilla,Communication,3.1,30 ratings,N/A,3.6
+157,Bob Mann,Journalism,3.3,3 ratings,N/A,3.7
+158,Donald Newman,Accounting,4.3,2 ratings,N/A,4
+159,Joyce Harris,Communication,2.0,2 ratings,N/A,4
+160,Bart Goddard,Mathematics,3.7,47 ratings,84%,3.3
+161,James Holcombe,Chemistry,3.0,11 ratings,N/A,3.5
+162,Nell Dale,Computer Science,0.0,0 ratings,N/A,0
+163,Jenny Cooke,Geology,4.7,3 ratings,N/A,1.7
+164,Hunter March,Music,5.0,1 ratings,N/A,3
+165,Luis Caffarelli,Mathematics,2.5,4 ratings,0%,4
+166,Glen Peers,Art History,3.7,6 ratings,100%,3
+167,T Lin,Political Science,0.0,0 ratings,N/A,0
+168,M Hilley,Music,3.1,11 ratings,50%,4.3
+169,Tim High,Fine Arts,2.0,8 ratings,0%,3.3
+170,Michael Ray Charles,Fine Arts,2.2,6 ratings,N/A,3.8
+171,Lisa Moore,Women's Studies,4.3,5 ratings,100%,1.4
+172,John Farrell,English,0.0,0 ratings,N/A,0
+173,Raymond Hawkins,Psychology,3.1,7 ratings,N/A,2.1
+174,Devendra Singh,Psychology,3.9,10 ratings,100%,3
+175,George Sylvie,Journalism,2.4,6 ratings,0%,4
+176,Lea Cline,Art History,5.0,3 ratings,100%,2
+177,Alicia Carter,Languages,5.0,3 ratings,N/A,1.7
+178,Jerry Schirmer,Physics,3.0,2 ratings,N/A,3
+179,Paula J. Perlman,Classics,3.4,18 ratings,100%,3.9
+180,Alex Wettlaufer,Languages,3.4,5 ratings,100%,4
+181,Solange Munoz,Languages,2.6,4 ratings,N/A,2.8
+182,Dina Sherzer,Film,4.0,2 ratings,N/A,2.5
+183,Henry Dietz,Political Science,4.0,9 ratings,100%,3.1
+184,Abe Wicklegren,Economics,0.0,0 ratings,N/A,0
+185,David Siller,Languages,3.4,5 ratings,N/A,2.8
+186,Timothy Loving,Women's Studies,4.4,16 ratings,0%,2.6
+187,Sanford Marble,Economics,1.8,7 ratings,N/A,3.4
+188,Alba Ortiz,Education,0.0,0 ratings,N/A,0
+189,Ellen Kester,Communication,0.0,0 ratings,N/A,0
+190,Beatrix Paal,Economics,1.4,13 ratings,N/A,4.2
+191,AJ Boydston,Chemistry,5.0,2 ratings,100%,3.5
+192,Eiichiro Komatsu,Astronomy,3.0,3 ratings,N/A,3.3
+193,. Barbanson,Mathematics,2.2,6 ratings,N/A,3.5
+194,Maggie Myers,Computer Science,3.3,21 ratings,72%,3.5
+195,Dan Knopf,Mathematics,4.5,9 ratings,100%,2.7
+196,Anton Nel,Music,5.0,2 ratings,N/A,3.5
+197,Mark Bernstein,Communication,4.3,20 ratings,78%,2.8
+198,John Clarke,Art History,3.9,14 ratings,67%,3.5
+199,Sanjay Banerjee,Engineering,4.2,3 ratings,67%,4
+200,Veronica House,Writing,0.0,0 ratings,N/A,0
+201,Eric Pianka,Biology,1.4,27 ratings,14%,4.3
+202,. Neubauer,Biology,3.9,7 ratings,N/A,3.6
+203,Frenkel Hofstede,Marketing,4.8,3 ratings,N/A,1.7
+204,Jessie Wandelt,Biology,3.8,60 ratings,100%,3.5
+205,J. Limon,English,0.0,0 ratings,N/A,0
+206,Catherine Stacy,Mathematics,3.8,14 ratings,100%,3.4
+207,Cherise Smith,Art History,4.3,5 ratings,N/A,3.6
+208,Allan MacDonald,Physics,2.5,3 ratings,50%,2.7
+209,Leanne Field,Biology,4.5,2 ratings,N/A,4.5
+210,Lawrence McFarland,Fine Arts,5.0,2 ratings,N/A,3.5
+211,Dan Leary,Architecture,0.0,0 ratings,N/A,0
+212,David Stuart,Art History,4.3,18 ratings,75%,2.9
+213,Bella Jordan,Geography,3.8,8 ratings,75%,2.9
+214,Allen,Biology,0.0,0 ratings,N/A,0
+215,Smilja Milovanovic-Bertram,Architecture,0.0,0 ratings,N/A,0
+216,Andrew Lotto,Psychology,0.0,0 ratings,N/A,0
+217,Sharmila Rudrappa,Sociology,4.0,4 ratings,100%,3
+218,Stanislav Zimic,Languages,3.2,3 ratings,N/A,2.3
+219,Lynn Cates,Philosophy,0.0,0 ratings,N/A,0
+220,Wayne Lesser,English,3.3,16 ratings,75%,3.8
+221,Brian Bremen,English,4.3,7 ratings,0%,2.7
+222,Ben Carrington,Sociology,4.4,4 ratings,100%,2.5
+223,Ellen Spiro,Film,5.0,15 ratings,100%,2.7
+224,John Pierson,Film,0.0,0 ratings,N/A,0
+225,Michael Gagarin,Classics,2.8,3 ratings,N/A,4.3
+226,Martin Schlaepfer,Biology,0.0,0 ratings,N/A,0
+227,Deborah Weiss,Law,0.0,0 ratings,N/A,0
+228,Carlos Amador,Languages,4.4,9 ratings,N/A,1.6
+229,Jerry Junkin,Music,4.5,3 ratings,N/A,3.3
+230,Michael Singer,Biology,4.3,10 ratings,N/A,2.8
+231,Phyllis Young,Music,0.0,0 ratings,N/A,0
+232,Cassandra Delgado-Reyes,Science,5.0,6 ratings,100%,2
+233,Matthew Scholl,Mathematics,2.2,3 ratings,N/A,2.3
+234,H Yilmaz,Economics,3.8,4 ratings,N/A,4
+235,Jafari Allen,Anthropology,2.8,4 ratings,0%,2.8
+236,Williams Glade,Economics,0.0,0 ratings,N/A,0
+237,Michelle Monk,Humanities,0.0,0 ratings,N/A,0
+238,Mitch Berman,Law,3.2,3 ratings,N/A,4.3
+239,Zhanmin Zhang,Engineering,1.0,1 ratings,N/A,4
+240,Wanda Cash,Journalism,4.0,5 ratings,100%,4
+241,Greg Michener,Languages,3.5,3 ratings,N/A,2.3
+242,Sayre,Writing,0.0,0 ratings,N/A,0
+243,Cinzia Russi,Languages,2.0,4 ratings,N/A,2.5
+244,Anish Ghosh,Mathematics,0.0,0 ratings,N/A,0
+245,Phyllis Robertson,Education,4.7,3 ratings,N/A,3
+246,Ruth Franks,Biology,4.0,1 ratings,N/A,1
+247,Christine Hawkes,Biology,3.5,1 ratings,N/A,4
+248,Kristen Grauman,Computer Science,4.9,8 ratings,100%,2.7
+249,Alison Preston,Psychology,4.5,2 ratings,100%,4
+250,Namkee Choi,Social Work,0.0,0 ratings,N/A,0
+251,Chris McCarthy,Education,5.0,2 ratings,100%,2
+252,Steven Isenberg,English,4.5,2 ratings,N/A,3.5
+253,Hallberg Amy,Anthropology,0.0,0 ratings,N/A,0
+254,Byron McClenney,Education,5.0,1 ratings,N/A,5
+255,Umar Alam,Biology,5.0,1 ratings,N/A,1
+256,Michael Luchs,Marketing,0.0,0 ratings,N/A,0
+257,Brian King,Geography,0.0,0 ratings,N/A,0
+258,Mounira Charrad,Sociology,4.3,3 ratings,100%,2.7
+259,Shirley Lukenbill,Library Science,3.3,7 ratings,N/A,3
+260,Barbara Moore,Biology,2.7,14 ratings,N/A,4.2
+261,Corinne Grimes,Nursing,3.5,3 ratings,N/A,1.3
+262,Sarah Blankenship,Nursing,5.0,2 ratings,N/A,2
+263,Sherry Hendrickson,Nursing,3.0,2 ratings,N/A,3
+264,Harvey Pittel,Music,4.8,2 ratings,N/A,5
+265,Norman Li,Psychology,4.6,5 ratings,N/A,2.8
+266,Aaron Shield,Languages,0.0,0 ratings,N/A,0
+267,Thomas Whitbread,English,4.7,3 ratings,N/A,2.7
+268,Jonathan Lamb,English,4.5,3 ratings,N/A,3.3
+269,Farkhondeh Shayesteh,Library Science,4.8,3 ratings,N/A,2.7
+270,Gustavo Deveciana,Engineering,3.7,3 ratings,100%,3
+271,Arban Uka,Physics,4.5,3 ratings,100%,3
+272,Anthony Petrosino,Education,2.0,2 ratings,N/A,3
+273,Karen Mann,Mathematics,4.5,2 ratings,N/A,1.5
+274,Peter Trubowitz,Political Science,4.2,3 ratings,N/A,3.7
+275,Kent Butler,Architecture,0.0,0 ratings,N/A,0
+276,Susan Todd,Writing,4.5,1 ratings,N/A,2
+277,George Georgiou,Engineering,0.0,0 ratings,N/A,0
+278,P Rossky,Chemistry,4.0,1 ratings,N/A,3
+279,Peter Fazziola,Languages,4.3,2 ratings,N/A,2.5
+280,Jennifer Gates-Foster,Classics,4.2,5 ratings,N/A,3.8
+281,David Vandenbout,Chemistry,3.6,40 ratings,100%,3.5
+282,Keri Thompson,Communication,4.3,2 ratings,N/A,3.5
+283,Lauren Mitchell,Writing,0.0,0 ratings,N/A,0
+284,Sheilah Murphey,Languages,3.0,2 ratings,N/A,3.5
+285,Duane Dicus,Physics,0.0,0 ratings,N/A,0
+286,Benuto Zheng,Mathematics,1.5,2 ratings,N/A,3
+287,Bryan Russell,English,4.8,3 ratings,N/A,3
+288,Tom Bushart,Biology,3.3,8 ratings,N/A,3.9
+289,Dale Smith,English,4.5,2 ratings,N/A,2
+290,Keith Robinson,Sociology,3.9,6 ratings,N/A,2.8
+291,Douglas De Vidal,Accounting,2.5,2 ratings,N/A,5
+292,Matt Clements,Economics,3.0,2 ratings,N/A,5
+293,Mercedes De Uriarte,Journalism,5.0,1 ratings,N/A,4
+294,Theodore Dix,Nursing,4.7,3 ratings,100%,3.7
+295,Philipp Broadbent,Languages,3.1,5 ratings,N/A,3.8
+296,Jenn Garrison,Film,5.0,2 ratings,N/A,4
+297,Robert Bishop,Engineering,0.0,0 ratings,N/A,0
+298,Lili Qiu,Computer Science,2.5,11 ratings,50%,3.7
+299,Arlo Schurle,Mathematics,4.1,19 ratings,N/A,2.4
+300,Lizabeth Doherty,Education,0.0,0 ratings,N/A,0
+301,James Bryant,Biology,2.7,6 ratings,N/A,4.8
+302,Rebecca Bigler,Psychology,4.5,7 ratings,100%,2.9
+303,Carlos Capra,Languages,3.8,4 ratings,N/A,3.3
+304,Florence Atiase,Accounting,3.2,6 ratings,N/A,3.3
+305,Jessica Goudeau,English,5.0,2 ratings,N/A,2.5
+306,Charles Earhart,Biology,2.5,1 ratings,N/A,5
+307,Lorraine Branham,Journalism,0.0,0 ratings,N/A,0
+308,Jennifer Fuller,Communication,3.3,6 ratings,N/A,4.5
+309,Seth Garfield,History,2.6,6 ratings,40%,3.8
+310,Lorenzo Alvisi,Computer Science,4.3,7 ratings,100%,4.3
+311,Sarah Simmons,Science,4.6,4 ratings,N/A,1.5
+312,Ben Henry,Classics,0.0,0 ratings,N/A,0
+313,Pamela Friedman,Finance,0.0,0 ratings,N/A,0
+314,Jennifer Whitson,Management,0.0,0 ratings,N/A,0
+315,Rowena Fong,Social Work,4.0,7 ratings,50%,2
+316,Amanda Jones,Psychology,0.0,0 ratings,N/A,0
+317,Rupert Snell,Asian Studies,5.0,3 ratings,100%,2
+318,Sean Buckley,Engineering,0.0,0 ratings,N/A,0
+319,John Colapret,Chemistry,3.3,80 ratings,71%,3.5
+320,Enrique Fierro,Literature,4.0,1 ratings,N/A,1
+321,Arlen Johnson,Biology,2.0,5 ratings,0%,3.6
+322,Gregory Foran,English,0.0,0 ratings,N/A,0
+323,Vadim Kaplunovsky,Physics,2.2,4 ratings,0%,2.3
+324,Eva Thomsen,Counseling,0.0,0 ratings,N/A,0
+325,Brent Hasty,Education,0.0,0 ratings,N/A,0
+326,Anne Martinez,History,1.5,10 ratings,N/A,4.5
+327,Kelley Crews,Geography,3.4,14 ratings,50%,2
+328,Alan Cline,Computer Science,2.8,14 ratings,50%,3.8
+329,Sarah Davies,Classics,4.6,6 ratings,100%,3
+330,John Lacy,Astronomy,3.7,8 ratings,N/A,2.5
+331,Francisco Perez,Geography,3.9,11 ratings,N/A,2.5
+332,William Nethercut,Classics,3.4,36 ratings,58%,2.8
+333,Joseph Abraham,English,0.0,0 ratings,N/A,0
+334,David Fithian,Mathematics,2.8,2 ratings,N/A,2
+335,Emilie Destruel,French & Italian,5.0,2 ratings,N/A,3.5
+336,Thomas Chen,Mathematics,4.3,16 ratings,86%,2.7
+337,Jade Walker,Fine Arts,3.5,1 ratings,N/A,2
+338,Jan Todd,Health Science,2.3,4 ratings,0%,2.8
+339,Paul Findell,Biology,2.4,5 ratings,N/A,5
+340,Elizabeth Engelhardt,History,3.5,9 ratings,N/A,3.4
+341,Ethan Burris,Management,0.0,0 ratings,N/A,0
+342,Jeb Mueller,Music,0.0,0 ratings,N/A,0
+343,Don Graham,English,4.5,9 ratings,100%,2.1
+344,John Burrows,Management,3.8,3 ratings,N/A,2.7
+345,William Epps,History,0.0,0 ratings,N/A,0
+346,Yingda Cheng,Mathematics,3.0,3 ratings,N/A,3.3
+347,Jean-Pierre Montreuil,French & Italian,3.3,4 ratings,N/A,3.8
+348,Simone Sessolo,French & Italian,4.0,2 ratings,N/A,2.5
+349,Brenda Chinnery-Allgeier,Biology,3.7,36 ratings,64%,3
+350,Zaiming Zhao,Biology,3.3,44 ratings,0%,2.8
+351,Marion Bodian,History,2.8,18 ratings,50%,3.3
+352,Robert King,Linguistics,4.2,5 ratings,N/A,2.2
+353,Michael Becker,Engineering,3.3,2 ratings,N/A,4
+354,Ian Osteen,Culinary Arts,0.0,0 ratings,N/A,0
+355,Paul Martorana,Management,2.0,1 ratings,N/A,1
+356,Shardha Jogee,Astronomy,3.9,6 ratings,50%,3
+357,Kevin Thomas,Advertising,4.1,9 ratings,100%,2.3
+358,Danielle Dirks,Sociology,4.5,2 ratings,N/A,2
+359,J Turner,Physics,2.1,10 ratings,N/A,4.3
+360,Peter MacNeilage,Psychology,1.8,4 ratings,N/A,3.5
+361,Martin Kevorkian,English,4.9,5 ratings,100%,2.8
+362,Robert Gompf,Mathematics,4.0,3 ratings,67%,4.3
+363,Qinian Jin,Mathematics,0.0,0 ratings,N/A,0
+364,Christopher Ellison,Sociology,4.0,1 ratings,N/A,4
+365,Sanford Levinson,Law,3.5,2 ratings,N/A,2
+366,Alessandra Lippucci,Government,5.0,1 ratings,N/A,1
+367,Sheldon Ekland-Olson,Sociology,4.4,32 ratings,83%,2.3
+368,Jerome Bump,English,3.8,7 ratings,25%,3.1
+369,Steven Hoelscher,American Studies,3.6,12 ratings,50%,2.8
+370,John Barnes,Engineering,3.8,3 ratings,N/A,2.3
+371,Mrinal Sen,Geology,0.0,0 ratings,N/A,0
+372,Annie Petersen,Film,4.8,2 ratings,N/A,3.5
+373,Xiao-Yang Zhu,Chemistry,3.8,2 ratings,N/A,3.5
+374,Don Fussell,Computer Science,3.5,2 ratings,N/A,4
+375,Mary Dunn,Management,4.0,2 ratings,N/A,2.5
+376,Adi Raz,Languages,4.0,11 ratings,N/A,3.2
+377,Monica Yaniv,Languages,3.5,2 ratings,100%,3
+378,J Aggarwal,Engineering,0.0,0 ratings,N/A,0
+379,Jennifer Marsh,Architecture,0.0,0 ratings,N/A,0
+380,John Higley,Sociology,4.0,2 ratings,N/A,3.5
+381,Benjamin Narvaez,History,3.5,1 ratings,N/A,2
+382,Richard Cherwitz,Business,2.0,2 ratings,N/A,4.5
+383,Douglas Foley,Education,5.0,1 ratings,N/A,3
+384,Clayton Bjorland,Mathematics,3.4,5 ratings,N/A,2.4
+385,Eduardo Gildin,Engineering,0.0,0 ratings,N/A,0
+386,John Fremgen,Music,3.5,1 ratings,N/A,3
+387,Whitney Yin,Chemistry,3.5,1 ratings,N/A,2
+388,Charles Krecz,Philosophy,3.3,44 ratings,75%,2.2
+389,Nancy Kwallek,Design,0.0,0 ratings,N/A,0
+390,Adriana Sofer,Mathematics,0.0,0 ratings,N/A,0
+391,Michael Sullivan,Classics,3.3,2 ratings,N/A,4
+392,Andreas Gerstlauer,Engineering,4.0,3 ratings,N/A,3.3
+393,William Neal,Engineering,0.0,0 ratings,N/A,0
+394,Robert McCann,Engineering,4.3,3 ratings,100%,1
+395,George Cardwell,Engineering,2.8,2 ratings,N/A,2
+396,James Chelikowsky,Physics,3.3,7 ratings,100%,4
+397,Julia Reed,Humanities,3.9,5 ratings,50%,1
+398,Marjorie Woods,English,5.0,6 ratings,100%,1.8
+399,Maki Shimotani,Asian Studies,3.0,2 ratings,N/A,2.5
+400,Gregory Shields,Astronomy,4.0,2 ratings,N/A,3.5
+401,Karen Rascati,Pharmacy,4.0,2 ratings,N/A,1.5
+402,Emily Bloom,Writing,1.5,1 ratings,N/A,3
+403,Jason Craft,Writing,0.0,0 ratings,N/A,0
+404,Mohamed Gouda,Computer Science,2.8,29 ratings,25%,3
+405,Serap Sengul,Anthropology,0.0,0 ratings,N/A,0
+406,Herb Krasner,Engineering,3.7,5 ratings,N/A,2.8
+407,Peter Dana,Geography,3.0,1 ratings,N/A,2
+408,John Donnellan,Business,0.0,0 ratings,N/A,0
+409,Andre Gogolev,Mathematics,3.0,2 ratings,N/A,3
+410,Myklebust Nicholas,Mathematics,0.0,0 ratings,N/A,0
+411,Gerald Shank,Not Specified,4.7,3 ratings,N/A,3.7
+412,Eric Dodson-Robinson,Classics,5.0,1 ratings,N/A,3
+413,Jerry Manheimer,Human Dev & Family Sciences,3.3,8 ratings,25%,3.5
+414,Rory Rother,Mathematics,4.5,2 ratings,N/A,3.5
+415,Ronald Anderson,Communication,4.2,115 ratings,85%,2.4
+416,Matthew Hill,Spanish & Portuguese,0.0,0 ratings,N/A,0
+417,Samantha Croft,Biology,4.0,1 ratings,N/A,1
+418,John Kormendy,Astronomy,3.2,12 ratings,75%,3.9
+419,Chris Pieper,Sociology,5.0,3 ratings,N/A,3.3
+420,Minjung Park,Languages,4.5,3 ratings,100%,2.7
+421,Cheryl Kaplan,Dramatic Arts,2.5,1 ratings,N/A,2
+422,Ahn Hongmin,Advertising,0.0,0 ratings,N/A,0
+423,Luke Leonard,Theater,0.0,0 ratings,N/A,0
+424,Laura Simmons,Film,0.0,0 ratings,N/A,0
+425,Herim Lee,Film,0.0,0 ratings,N/A,0
+426,Nour Touba,Engineering,0.0,0 ratings,N/A,0
+427,Sri Satyan,Engineering,1.8,2 ratings,N/A,3.5
+428,Catherine Blouke,Not Specified,4.5,1 ratings,N/A,2
+429,Shirley Thompson,History,4.6,5 ratings,100%,2
+430,Jeff Williams,Fine Arts,5.0,3 ratings,100%,1.7
+431,Amy Ware,American Studies,5.0,2 ratings,100%,2.5
+432,Nick Mantegani,Philosophy,4.5,8 ratings,N/A,3.5
+433,Anthony Vigorito,Sociology,4.7,9 ratings,N/A,1.6
+434,Guerra Lita,Music,3.0,1 ratings,0%,3
+435,Lita Guerra,Music,0.0,0 ratings,N/A,0
+436,Michael Mahometa,Mathematics,3.5,6 ratings,100%,3.2
+437,Mohan Ambikaiparker,Anthropology,4.0,1 ratings,N/A,3
+438,Werner Lang,Architecture,0.0,0 ratings,N/A,0
+439,Joe Kieke,Education,0.0,0 ratings,N/A,0
+440,Maria Gualdani,Mathematics,2.0,5 ratings,N/A,4.6
+441,Matt Chimera,Anthropology,5.0,1 ratings,N/A,1
+442,Brooke Rich,Classics,5.0,1 ratings,100%,4
+443,Kim Jones,Art History,4.0,1 ratings,N/A,1
+444,Jim Vick,Mathematics,2.5,1 ratings,N/A,4
+445,Samuel Baker,English,3.0,4 ratings,60%,3
+446,Andreana Haley,Psychology,4.0,6 ratings,100%,3.3
+447,Todd Humphreys,Engineering,2.5,3 ratings,100%,4.3
+448,James Vick,Mathematics,4.4,4 ratings,N/A,2.5
+449,Jason Shear,Chemistry,4.5,1 ratings,100%,3
+450,Joel Parker,Government,4.5,1 ratings,N/A,4
+451,Timothy Moore,Classics,3.5,1 ratings,N/A,5
+452,Samuel Workman,Government,3.6,20 ratings,100%,3.3
+453,Kyung Park,Languages,5.0,6 ratings,100%,1.2
+454,Christina Garcia,Ethnic Studies,4.0,2 ratings,N/A,2.5
+455,Dan Davis,Classics,0.0,0 ratings,N/A,0
+456,Billy Wood,Engineering,4.8,20 ratings,100%,1.5
+457,Donald Aynesworth,French & Italian,5.0,1 ratings,N/A,4
+458,Carlos Ovalle,Information Science,5.0,1 ratings,N/A,1
+459,Dacy Breana,Education,0.0,0 ratings,N/A,0
+460,Breana Dacy,Education,0.0,0 ratings,N/A,0
+461,Rachel Mazique,English,4.5,4 ratings,N/A,3.8
+462,Lifschitz Valdimir,Computer Science,2.9,7 ratings,0%,2.9
+463,Arno Bohm,Physics,0.0,0 ratings,N/A,0
+464,Philiip Leigh,English,3.0,1 ratings,N/A,2
+465,Cynthia Buckley,Sociology,0.0,0 ratings,N/A,0
+466,Andee Scott,Dance,0.0,0 ratings,N/A,0
+467,Lyn Wiltshire,Dance,3.0,2 ratings,100%,3.5
+468,Amanda Williams,Literature,3.7,3 ratings,100%,2
+469,Mary Field,English,3.5,2 ratings,N/A,3
+470,Vanessa Pattman,Chemistry,1.5,5 ratings,N/A,4.4
+471,Cassidy Browning,Theater,4.8,6 ratings,N/A,1.3
+472,Mary McAnelly,Biology,2.5,10 ratings,N/A,3
+473,Jamie Aprile,Classics,3.0,29 ratings,0%,3.5
+474,Miryung Kim,Engineering,2.5,4 ratings,N/A,3.8
+475,Sean Cashbaugh,English,4.5,2 ratings,N/A,3
+476,Hugh Cleve Wiese,English,4.7,3 ratings,N/A,1.7
+477,Andrew Howard,Languages,4.5,1 ratings,N/A,5
+478,Stephanie Somersille,Mathematics,2.0,6 ratings,N/A,3.8
+479,Tania Camacho,Music,1.2,5 ratings,N/A,4.2
+480,Jane Arledge,Mathematics,4.6,18 ratings,100%,2.6
+481,Elizabeth Garcia,Spanish & Portuguese,2.0,1 ratings,N/A,4
+482,Steve Takata,Biology,3.7,14 ratings,N/A,3.5
+483,Sacha Kopp,Physics,4.3,2 ratings,N/A,3.5
+484,Karen Chilstrom,Languages,4.3,2 ratings,N/A,2
+485,Dustin Stewart,English,3.0,1 ratings,N/A,3
+486,Katherine Arens,Women's Studies,3.8,9 ratings,100%,2.3
+487,Franklin Bronson,Biology,2.9,4 ratings,N/A,3
+488,Matthew Schmerer,Biology,2.0,3 ratings,N/A,4
+489,William Hurst,Government,4.0,1 ratings,N/A,5
+490,Angela Frederick,Sociology,4.8,2 ratings,N/A,2.5
+491,Adam Hughes,Mathematics,4.8,2 ratings,N/A,2
+492,Magnus Philip,Chemistry,2.5,2 ratings,N/A,3
+493,Virginia Garrard Burnett,History,5.0,1 ratings,N/A,3
+494,Ariane Beck,Engineering,4.5,1 ratings,N/A,3
+495,Matthew Rabatin,French & Italian,5.0,1 ratings,N/A,3
+496,Linda Henderson,Art History,4.6,20 ratings,85%,1.9
+497,Michael Granof,Accounting,0.0,0 ratings,N/A,0
+498,Malcolm Keating,Philosophy,4.0,3 ratings,N/A,3.3
+499,Thomas Tweed,Religion,4.3,5 ratings,N/A,1.2
+500,Lucinda Atkinson,Advertising,4.3,17 ratings,67%,2.2
+501,Vanessa Williams,Chemistry,0.0,0 ratings,N/A,0
+502,Evelyn Clingerman,Nursing,4.5,1 ratings,N/A,2
+503,Jeffrey Haack,Mathematics,3.0,2 ratings,N/A,3
+504,William Cook,Computer Science,4.5,2 ratings,100%,3
+505,Anwar Sounny-Slitine,Geography,5.0,6 ratings,100%,3
+506,Scott Nettles,Engineering,0.0,0 ratings,N/A,0
+507,Marcus Schwartz,Law,0.0,0 ratings,N/A,0
+508,George Kitto,Chemistry,1.8,2 ratings,N/A,4
+509,Boris Higgins,Economics,0.0,0 ratings,N/A,0
+510,Alex Grzankowski,Philosophy,4.8,2 ratings,N/A,2.5
+511,Beryl Simpson,Biology,0.0,0 ratings,N/A,0
+512,Karin Wilkins,Communication,5.0,4 ratings,N/A,3
+513,Susan Heinzelman,English,4.0,4 ratings,N/A,3.5
+514,Berrie O'Neal,Management,0.0,0 ratings,N/A,0
+515,Gamze Erturk,Communication,0.0,0 ratings,N/A,0
+516,Stephanie Dailey,Communication,4.6,4 ratings,N/A,4.5
+517,Allyne Rogers,Classics,0.0,0 ratings,N/A,0
+518,Shel Swenson,Mathematics,3.5,2 ratings,N/A,3.5
+519,Itzia Oscos,Education,0.0,0 ratings,N/A,0
+520,Landon Trent,History,4.8,3 ratings,N/A,3.3
+521,Nicola Davies,Biology,3.2,11 ratings,100%,4.1
+522,Laine Perez,English,4.5,2 ratings,N/A,2.5
+523,Willy Fischler,Physics,3.7,14 ratings,88%,3.1
+524,Deborah Little,Education,5.0,1 ratings,N/A,1
+525,Haran Boral,Computer Science,3.0,1 ratings,N/A,4
+526,W Gardener,Geology,0.0,0 ratings,N/A,0
+527,Matthew Flynn,Sociology,2.2,3 ratings,N/A,3.7
+528,Dimitrii Makarov,Chemistry,4.3,2 ratings,100%,1
+529,Unmil Karadkar,Information Science,3.5,1 ratings,N/A,3
+530,Paul Ritter,Not Specified,4.5,1 ratings,N/A,1
+531,Krishnaswa Ravi-Chandar,Engineering,2.9,20 ratings,58%,3.7
+532,Nikiko Masumoto,Fine Arts,4.5,1 ratings,N/A,2
+533,Umut Dur,Economics,0.0,0 ratings,N/A,0
+534,Erika Borden,Biology,3.6,18 ratings,0%,3.6
+535,Michael French,Spanish & Portuguese,5.0,1 ratings,N/A,1
+536,Sarah Dodson-Robinson,Astronomy,3.2,5 ratings,N/A,4.2
+537,Hafeez Jamali,Anthropology,3.8,3 ratings,N/A,2.7
+538,Aaron Hufty,Fine Arts,5.0,1 ratings,N/A,1
+539,Adam Coon,Spanish & Portuguese,5.0,1 ratings,N/A,2
+540,Gererd Brunick,Mathematics,4.8,2 ratings,N/A,2.5
+541,Jeannette Okur,Languages,4.6,7 ratings,100%,4.2
+542,Szu-Chi Huang,Marketing,3.5,1 ratings,N/A,3
+543,Anna Bjurman-Pautz,Philosophy,2.5,9 ratings,N/A,3.2
+544,Matthew Gildner,History,4.8,2 ratings,N/A,3.5
+545,Lesley Dean-Jones,Classics,2.2,4 ratings,50%,4
+546,Vincent Cicchirillo,Advertising,4.3,16 ratings,100%,2.1
+547,Robert Clark,Physics,1.0,1 ratings,N/A,5
+548,Katelyn Wood,Theater,4.5,1 ratings,N/A,2
+549,Brett Milburn,Mathematics,1.7,3 ratings,N/A,4.3
+550,Jerry Brand,Biology,3.3,12 ratings,N/A,3.3
+551,Patricia Arnold,Business,3.0,1 ratings,N/A,2
+552,Adnan Aziz,Engineering,2.8,3 ratings,N/A,2
+553,Sven Kroener,Not Specified,4.5,1 ratings,N/A,3
+554,Scott Kanoff,Theater,4.5,1 ratings,N/A,3
+555,Philip Magnus,Chemistry,1.0,1 ratings,N/A,1
+556,Snehal Shingavi,English,2.9,9 ratings,40%,3
+557,Diane Tyler,Nursing,0.0,0 ratings,N/A,0
+558,Nicholas Gaylord,Linguistics,3.8,3 ratings,N/A,2.3
+559,Charles Oughton,Classics,0.0,0 ratings,N/A,0
+560,Stuart Davis,Film,5.0,1 ratings,N/A,1
+561,Richard Quy,Chemistry,2.5,4 ratings,N/A,3.8
+562,Sarah Wagner,Linguistics,5.0,3 ratings,N/A,3
+563,Mary Hines,Biology,2.1,41 ratings,20%,4.5
+564,Luke Winslow,Communication,4.5,2 ratings,N/A,3
+565,Rong FU,Science,4.5,1 ratings,N/A,1
+566,Lazarus Pomara,Geography,2.0,1 ratings,N/A,3
+567,Anne-Victoire Kountz,French & Italian,4.8,4 ratings,N/A,3.5
+568,James Garrison,Not Specified,5.0,3 ratings,N/A,1.7
+569,Ian Proops,Philosophy,4.1,6 ratings,50%,3
+570,Sanghamitra Mohanty,Biology,3.0,2 ratings,N/A,1.5
+571,John McIver,Government,2.5,27 ratings,32%,3.2
+572,Terri Holbrook,Accounting,4.7,3 ratings,50%,4.3
+573,Karen Akre,Biology,1.7,3 ratings,N/A,4.3
+574,SI Yoon,Physical Education,5.0,1 ratings,N/A,1
+575,Romeo Hinajosa Smith,English,3.5,2 ratings,N/A,5
+576,Rafael Salaberry,Spanish & Portuguese,0.0,0 ratings,N/A,0
+577,Elizabeth Englehardt,Not Specified,2.0,1 ratings,N/A,5
+578,Allie De Beer,Not Specified,5.0,1 ratings,N/A,2
+579,Abraham Zilkha,Middle Eastern Studies,0.0,0 ratings,N/A,0
+580,Ekin Ozman,Mathematics,4.2,6 ratings,N/A,3
+581,Fritz Hensey,Spanish & Portuguese,0.0,0 ratings,N/A,0
+582,Lorenzo Candelaria,Music,5.0,6 ratings,100%,1
+583,Nora Berenstain,Philosophy,4.2,7 ratings,100%,3.6
+584,Olena Bormashenko,Mathematics,3.5,4 ratings,N/A,3.8
+585,Tinsley Oden,Engineering,0.0,0 ratings,N/A,0
+586,John Fondon,Biology,2.8,2 ratings,N/A,4.5
+587,Brenda Berkelaar,Communication,2.8,5 ratings,100%,4.2
+588,Thomas Adams Laborde,Languages,4.5,1 ratings,N/A,4
+589,Owen Hofmann,Computer Science,0.0,0 ratings,N/A,0
+590,Na'Ama Pat-El,Middle Eastern Studies,1.9,23 ratings,24%,3.8
+591,Jack Ritchie,Physics,2.1,4 ratings,N/A,3.3
+592,Arturo Arias,Spanish & Portuguese,1.5,3 ratings,N/A,4
+593,Ji Eun Lee,Psychology,5.0,1 ratings,N/A,1
+594,Teague Heather,Anthropology,1.3,2 ratings,N/A,3.5
+595,Miguel Ferguson,Social Work,4.7,5 ratings,100%,2.4
+596,Christine Schmidt,Engineering,0.0,0 ratings,N/A,0
+597,Cagri Karakurt,Mathematics,3.0,2 ratings,N/A,2.5
+598,Donald Winget,Astronomy,3.9,30 ratings,72%,2.7
+599,Ronnie Liggett,Economics,0.0,0 ratings,100%,0
+600,Joy Learman,Social Work,5.0,1 ratings,N/A,2
+601,Sarah James,Classics,3.9,5 ratings,N/A,4
+602,Francisco Barrenechea,Classics,1.3,3 ratings,N/A,5
+603,Laura Stien,Communication,0.0,0 ratings,N/A,0
+604,Adam Klivans,Computer Science,3.2,29 ratings,54%,3.9
+605,Marvin Hackert,Chemistry,0.0,0 ratings,N/A,0
+606,Daniel Young,Law,0.0,0 ratings,N/A,0
+607,Diana Pulido,Education,0.0,0 ratings,N/A,0
+608,Neal Daugherty,Fine Arts,4.7,7 ratings,100%,2
+609,Leslie Mutchler,Fine Arts,4.9,5 ratings,100%,2.6
+610,Thelma Coles,Fine Arts,0.0,0 ratings,N/A,0
+611,Troy Brauntuch,Fine Arts,1.4,4 ratings,25%,3
+612,Margo Sawyer,Fine Arts,2.7,5 ratings,34%,2.2
+613,Jason Leubner,English,0.0,0 ratings,N/A,0
+614,Kristine Hopkins,Sociology,4.5,4 ratings,N/A,3.5
+615,Josh Straub,Music,3.9,4 ratings,N/A,3.3
+616,Karen Engle,Law,3.8,2 ratings,N/A,3.5
+617,John Zhang,Engineering,0.0,0 ratings,N/A,0
+618,Joel Brereton,Religion,4.1,10 ratings,43%,2.8
+619,Chris Sneden,Astronomy,2.7,21 ratings,24%,3.2
+620,Elizabeth Danon-Leva,Marketing,0.0,0 ratings,N/A,0
+621,"Mc Neil, S. Mc Neil",Not Specified,0.0,0 ratings,N/A,0
+622,Michael Brenner,International Studies,1.5,2 ratings,N/A,3
+623,Jan Musekamp,History,0.0,0 ratings,N/A,0
+624,Mahyar Entezari,Middle Eastern Studies,0.0,0 ratings,N/A,0
+625,Lydia Nelson,Theater,4.5,1 ratings,N/A,3
+626,Kyle Schnack,Theater,5.0,1 ratings,N/A,1
+627,Tandy Warnow,Computer Science,2.1,11 ratings,40%,3.9
+628,John Dollard,Mathematics,4.1,6 ratings,N/A,3.2
+629,Brant Pope,Theater,0.0,0 ratings,N/A,0
+630,Graham McDougall,Nursing,3.5,1 ratings,N/A,1
+631,Francisco Gonzalez-Lima,Psychology,2.6,9 ratings,70%,4.2
+632,Raj Mukherjee,Business,4.5,1 ratings,N/A,5
+633,Gail Grabson,Chemistry,0.0,0 ratings,N/A,0
+634,Mien-Chie Hung,Not Specified,0.0,0 ratings,N/A,0
+635,Boris Zemelman,Biology,3.8,4 ratings,100%,4
+636,Lucia Osa-Melero,Spanish & Portuguese,3.7,4 ratings,100%,1.7
+637,Stephanie Jue,Business,4.9,8 ratings,100%,2.4
+638,Mark Smith,American Studies,4.4,7 ratings,100%,2.8
+639,William Kalahurka,Mathematics,3.2,11 ratings,N/A,3.4
+640,Nancy Prideaux,Not Specified,5.0,1 ratings,N/A,2
+641,Sarah Zaitchik,Communication,0.0,0 ratings,N/A,0
+642,Marjorie Foley,English,5.0,2 ratings,N/A,2
+643,Chadee Persad,Engineering,0.0,0 ratings,N/A,0
+644,Matt Tribbe,History,4.3,8 ratings,N/A,2.9
+645,Jason Roberts,Languages,4.8,9 ratings,100%,2.6
+646,Courtney Robinson,Social Work,5.0,3 ratings,100%,1.7
+647,Michael Mogavero,Fine Arts,4.5,2 ratings,N/A,2.5
+648,John (jack) Stoney,Fine Arts,4.0,7 ratings,100%,2.9
+649,Tom Druecker,Fine Arts,3.5,1 ratings,N/A,5
+650,Matt Guthrie,Physics,0.0,0 ratings,N/A,0
+651,John (woodshop) Cobb,Fine Arts,4.0,1 ratings,N/A,2
+652,Richard (sculpture Rick) Mansfield,Fine Arts,0.0,0 ratings,N/A,0
+653,John P Alexander,Mathematics,0.0,0 ratings,N/A,0
+654,Alexander Mamonov,Mathematics,3.7,3 ratings,N/A,3.3
+655,Amila Becirbegovic,Languages,5.0,1 ratings,N/A,3
+656,Luis Carcamo-Huechante,Spanish & Portuguese,4.5,1 ratings,100%,2
+657,Gideon Greif,History,4.5,1 ratings,N/A,3
+658,Chadi El Mohtar,Engineering,3.3,3 ratings,34%,3
+659,Alexander Rand,Mathematics,4.3,2 ratings,N/A,1.5
+660,Herbert Berk,Physics,2.6,9 ratings,100%,3.9
+661,Melissa Demos,Italian,4.0,1 ratings,N/A,2
+662,Jung-Fu Lin,Geology,3.9,11 ratings,93%,2.8
+663,Laura Squires,English,4.5,1 ratings,N/A,4
+664,Kathleen Barr,History,4.5,7 ratings,N/A,1.7
+665,James Daniels,Theater,5.0,2 ratings,N/A,1.5
+666,Elizabeth Goins,English,4.3,6 ratings,100%,3.7
+667,Jesse Miller,Mathematics,2.1,87 ratings,29%,4.3
+668,Michael Cucher,Ethnic Studies,4.9,5 ratings,N/A,2.8
+669,Ashley Barrett,Communication,3.9,4 ratings,N/A,3.3
+670,Hanna Bennett,Mathematics,3.8,3 ratings,N/A,2.3
+671,Aimee Lawrence,Linguistics,4.5,1 ratings,N/A,2
+672,Natashia Lindsey,Theater,4.5,2 ratings,N/A,1.5
+673,Enrico Grube,Philosophy,4.3,2 ratings,N/A,4.5
+674,Claire Meadows Parrish,Spanish & Portuguese,4.8,2 ratings,100%,2.5
+675,Edmund Emmer,Education,0.0,0 ratings,N/A,0
+676,Samuel Taylor,Mathematics,5.0,1 ratings,N/A,5
+677,Beatrice Mabrey,Italian,5.0,3 ratings,N/A,2.7
+678,Kerri Stephens,Communication,5.0,4 ratings,100%,2
+679,Ilyas Iyoob,Engineering,0.0,0 ratings,N/A,0
+680,Luis Sandoval,Spanish & Portuguese,5.0,1 ratings,N/A,1
+681,Dan Lendzian,Theater,5.0,2 ratings,N/A,1.5
+682,Amber O'connor,Anthropology,3.5,4 ratings,N/A,4.3
+683,Chandra Muller,Sociology,1.6,4 ratings,0%,4.3
+684,Jonathan MacLellan,Classics,3.3,2 ratings,100%,3.5
+685,Paula Murray,Law,4.7,9 ratings,93%,2.3
+686,Javier Chavez-Dominguez,Mathematics,2.6,6 ratings,0%,3.3
+687,Eric Edwards,Italian,1.0,1 ratings,N/A,3
+688,Christina Gutierrez,Theater,0.0,0 ratings,N/A,0
+689,Sharon Strover,Film,3.6,9 ratings,34%,3.4
+690,Amy Meeks,Psychology,4.0,10 ratings,100%,1.5
+691,Alfred Martin,Communication,2.5,3 ratings,N/A,4.3
+692,Bruce Rodenborn,Physics,3.8,2 ratings,N/A,4
+693,Anna Spice,Mathematics,3.9,17 ratings,100%,3.4
+694,Scott Nelson,English,4.0,1 ratings,N/A,4
+695,Lokeilani Kaimana,Film,3.3,3 ratings,N/A,4.3
+696,Stephen Davey,Philosophy,3.0,2 ratings,N/A,2.5
+697,Michael Hillmann,Middle Eastern Studies,4.1,7 ratings,80%,2.3
+698,Travis Johnson,Finance,2.9,8 ratings,43%,4
+699,Fernando Charro,Mathematics,4.6,5 ratings,100%,2.8
+700,David Hull,Engineering,1.5,1 ratings,N/A,5
+701,Juan Colomina-Alminana,Philosophy,3.0,16 ratings,58%,2.1
+702,Luis Gordo-Pelaez,Art History,4.5,3 ratings,N/A,3
+703,Mark Metzler,History,3.8,5 ratings,50%,2.8
+704,John Bybee,Education,3.3,3 ratings,N/A,2.3
+705,William Bargmann,Biology,4.1,6 ratings,100%,3.8
+706,Amy Bryan,Women's Studies,5.0,3 ratings,N/A,1
+707,Tuti Alawiyah,Social Work,0.0,0 ratings,N/A,0
+708,Rusty Todd,Journalism,5.0,1 ratings,100%,2
+709,Jeremy Smyczek,Writing,5.0,1 ratings,N/A,1
+710,Lynsey Romo,Communication,5.0,1 ratings,N/A,2
+711,James Staig,Spanish & Portuguese,2.5,3 ratings,0%,3.3
+712,Hervé Picherit,French & Italian,4.8,4 ratings,100%,2.7
+713,James Wiedner,English,0.0,0 ratings,N/A,0
+714,Michael Raney,Advisor,4.0,1 ratings,100%,2
+715,Brittany Wright,Women's Studies,5.0,1 ratings,N/A,2
+716,Robert Freeman,Music,1.0,1 ratings,N/A,2
+717,Marilyn Pattillo,Nursing,0.0,0 ratings,N/A,0
+718,David Sena,Asian Studies,2.9,7 ratings,N/A,4.4
+719,Nicole Guidotti-Hernández,American Studies,3.0,4 ratings,50%,3
+720,Nancy Roser,Education,0.0,0 ratings,N/A,0
+721,Mathew Sturtevant,Journalism,5.0,1 ratings,N/A,4
+722,François Lagarde,French & Italian,0.0,0 ratings,N/A,0
+723,Michael Lopez,Education,3.8,4 ratings,100%,1.3
+724,Randall Geller,Middle Eastern Studies,4.8,2 ratings,N/A,2.5
+725,Ruramisai Charumbira,History,3.3,8 ratings,N/A,3.1
+726,Sally Amen,Mathematics,4.2,7 ratings,100%,2.7
+727,Glenn Frankel,Journalism,5.0,2 ratings,N/A,2
+728,Pawan Kumar,Astronomy,3.5,16 ratings,38%,3.4
+729,Marcus Payzant,Fine Arts,5.0,2 ratings,N/A,1
+730,Daniel Hamermech,Economics,0.0,0 ratings,N/A,0
+731,Linda Spain,Business,0.0,0 ratings,N/A,0
+732,Colleen Montgomery,Film,4.3,5 ratings,67%,3.4
+733,Zach Childers,Linguistics,3.5,7 ratings,25%,3.9
+734,Amy Guenther,Theater,4.1,4 ratings,N/A,1.5
+735,Mircea Driga,Engineering,3.7,3 ratings,N/A,3.3
+736,Anne Hansen,Biology,5.0,3 ratings,100%,1
+737,Ahmed Helal,Science,4.3,3 ratings,100%,1.7
+738,Michael Barrett,Business,2.2,12 ratings,13%,4
+739,James Loehlin,English,5.0,1 ratings,100%,3
+740,Harel Shapira,Sociology,4.3,19 ratings,95%,1.8
+741,Dorrel Spitzer-Hanks,Writing,4.4,3 ratings,100%,3
+742,Julian Cheng,Engineering,1.5,2 ratings,N/A,4.5
+743,Alex Cho,Asian Studies,5.0,1 ratings,N/A,1
+744,Olson Suzan,Mathematics,1.0,2 ratings,N/A,5
+745,Debra Lopez,Pharmacy,5.0,1 ratings,N/A,4
+746,Kyle Miller,Biology,3.3,7 ratings,0%,3.4
+747,Kristen Layton,Nursing,0.0,0 ratings,N/A,0
+748,Randall Marrett,Geology,4.6,4 ratings,N/A,2.5
+749,Andrew Villalon,History,3.6,5 ratings,100%,2.8
+750,Suzan Olson,Mathematics,1.5,2 ratings,N/A,3.5
+751,Nicole Martin,Theater,4.0,1 ratings,N/A,3
+752,John La Claire,Biology,2.0,1 ratings,N/A,3
+753,David Brown,Engineering,2.8,8 ratings,75%,3.4
+754,Kate Green,Art History,3.8,8 ratings,50%,2.5
+755,Dominique Batiste,Anthropology,5.0,2 ratings,N/A,4
+756,Stefanie Leacock,Biology,4.1,14 ratings,0%,3.9
+757,Brady Cox,Engineering,4.5,2 ratings,100%,3.5
+758,Gerald Bart Pitchford,Theater,4.5,4 ratings,N/A,1.5
+759,Hossein Namazi,Mathematics,2.5,3 ratings,N/A,3.3
+760,Heather Buffington-Anderson,Music,5.0,1 ratings,N/A,1
+761,Jeff Michno,Spanish & Portuguese,5.0,1 ratings,N/A,1
+762,Arwa Sankari,Education,5.0,1 ratings,N/A,1
+763,Kate Dawson,Journalism,5.0,2 ratings,100%,4.5
+764,Kristin Wolfe Jensen,Music,5.0,3 ratings,100%,4
+765,Bjorn Hegelich,Physics,1.5,10 ratings,0%,4.5
+766,Ahmed Ghappour,Law,5.0,1 ratings,N/A,2
+767,Robin Benzrihem,French & Italian,3.4,14 ratings,0%,3.1
+768,Jake Cowan,Writing,5.0,2 ratings,N/A,1.5
+769,Erin Nelson,Communication,4.0,5 ratings,N/A,3.6
+770,Jeffery Johanns,Accounting,4.4,4 ratings,50%,4.2
+771,Ariel Helfer,Government,3.1,6 ratings,N/A,3.8
+772,Jeremy Fortier,Government,0.0,0 ratings,N/A,0
+773,Jennifer Lamm,Government,3.2,19 ratings,45%,2.3
+774,Simon Humphrey,Chemistry,2.6,6 ratings,34%,3.3
+775,Scott Wolford,Government,4.8,6 ratings,100%,2.5
+776,Kim Tallbear,Anthropology,5.0,2 ratings,N/A,3.5
+777,Jordan Dospil,English,4.5,1 ratings,N/A,1
+778,Hugh Daigle,Engineering,0.0,0 ratings,100%,0
+779,Terri Givens,Government,4.0,1 ratings,N/A,4
+780,Regina Mills,English,3.0,2 ratings,0%,3.5
+781,Leah Geer,Linguistics,5.0,2 ratings,N/A,1
+782,Francisco Polidoro,Management,0.0,0 ratings,N/A,0
+783,Mike Lock,Mathematics,3.2,7 ratings,N/A,3
+784,Michael Borden,Engineering,1.5,2 ratings,N/A,4.5
+785,Matt Cohen,English,5.0,2 ratings,100%,3
+786,Gary Borich,Education,1.0,1 ratings,100%,5
+787,Frank Cross,Law,0.0,0 ratings,N/A,0
+788,Ngoc Tran,Mathematics,2.9,4 ratings,34%,3.5
+789,Jeanmarie Lord,Accounting,5.0,1 ratings,N/A,3
+790,Collin Hansen,Economics,3.0,1 ratings,N/A,5
+791,Regina Goodnow,Government,4.3,6 ratings,100%,2.5
+792,Richard Bouchard,Engineering,0.0,0 ratings,N/A,0
+793,Gregory Palmer,Biology,4.8,17 ratings,100%,2.5
+794,Erin Muller,Social Science,2.5,3 ratings,N/A,3.3
+795,John Mote,Management & Info Systems,2.8,8 ratings,50%,2.8
+796,Jenny Fischer,Languages,5.0,1 ratings,N/A,3
+797,Travis Schedler,Mathematics,0.0,0 ratings,N/A,0
+798,Frank Wigham,English,3.0,1 ratings,0%,4
+799,Daniel O'Toole,Government,3.0,5 ratings,N/A,3.2
+800,Jason Ferrell,Psychology,4.5,8 ratings,N/A,2.9
+801,Robert Cabrera,Nutrition,3.7,6 ratings,0%,3.7
+802,Alexander Walthall,Classics,4.8,11 ratings,100%,2.5
+803,Robert Hummer,Sociology,4.0,3 ratings,N/A,2
+804,Wei-Na Lee,Advertising,2.0,6 ratings,0%,3.8
+805,Chad Rea,Advertising,3.9,11 ratings,86%,3.5
+806,Benjamin Wyeth,Advertising,4.6,5 ratings,N/A,1.8
+807,Vijay Reddi,Engineering,3.0,2 ratings,0%,1
+808,James Sham,Fine Arts,0.0,0 ratings,N/A,0
+809,John Hatfield,Economics,5.0,1 ratings,100%,4
+810,Johann Hofmann,Biology,0.0,0 ratings,N/A,0
+811,Drew Thornley,Business,5.0,2 ratings,N/A,2.5
+812,Sarah Frank,English,0.0,0 ratings,N/A,0
+813,Pedro Morales,Mathematics,3.7,24 ratings,53%,3.1
+814,Beau Thorne,Film,0.0,0 ratings,N/A,0
+815,Sean Roberts,Chemistry,4.6,8 ratings,100%,4
+816,Younghun Hong,Mathematics,2.7,12 ratings,100%,3.3
+817,Christen Smith,Anthropology,4.8,6 ratings,100%,2.8
+818,Sterling Allen,Fine Arts,0.0,0 ratings,N/A,0
+819,Maggie Tate,Sociology,2.0,3 ratings,N/A,2.7
+820,Bob Buckalew-Garcia,Journalism,4.4,6 ratings,100%,2.2
+821,Aubrey Plourde,English,4.7,3 ratings,100%,2.7
+822,Greg Plaxton,Computer Science,2.1,9 ratings,45%,4.2
+823,Robert Dickerson,Computer Science,3.9,13 ratings,N/A,3.4
+824,Jocelyn Wright,French Italian,5.0,5 ratings,100%,2.2
+825,Jerod Patterson,Government,0.0,0 ratings,N/A,0
+826,Leticia Hinojosa,Art History,0.0,0 ratings,N/A,0
+827,Yuan He,Mathematics,2.3,32 ratings,31%,3.7
+828,Susan Empson,Education,0.0,0 ratings,N/A,0
+829,Oleksi Mostovyi,Mathematics,2.0,4 ratings,N/A,4
+830,Luke Montzingo,Physical Education,0.0,0 ratings,N/A,0
+831,Clémence Ozel,French Italian,5.0,4 ratings,100%,2.5
+832,Sumit Guha,History,3.0,5 ratings,75%,3.4
+833,Elizabeth Erbeznik,French Italian,4.8,5 ratings,N/A,2.8
+834,Brianna Figueroa,Theater,3.7,10 ratings,N/A,2.8
+835,David Kirk,Sociology,4.0,1 ratings,N/A,3
+836,Samuel Wilson,Anthropology,3.6,4 ratings,100%,3.3
+837,Alba Serano,Social Work,1.3,2 ratings,0%,4
+838,Jonathan Campbell,Mathematics,2.7,3 ratings,N/A,4.3
+839,Tammi Stout,Linguistics,3.3,2 ratings,N/A,3.5
+840,Jonathan Vanderhoek,Philosophy,0.0,0 ratings,N/A,0
+841,George Sudarshan,Physics,1.4,6 ratings,N/A,4.2
+842,Stephen Wille,Advertising,2.8,19 ratings,54%,2.1
+843,Greg Frebourg,Geology,3.0,2 ratings,100%,3
+844,Jason Schroepfer,Middle Eastern Studies,4.2,5 ratings,N/A,4
+845,Lisa Boucher,Biology,1.9,54 ratings,9%,4.2
+846,Matt Valentine,Writing,4.5,2 ratings,100%,2.5
+847,Jon Litland,Philosophy,4.3,7 ratings,100%,3.7
+848,Sean Kerwin,Pharmacy,3.8,2 ratings,N/A,3
+849,Hillel Ofek,Government,3.3,3 ratings,N/A,3
+850,Lauren Terzenbach,Linguistics,1.9,9 ratings,N/A,4.2
+851,Kyle Wrather,Communication,4.7,3 ratings,100%,2.3
+852,Connie Steel,Writing,3.8,6 ratings,88%,3.3
+853,Daniel Smith,Writing,4.5,1 ratings,N/A,3
+854,Moon-Jin Kang,Mathematics,2.3,14 ratings,34%,3.7
+855,Bryan Davies,Science,5.0,2 ratings,100%,3
+856,Aimee Hosemann,Anthropology,4.8,11 ratings,N/A,1.4
+857,Neal Hall,Engineering,4.6,6 ratings,100%,3.5
+858,Andrew Boss,Music,0.0,0 ratings,N/A,0
+859,Ryessia Jones,Communication,2.5,1 ratings,N/A,4
+860,Han Li,Mathematics,0.0,0 ratings,N/A,0
+861,Barbara Davis,Communication,3.0,3 ratings,0%,2.7
+862,Kyle Jerro,Linguistics,4.7,4 ratings,100%,2.3
+863,Lee Thompson,Computer Science,5.0,1 ratings,N/A,3
+864,Scott Nelson,Writing,4.5,1 ratings,N/A,3
+865,Pablo Duran Oliva,Spanish Portuguese,3.7,7 ratings,50%,3.3
+866,Purnamrita Sarkar,Computer Science,3.4,3 ratings,100%,4.3
+867,Caroline Thomas,Economics,3.0,8 ratings,17%,4.7
+868,Jeffrey Meikle,American Studies,2.0,4 ratings,0%,4.2
+869,Maegan Stephens,Business,2.8,2 ratings,100%,3.5
+870,Viola Green,French Italian,4.0,4 ratings,67%,3
+871,Jessica Price,Government,3.8,3 ratings,N/A,3.3
+872,Nathan Clement,Computer Science,3.1,13 ratings,86%,3.2
+873,Shannon Stokes,Chemistry,4.2,5 ratings,100%,1.6
+874,Neal Evans,Education,2.5,2 ratings,N/A,4
+875,Sakina Jangbar,Communication,3.3,2 ratings,0%,3
+876,Vaibhav Bahadur,Engineering,3.0,2 ratings,80%,4.5
+877,Xavier Ros-Oton,Mathematics,3.7,12 ratings,100%,2.5
+878,David Simmons,Linguistics,5.0,1 ratings,N/A,2
+879,Cydney Medford,Communication,0.0,0 ratings,N/A,0
+880,Amanda Moore,French Italian,4.0,1 ratings,N/A,3
+881,Ned Dimitrov,Engineering,5.0,1 ratings,N/A,1
+882,James Mauseth,Biology,4.0,1 ratings,N/A,3
+883,Adrian Popan,Sociology,1.0,2 ratings,N/A,4.5
+884,Anne Major,Communication,5.0,2 ratings,100%,1
+885,Benjamin Cox,Religion,4.2,3 ratings,100%,4
+886,Jacob Ford,Communication,2.8,2 ratings,N/A,4
+887,Jacob Claussen,Science,5.0,1 ratings,N/A,1
+888,Chien-Hsin Tsai,Asian Studies,5.0,2 ratings,100%,2.5
+889,Yvette DeChavez,English,4.5,1 ratings,N/A,2
+890,Dale Koike,Spanish Portuguese,4.4,5 ratings,100%,2.6
+891,Lorraine Leu,Spanish Portuguese,4.9,3 ratings,100%,1.7
+892,Bethany McLemore,Music,3.7,7 ratings,50%,4.3
+893,Brenda Gallardo,English,5.0,2 ratings,N/A,4
+894,Amy Liu,Government,4.3,10 ratings,91%,2.5
+895,Karen Silcox,Social Science,5.0,1 ratings,N/A,2
+896,Tess Moon,Engineering,1.0,4 ratings,0%,4.3
+897,Robert Young,Architecture,0.0,0 ratings,N/A,0
+898,Charlee Garden,Management,4.7,3 ratings,N/A,3
+899,Deborah Bolnick,Anthropology,5.0,1 ratings,N/A,1
+900,Patrick Badalado,Business,1.0,1 ratings,0%,5
+901,Rhiannon Goad,English,4.5,2 ratings,100%,3.5
+902,Domino Perez,English,4.1,15 ratings,72%,3.6
+903,Katie van Winkle,Theater,4.3,6 ratings,100%,1.8
+904,Rajiv Garg,Management Info Systems,3.5,2 ratings,N/A,4.5
+905,Olga Koutseridi,Classics,0.0,0 ratings,N/A,0
+906,JJ Riekenberg,Journalism,0.0,0 ratings,N/A,0
+907,JJ Riekenberg,Management,4.4,6 ratings,100%,4.2
+908,Gerhardt Zimmermann,Music,0.0,0 ratings,N/A,0
+909,Elisa Cooper,Chemistry,4.0,8 ratings,100%,3
+910,Amy Booth,Psychology,3.7,5 ratings,75%,2.8
+911,Sam Vong,History,3.8,15 ratings,82%,2.9
+912,Bubacarr Bah,Mathematics,1.0,1 ratings,N/A,4
+913,Ryan Thorpe,Engineering,5.0,1 ratings,N/A,1
+914,Guangbin Dong,Chemistry,3.0,5 ratings,N/A,3.2
+915,David Schaefer,English,5.0,1 ratings,N/A,4
+916,Kevin Christmas,Biology,4.0,8 ratings,100%,4.2
+917,Marie Lawn,Mathematics,5.0,1 ratings,N/A,3
+918,Alan Reid,Mathematics,3.8,6 ratings,N/A,2.7
+919,Erin Donovan,Communication,4.3,2 ratings,100%,3
+920,Shelley Nicholson,Education,3.5,1 ratings,N/A,2
+921,Mark Hand,Government,0.0,0 ratings,N/A,0
+922,Don Carlo Goduto,Classics,3.1,6 ratings,N/A,3.8
+923,Michele Deitch,Law,0.0,0 ratings,N/A,0
+924,Veronica Covington,Information Science,0.0,0 ratings,N/A,0
+925,Brittany Froese,Mathematics,3.7,4 ratings,0%,2.8
+926,Amanda Zappler,Communication,3.8,2 ratings,N/A,2.5
+927,Nadya Clayton,Languages,4.0,1 ratings,100%,4
+928,Tyson Echelle,Spanish Portuguese,3.5,2 ratings,N/A,2.5
+929,Daniela Carter,Languages,0.0,0 ratings,N/A,0
+930,David Lambert,Astronomy,3.0,4 ratings,N/A,4.5
+931,David Lambert,Science,2.5,1 ratings,N/A,4
+932,Gregory Fiete,Physics,4.0,1 ratings,100%,3
+933,Ellen Bartel,Dance,0.0,0 ratings,N/A,0
+934,Barbara Pope,Theater,2.0,2 ratings,N/A,4
+935,John Yeazell,Physics,3.9,17 ratings,96%,3.1
+936,Alisha Bohnsack,Chemistry,3.8,15 ratings,67%,3.3
+937,Tinisha Hancock,Biology,3.9,20 ratings,100%,3.2
+938,Jason Goldstein,Art History,5.0,33 ratings,100%,1.8
+939,Daina Berry,History,4.9,5 ratings,100%,2.8
+940,Alexandro Ramirez,Theater,0.0,0 ratings,N/A,0
+941,Suzanne Scott,Film,3.9,8 ratings,63%,3.3
+942,Elizabeth Pomeroy,Social Work,4.8,8 ratings,100%,1.4
+943,Giang Tran,Mathematics,2.6,16 ratings,100%,3.9
+944,Brianna Figueroa,Communication,3.0,1 ratings,N/A,5
+945,Charles Anderson,Dance,4.0,1 ratings,N/A,4
+946,Leonard Kleinman,Physics,0.0,0 ratings,N/A,0
+947,Kathleen Feyh,Communication,0.0,0 ratings,N/A,0
+948,David Small,Music,4.5,1 ratings,N/A,2
+949,Katherine Jensen,Sociology,5.0,1 ratings,N/A,1
+950,Hasan Genc,Engineering,0.0,0 ratings,N/A,0
+951,Yukiko Asano,Languages,4.0,2 ratings,N/A,2.5
+952,Harold Williams,Mathematics,0.0,0 ratings,N/A,0
+953,Nicholaz Zufelt,Mathematics,0.0,0 ratings,N/A,0
+954,Jules Elkins,Geography,4.5,8 ratings,89%,1.9
+955,Tia Butler,Spanish Portuguese,5.0,5 ratings,100%,2.8
+956,Travis Marcum,Music,5.0,1 ratings,100%,2
+957,Shannon Mcgregor,Journalism,5.0,2 ratings,N/A,3
+958,Sang-Hoon Park,Asian Studies,5.0,2 ratings,100%,1
+959,Peter Rehberg,Ethnic Studies,4.0,1 ratings,N/A,3
+960,Alexandria Garcia,Marine Sciences,5.0,5 ratings,100%,1
+961,Andrew Henderson,Business,0.0,0 ratings,N/A,0
+962,Elizabeth Picherit,Writing,4.8,2 ratings,100%,2.5
+963,Marnie Ritchie,Communication,4.7,3 ratings,N/A,3
+964,Theresa O'Halloran,Biology,4.8,7 ratings,100%,2.7
+965,Martin Cox,Communication,5.0,1 ratings,N/A,4
+966,Stephen Bright,Psychology,2.8,24 ratings,43%,2.5
+967,Megan Hyska,Philosophy,3.3,3 ratings,67%,4.7
+968,Benjamin Hardee,Government,3.7,9 ratings,72%,3
+969,Marvin Whiteley,Biology,4.9,3 ratings,100%,3
+970,Scott Hanna,Fine Arts,2.7,6 ratings,75%,1.8
+971,Cornelia Loos,Linguistics,4.0,3 ratings,100%,3
+972,Allison Myers,Art History,4.2,3 ratings,100%,3.7
+973,James Cox,Literature,3.8,12 ratings,75%,3.5
+974,Amina Zarrugh,Sociology,4.3,6 ratings,75%,3
+975,Andrew Butler,Education,4.5,2 ratings,100%,3
+976,Tomoko Sakuma,Asian Studies,4.8,5 ratings,100%,1.8
+977,Evan Rap,History,4.3,3 ratings,N/A,2.3
+978,Emily Sparvero,Education,3.7,3 ratings,100%,2
+979,Amy Holland,Nursing,1.5,5 ratings,20%,3.8
+980,Sara Saylor,English,4.3,2 ratings,N/A,3.5
+981,James Bull,Biology,4.2,19 ratings,78%,2.7
+982,Anton Dochtermann,Mathematics,4.2,6 ratings,100%,2.8
+983,Laura Murphy,Nursing,0.0,0 ratings,N/A,0
+984,Hannah Durham,Music,5.0,2 ratings,N/A,2.5
+985,Matt Richardson,English,5.0,1 ratings,100%,1
+986,Christopher Taylor,English,4.3,2 ratings,N/A,3
+987,R.B. Brenner,Journalism,4.9,3 ratings,100%,1.7
+988,Lucia Palmer,Communication,4.5,1 ratings,N/A,2
+989,Patrick Vilim,Italian,4.8,2 ratings,100%,3
+990,Cecil Lee,Physical Education,5.0,2 ratings,100%,1
+991,Pam Harris,Education,5.0,1 ratings,N/A,3
+992,Saba Vlach,Education,5.0,1 ratings,N/A,3
+993,Barbara Jansen,Information Science,3.2,5 ratings,100%,3.6
+994,Azfar Moin,Religion,2.8,5 ratings,50%,3.4
+995,Anna Collette,Fine Arts,4.5,1 ratings,N/A,3
+996,Lisa Thompson,Theater,3.3,2 ratings,N/A,2
+997,Annie Silverstein,Film,3.0,1 ratings,N/A,4
+998,Emily Durden,Sociology,4.0,6 ratings,100%,2.5
+999,Lester Faigley,Writing,5.0,1 ratings,N/A,3
+1000,Cyndy Karras,Information Science,3.5,1 ratings,N/A,3
+1001,Andreas Christopoulos,Finance,1.5,1 ratings,N/A,4
+1002,Lorinc Redei,Political Science,4.0,1 ratings,N/A,3
+1003,Sheila Olmstead,Economics,5.0,1 ratings,N/A,1
+1004,Erin Lentz,Social Science,4.5,1 ratings,N/A,2
+1005,Philip Bobbitt,Law,3.0,1 ratings,N/A,3
+1006,Kenneth Flamm,Economics,0.0,0 ratings,N/A,0
+1007,Michael Mauk,Biology,4.5,10 ratings,92%,3.3
+1008,Natalie Poulos,Nutrition,3.6,5 ratings,34%,3.6
+1009,Thomas Hunt,Kinesiology Health,4.3,2 ratings,100%,3
+1010,Jake Galgon,Philosophy,4.3,2 ratings,100%,1.5
+1011,Dean Appling,Science,3.5,1 ratings,N/A,3
+1012,Lizhen Lin,Mathematics,2.8,2 ratings,N/A,3
+1013,Eric Korman,Mathematics,3.9,3 ratings,100%,3.3
+1014,Elisa Valentini,Italian,5.0,2 ratings,100%,3
+1015,Creighton Moench,Music,3.0,7 ratings,100%,3.1
+1016,Michael Pesenson,Ethnic Studies,3.4,6 ratings,60%,2.5
+1017,Per Urlaub,Ethnic Studies,4.0,4 ratings,100%,3.3
+1018,Erika Grajeda,Sociology,3.0,1 ratings,N/A,4
+1019,Jeremy Lupo,Philosophy,2.5,1 ratings,N/A,4
+1020,Ockhee Bego,Social Science,4.0,7 ratings,60%,2
+1021,yan zhang,Information Science,3.0,1 ratings,N/A,2
+1022,Robert Gilbert,Civil Engineering,4.7,3 ratings,100%,3.7
+1023,Ayelet Lushkov,Humanities,4.9,3 ratings,100%,2.7
+1024,Martin Tombari,Education,4.2,14 ratings,84%,2.3
+1025,Tan Bui,Engineering,4.0,1 ratings,100%,2
+1026,Elizabeth Doss,Theater,0.0,0 ratings,N/A,0
+1027,Chung-Hao Lee,Computer Science,5.0,1 ratings,N/A,2
+1028,Seth Frei,Communication,4.9,4 ratings,100%,2.8
+1029,Marina Potoplyak,Languages,5.0,8 ratings,100%,2.2
+1030,Yekaterina Cotey,Languages,4.5,1 ratings,N/A,2
+1031,Shu Chan,Asian Studies,1.3,3 ratings,N/A,3
+1032,Tshepo Chery,History,5.0,7 ratings,100%,2.8
+1033,William GBLERKPOR,Anthropology,0.0,0 ratings,N/A,0
+1034,Melody Chatelle,Communication,0.0,0 ratings,N/A,0
+1035,Joshua Baer,Computer Science,5.0,1 ratings,100%,4
+1036,Joshua Sears,Writing,5.0,3 ratings,100%,2.3
+1037,Scott Blackshire,Theater,2.8,21 ratings,60%,3.2
+1038,Janice Todd,Kinesiology Health,3.5,1 ratings,N/A,3
+1039,Daniel FitzPatrick,Education,5.0,7 ratings,100%,3
+1040,Michael Drew,Biology,0.0,0 ratings,N/A,0
+1041,Jesi Egan,English,5.0,2 ratings,100%,2
+1042,Todd Hutner,Education,0.0,0 ratings,N/A,0
+1043,Jonathan Drake,Philosophy,4.8,5 ratings,100%,3.2
+1044,Ted Cruz,Law,0.0,0 ratings,N/A,0
+1045,Michelle Mott,Sociology,3.0,3 ratings,0%,3
+1046,Chad Brock,Biology,4.0,1 ratings,N/A,2
+1047,David Sayers,Music,5.0,1 ratings,100%,2
+1048,James Walker,Design,4.8,4 ratings,100%,3.8
+1049,Anthony Webster,Anthropology,4.0,7 ratings,75%,3.3
+1050,Blanca Chumbes,Education,1.0,1 ratings,N/A,5
+1051,Elissa Marek,American Studies,3.0,3 ratings,100%,2.7
+1052,Barbara Harlow,English,4.8,2 ratings,100%,1.5
+1053,Edwin Roman-Ramirez,Spanish Portuguese,4.0,3 ratings,67%,3
+1054,Gail Chovan,Design,4.5,1 ratings,N/A,2
+1055,Mary Anne Taylor,Communication,4.7,7 ratings,100%,3.6
+1056,Viorica Teodorescu,Linguistics,2.0,4 ratings,25%,4.3
+1057,Jacqueline Henkel,Writing,4.0,2 ratings,100%,4
+1058,Rebecca Young Brim,Biology,3.8,2 ratings,100%,2.5
+1059,Shefali Patil,Management,4.5,4 ratings,100%,2.5
+1060,Alessandro Previtero,Finance,2.0,1 ratings,N/A,2
+1061,Yue Wang,Accounting,2.5,1 ratings,N/A,1
+1062,Margaret Syverson,Writing,0.0,0 ratings,N/A,0
+1063,Karen Wickett,International Studies,3.0,1 ratings,N/A,5
+1064,Lance Hayden,International Studies,0.0,0 ratings,N/A,0
+1065,Heath Shultz,Fine Arts,0.0,0 ratings,N/A,0
+1066,James Denbow,Anthropology,3.0,2 ratings,50%,2
+1067,Brandon Campitelli,Biology,5.0,1 ratings,100%,3
+1068,Rafael Mendoza-Arriaga,Information Science,1.0,1 ratings,0%,3
+1069,Tim Keitt,Biology,3.0,2 ratings,50%,3.5
+1070,Michael Flexsenhar,Religion,4.0,2 ratings,100%,2.5
+1071,Ahmed Siddiqi,Government,4.6,5 ratings,100%,3.6
+1072,James Vaughn,History,4.5,11 ratings,91%,2.6
+1073,Lucy Hunt,Humanities,4.0,1 ratings,100%,2
+1074,Andrew Glover,Economics,4.7,3 ratings,100%,3.3
+1075,Marcelo Behar,Engineering,2.0,5 ratings,20%,4.2
+1076,Ayca Arkilic,Government,5.0,2 ratings,100%,4
+1077,Sheena McFeely,Languages,0.0,0 ratings,N/A,0
+1078,Adrian Ward,Marketing,4.8,5 ratings,80%,3.2
+1079,Daniel Stockli,Geology,4.6,5 ratings,100%,2.8
+1080,Natasa Pavlovic,Mathematics,3.7,3 ratings,67%,3.3
+1081,Dwight Steward,Economics,4.5,8 ratings,88%,2.3
+1082,Jennifer Miller,Geography,3.1,7 ratings,63%,3.6
+1083,LaTashia Kiel,Nursing,1.0,1 ratings,0%,3
+1084,Lubjana Beshaj,Mathematics,3.9,15 ratings,80%,3.5
+1085,Kavita Radhakrishnan,Nursing,0.0,0 ratings,N/A,0
+1086,Sarah Sipe,Chemistry,0.0,0 ratings,N/A,0
+1087,Richard Meyer,Biology,1.0,1 ratings,0%,5
+1088,Raymond Mooney,Computer Science,5.0,2 ratings,100%,2.5
+1089,Megan Neely,Sociology,4.5,2 ratings,100%,2.5
+1090,Yun-Sik Choi,Business,1.8,8 ratings,25%,3.4
+1091,Jane Cohen,Law,5.0,2 ratings,100%,2
+1092,Richard Cleary,Architecture,5.0,1 ratings,100%,3
+1093,Abrias Abel,Spanish Portuguese,5.0,1 ratings,100%,2
+1094,cristian paredes,Social Science,0.0,0 ratings,N/A,0
+1095,Renee Acosta,Pharmacy,5.0,8 ratings,100%,1.1
+1096,Davit Davtyan,Advertising,5.0,1 ratings,100%,2
+1097,Abel Arias,Spanish Portuguese,0.0,0 ratings,N/A,0
+1098,Karen Royall,English,5.0,2 ratings,100%,2.5
+1099,Myranda Harris,Music,1.0,4 ratings,0%,5
+1100,Michael Cramer,Advertising,3.0,1 ratings,100%,2
+1101,Alexis Scott,Theater,0.0,0 ratings,N/A,0
+1102,Matthew Sherman,Languages,5.0,1 ratings,100%,3
+1103,Christine Gwillim,Theater,2.5,23 ratings,35%,3.4
+1104,Abiodun Oluyomi,Health Science,3.0,3 ratings,34%,3.3
+1105,Tim Andeen,Physics,3.5,10 ratings,60%,4
+1106,Jack Donaho,Counseling,5.0,1 ratings,100%,2
+1107,Jae Woo,Mathematics,5.0,2 ratings,100%,2.5
+1108,Kevin Cokley,Political Science,4.7,3 ratings,67%,2.3
+1109,Hogeun Seo,Film,4.0,2 ratings,100%,3
+1110,Fahaad Siddiqui,Engineering,5.0,1 ratings,100%,1
+1111,Katherine Cox,English,4.0,3 ratings,67%,1.7
+1112,Ramna Walia,Communication,1.3,3 ratings,0%,2.7
+1113,Stephen Berg,Medicine,0.0,0 ratings,N/A,0
+1114,Brendan Gaughen,American Studies,4.2,21 ratings,81%,2.8
+1115,Laura Wallace,English,4.0,2 ratings,100%,1.5
+1116,Eriel Fauser,English,4.8,9 ratings,100%,1.9
+1117,Jeremiah Palmer,Engineering,0.0,0 ratings,N/A,0
+1118,Dale Stahl,Economics,0.0,0 ratings,N/A,0
+1119,Brooke Miller,Psychology,3.0,1 ratings,0%,4
+1120,Edwin Dorn,Government,3.3,3 ratings,67%,2.7
+1121,Glenn Peers,Art History,4.1,7 ratings,100%,2.6
+1122,Robert Bucci,Italian,5.0,4 ratings,100%,3.7
+1123,Paola Bonifazio,Women's Studies,3.0,3 ratings,34%,3.7
+1124,Matthew Chovanec,Middle Eastern Studies,4.5,2 ratings,100%,3
+1125,Arash Fathi,Engineering,3.0,1 ratings,100%,3
+1126,Guy Cole,Mathematics,3.6,5 ratings,80%,2.6
+1127,Aater Suleman,Engineering,4.3,4 ratings,100%,4.2
+1128,Amy Imes,Science,0.0,0 ratings,N/A,0
+1129,Valerie Martinez,History,5.0,1 ratings,100%,4
+1130,Rachel Union,Social Work,0.0,0 ratings,N/A,0
+1131,Elena Kravchenko,Religion,0.0,0 ratings,N/A,0
+1132,Kristin Neff,Psychology,5.0,1 ratings,100%,2
+1133,Stephanie Rude,Psychology,5.0,1 ratings,100%,4
+1134,Belem Lopez,Linguistics,4.7,6 ratings,100%,2.7
+1135,Rachel Roepke,Writing,5.0,1 ratings,100%,3
+1136,Karen Ewing,Languages,4.5,9 ratings,91%,2.9
+1137,Lance Labun,Physics,2.5,17 ratings,30%,4.3
+1138,Karina High,French Italian,5.0,5 ratings,100%,3.8
+1139,Rachel Wise,Literature,5.0,1 ratings,100%,3
+1140,Ronald Angel,Sociology,2.8,5 ratings,0%,3.2
+1141,Jo Shea,English,3.0,1 ratings,0%,3
+1142,Myoungkyu Lee,Engineering,2.0,1 ratings,0%,3
+1143,Livia Eberlin,Chemistry,5.0,1 ratings,100%,3
+1144,Paul MacDonald,Biology,2.1,18 ratings,28%,4.5
+1145,Danny Law,Linguistics,4.3,3 ratings,100%,2.7
+1146,Toni Falbo,Psychology,4.2,5 ratings,67%,1.8
+1147,Melissa Dalton,Communication,4.2,6 ratings,72%,3.3
+1148,Patricia Carter,Nursing,4.4,30 ratings,97%,1.5
+1149,Paul Robbins,Mathematics,4.1,13 ratings,70%,2.7
+1150,Stanley Roux,Biology,4.0,4 ratings,75%,3
+1151,Maxence Leconte,French Italian,5.0,4 ratings,100%,3
+1152,Max Leconte,French Italian,4.5,2 ratings,100%,3
+1153,John Turci - Escobar,Music,5.0,1 ratings,100%,1
+1154,Stephen Russell,Humanities,5.0,1 ratings,100%,3
+1155,Keith Friedman,Engineering,4.5,2 ratings,100%,1
+1156,Bryce Dalbey,Philosophy,3.4,8 ratings,50%,2.7
+1157,Joe Tafoya,Government,4.8,22 ratings,96%,2.9
+1158,Zaccaria Fulton,English,4.5,2 ratings,100%,3
+1159,Kerri Harmon,Education,5.0,1 ratings,100%,1
+1160,Brad Saad,Philosophy,2.0,3 ratings,0%,3.3
+1161,Emily Harring,English,1.1,8 ratings,0%,4.5
+1162,Christina Bambrick,Government,4.3,3 ratings,100%,3.3
+1163,Jonathan Brown,History,3.2,5 ratings,60%,3
+1164,Giorleny Rayo,Government,4.1,7 ratings,72%,3.3
+1165,Michael Thomas,Anthropology,4.0,1 ratings,100%,2
+1166,Michele Rountree,Social Work,5.0,2 ratings,100%,4
+1167,Cal Streeter,Social Work,4.3,4 ratings,100%,1.8
+1168,Zachary Hines,English,5.0,7 ratings,100%,3.3
+1169,Jonathan Hanselman,Mathematics,4.0,1 ratings,100%,3
+1170,Ellen Bartel,Theater,0.0,0 ratings,N/A,0
+1171,Jorge Perez,Spanish Portuguese,4.8,7 ratings,100%,2.6
+1172,Nicole Schrag,English,3.0,2 ratings,50%,2
+1173,Rachel Moyer-Trimyer,Counseling,4.2,6 ratings,84%,1.7
+1174,James Erskine,Physics,1.3,15 ratings,7%,4.4
+1175,Robert van de Geijn,Computer Science,4.5,8 ratings,88%,2.4
+1176,Yingda Zhai,Management Info Systems,4.7,3 ratings,100%,3
+1177,Pete Kunze,Film,4.9,15 ratings,100%,2.5
+1178,Karen Schlag,Communication,4.2,5 ratings,80%,2
+1179,Corey McZeal,Sociology,4.8,13 ratings,100%,1.7
+1180,John Benjamin,Languages,0.0,0 ratings,N/A,0
+1181,Angelina Locker,Anthropology,4.3,4 ratings,100%,2.3
+1182,Tony Speier,Law,5.0,1 ratings,100%,1
+1183,Caitlin O'Neil,French Italian,5.0,1 ratings,100%,3
+1184,Sohyun Choi,Communication,2.0,2 ratings,0%,5
+1185,Marilyn Felkner,Kinesiology Health,0.0,0 ratings,N/A,0
+1186,Martin Lockerd,English,4.0,3 ratings,100%,3.3
+1187,Vicki Packheiser,Social Work,5.0,2 ratings,100%,2
+1188,Cortney McEniry,Theater,5.0,1 ratings,100%,3
+1189,Geraldine Heng,English,5.0,5 ratings,100%,3.4
+1190,Danna Gurari,Information Science,5.0,2 ratings,100%,3
+1191,Kevin Parme,Music,3.9,15 ratings,74%,2.7
+1192,Robert Oshana,Computer Science,2.0,1 ratings,0%,5
+1193,Boyoung Kim,Languages,0.0,0 ratings,N/A,0
+1194,Trent Thurman,Management,5.0,5 ratings,100%,2.6
+1195,Yu Chen,Sociology,4.0,1 ratings,100%,3
+1196,Phillip Cantu,Sociology,0.0,0 ratings,N/A,0
+1197,Stephen Dadugblor,Writing,0.0,0 ratings,N/A,0
+1198,Emily Harring,Writing,0.0,0 ratings,N/A,0
+1199,Amrita Mishra,Writing,0.0,0 ratings,N/A,0
+1200,Chienyn Chi,Writing,3.0,1 ratings,100%,3
+1201,Kayla Shearer,Writing,0.0,0 ratings,N/A,0
+1202,Anushka Jasraj,Writing,0.0,0 ratings,N/A,0
+1203,Jeremy Goheen,Writing,4.3,3 ratings,100%,2.7
+1204,Gabriella Rodriguez,Writing,5.0,1 ratings,100%,2
+1205,Kristin Canfield,Writing,3.0,2 ratings,50%,3
+1206,Erica Brozovsky,Writing,5.0,1 ratings,100%,3
+1207,Peter Voss,Writing,4.8,4 ratings,100%,2
+1208,Delia Byrnes,Writing,4.3,3 ratings,100%,2.7
+1209,Daniel Bolnick,Biology,0.0,0 ratings,N/A,0
+1210,Zachary Bennett,Government,3.7,6 ratings,50%,3.8
+1211,Amy Hyne-Sutherland,Asian Studies,4.8,4 ratings,100%,3.3
+1212,Casey Dougal,Finance,3.0,4 ratings,50%,3.2
+1213,Jason Escandell,English,4.5,2 ratings,100%,2.5
+1214,Michael Amoruso,Religion,5.0,1 ratings,100%,2
+1215,David Bryan,Computer Science,4.0,1 ratings,100%,4
+1216,Thomas Tegtmeyer,Mathematics,4.8,5 ratings,100%,1.6
+1217,Nick Hamel,Theater,2.2,5 ratings,20%,3.6
+1218,Keffrelyn Brown,Ethnic Studies,0.0,0 ratings,N/A,0
+1219,Robin Williams,Art History,4.0,1 ratings,100%,2
+1220,Anne McCreary,French Italian,5.0,7 ratings,100%,3.3
+1221,Eva Dessein,French Italian,4.0,1 ratings,100%,3
+1222,Gaëlle Bouaziz,French Italian,4.0,1 ratings,100%,3
+1223,Olla Al-Shalchi,Middle Eastern Studies,5.0,5 ratings,100%,4
+1224,Jonathan Roeltgen,Science,2.3,3 ratings,0%,2.7
+1225,Lori Steiker,Social Work,4.7,8 ratings,88%,2.3
+1226,Becky Thompson,Spanish Portuguese,0.0,0 ratings,N/A,0
+1227,Marta Zarzycka,Women's Studies,0.0,0 ratings,N/A,0
+1228,John Durst,Fine Arts,5.0,2 ratings,100%,3
+1229,Zachary Williamson,Education,3.7,6 ratings,84%,1.2
+1230,Victoria DeFrancesco Soto,Government,5.0,1 ratings,100%,3
+1231,Keith Syska,Business,1.0,1 ratings,0%,3
+1232,Zenzi Griffin,Psychology,2.0,2 ratings,0%,3
+1233,David Roche,English,5.0,1 ratings,100%,4
+1234,Blerta Xhemalce,Biology,3.3,3 ratings,50%,4
+1235,Ronghuo Zheng,Accounting,4.3,3 ratings,84%,2
+1236,Jessie Raye Bauer,Psychology,0.0,0 ratings,N/A,0
+1237,Ricardo Velasco,Languages,2.0,3 ratings,0%,3.7
+1238,Ramon Mendoza,History,4.8,21 ratings,86%,4.2
+1239,Alec Arellano,Government,2.8,4 ratings,50%,3
+1240,Omar Awapara,Government,4.3,7 ratings,100%,2.6
+1241,Luke Perez,Government,2.9,7 ratings,58%,3.5
+1242,Tamara Bell,Communication,4.3,6 ratings,72%,3.2
+1243,Ryan Denlinger,Mathematics,1.9,9 ratings,34%,3.3
+1244,Miguel Campinho,Music,5.0,1 ratings,100%,3
+1245,Aaron Curry,Theater,5.0,1 ratings,100%,4
+1246,Yunyi Shen,Mathematics,2.0,27 ratings,34%,3.7
+1247,Mary Neuberger,History,0.0,0 ratings,N/A,0
+1248,Pamela Powell,Mathematics,5.0,4 ratings,100%,2.3
+1249,Angela Nonaka,Social Work,3.7,3 ratings,67%,3
+1250,Andrew Ingram,Philosophy,4.5,2 ratings,100%,1.5
+1251,Paola D'Amora,Italian,5.0,1 ratings,100%,3
+1252,Shalene Jha,Biology,2.3,4 ratings,40%,4
+1253,Cristian Paredes,Sociology,1.0,2 ratings,0%,4
+1254,Shane Whalley,Social Work,4.3,9 ratings,90%,1.6
+1255,Keith Leisner,English,0.0,0 ratings,N/A,0
+1256,Wilson Geisler,Psychology,3.0,3 ratings,34%,3.3
+1257,Prabhudev Konana,Management Info Systems,4.5,4 ratings,75%,4
+1258,Kimberlee Korte,Human Dev Family Sciences,0.0,0 ratings,N/A,0
+1259,Severine Letalleur,English,0.0,0 ratings,N/A,0
+1260,Alejandro Omidsalar,English,4.0,2 ratings,50%,3
+1261,Joshua Kopin,American Studies,4.5,2 ratings,100%,2.5
+1262,David Johnson,Biology,0.0,0 ratings,N/A,0
+1263,David Donaldson,Journalism,3.5,4 ratings,50%,3
+1264,Ana Todd,Nursing,5.0,1 ratings,100%,1
+1265,Luisa Nardini,Music,4.0,1 ratings,100%,2
+1266,Hal Alper,Engineering,3.7,14 ratings,67%,4.6
+1267,Steven Vokes,Biology,3.3,3 ratings,67%,3.7
+1268,Richard Brown,Biology,0.0,0 ratings,N/A,0
+1269,Carey Pulverman,Psychology,5.0,1 ratings,100%,3
+1270,Dan Li,Advertising,4.0,3 ratings,100%,3
+1271,Sharon Rush,Pharmacy,4.0,2 ratings,89%,3
+1272,Cristina Cabello,Spanish Portuguese,5.0,1 ratings,100%,3
+1273,Cesar Salgado,Spanish Portuguese,3.3,7 ratings,70%,3.6
+1274,Pilar Zazueta,History,5.0,1 ratings,100%,2
+1275,Mehmet Ayvaci,Management & Info Systems,1.9,9 ratings,12%,3.3
+1276,Susan Rather,Art History,2.7,7 ratings,43%,3.7
+1277,Joel Neibert,Mathematics,0.0,0 ratings,N/A,0
+1278,Jennifer Wilks,English,4.0,2 ratings,50%,3.5
+1279,Minou Arjomand,English,5.0,2 ratings,100%,3.5
+1280,Yongfeng Liu,Asian Studies,4.0,3 ratings,84%,4.3
+1281,Prudhvi Potluri,Engineering,0.0,0 ratings,N/A,0
+1282,Michael Findley,Government,5.0,2 ratings,100%,2.5
+1283,Caroline Barta,Writing,2.5,2 ratings,0%,3.5
+1284,Thomas Bell,Government,4.3,3 ratings,100%,3
+1285,Timothy Piper,Film,5.0,6 ratings,100%,2.8
+1286,Seth Schwaiger,Fine Arts,4.8,4 ratings,100%,2.2
+1287,Joshua Urich,Religion,5.0,1 ratings,100%,4
+1288,Anne Marsh,French & Italian,3.0,1 ratings,0%,3
+1289,Louis Harrison,Physical Education,4.8,7 ratings,100%,1.6
+1290,Xuan Qin,Music,3.5,2 ratings,50%,1.5
+1291,Ryan Morrison,Spanish Portuguese,4.3,3 ratings,100%,4
+1292,Amy Vidor,French Italian,4.4,5 ratings,80%,3
+1293,Jeffery Patterson,Business,2.5,2 ratings,50%,3.5
+1294,Nitya Nayar,Economics,3.0,2 ratings,50%,4
+1295,Richard Murphy,Economics,5.0,1 ratings,100%,2
+1296,Angeline Scheinbaum,Advertising,2.5,2 ratings,50%,3.5
+1297,Laura Rojeski,Education,4.7,7 ratings,100%,2.1
+1298,Benjamin Schmidt,Mathematics,4.9,17 ratings,100%,2.7
+1299,Cindy-Lou Holland,Writing,5.0,2 ratings,100%,3
+1300,Edwin Whitewolf,American Studies,5.0,2 ratings,100%,2.5
+1301,John Gonzaacutelez,English,0.0,0 ratings,N/A,0
+1302,John Gonzalez,English,3.0,4 ratings,50%,4
+1303,Andreas Matouschek,Chemistry,5.0,9 ratings,100%,2.5
+1304,Matteo Vestrucci,Mathematics,5.0,1 ratings,100%,2
+1305,Dananjaya Appulage,Chemistry,3.0,5 ratings,67%,3.8
+1306,Fred Jenga,Communication,3.3,3 ratings,67%,2.3
+1307,Kyle Bruner,Biology,0.0,0 ratings,N/A,0
+1308,Xavier Livermon,Women's Studies,4.5,2 ratings,100%,1.5
+1309,Sri Jonnalagadda,Asian Studies,5.0,2 ratings,100%,2.5
+1310,William Schweigert,Art History,5.0,2 ratings,100%,2.5
+1311,Manfred Fink,Physics,5.0,1 ratings,100%,2
+1312,James O'Connor,Engineering,4.0,2 ratings,50%,2.5
+1313,Naomi Reed,Anthropology,4.5,2 ratings,100%,1
+1314,Ramona Broussard,Information Science,3.0,2 ratings,50%,1
+1315,Michael Peterson,Management,5.0,1 ratings,100%,3
+1316,Wonsuck Kim,Geology,5.0,4 ratings,100%,4
+1317,Jamie Cox,English,5.0,1 ratings,100%,3
+1318,Megan Campbell Regnier,Communication,4.0,2 ratings,50%,2.5
+1319,Kurt Cousins,Sociology,1.0,1 ratings,0%,3
+1320,Shelley Payne,Biology,4.1,11 ratings,73%,4.4
+1321,Li Kang,Mathematics,4.0,2 ratings,100%,2
+1322,Ronald Matthews,Engineering,2.0,2 ratings,0%,2.5
+1323,Emin Ulug,Biology,5.0,1 ratings,100%,3
+1324,Bryan Davis,Biology,0.0,0 ratings,N/A,0
+1325,Raisika Harshey,Biology,2.3,4 ratings,60%,4.8
+1326,Dorothy Overbey,Dance,0.0,0 ratings,N/A,0
+1327,Susan Somers-Willett,Women's Studies,5.0,2 ratings,100%,2
+1328,Stella Offner,Astronomy,4.0,10 ratings,67%,2.6
+1329,Einav Zamir,Art History,4.0,4 ratings,75%,1.5
+1330,Stephen Gray,Management,5.0,1 ratings,100%,3
+1331,Lewis Robert,Communication,3.5,7 ratings,58%,3
+1332,Iris Ma,Asian Studies,4.3,4 ratings,75%,3
+1333,Derek Haderlie,Philosophy,5.0,1 ratings,100%,1
+1334,Sam Gunningham,Mathematics,5.0,1 ratings,100%,4
+1335,Peter Hess,Ethnic Studies,4.0,8 ratings,88%,2.3
+1336,Nicole Burrowes,History,5.0,4 ratings,100%,3.2
+1337,Tina Melcher,Education,3.0,2 ratings,50%,3.5
+1338,Sequoia Maner,Literature,5.0,1 ratings,100%,3
+1339,Amit Bhasin,Civil Engineering,5.0,2 ratings,100%,3.5
+1340,Nicole McLagan,Kinesiology amp Health,4.5,2 ratings,75%,1
+1341,Jeeyun Oh,Advertising,4.0,2 ratings,50%,3
+1342,So Young Lee,Advertising,3.0,1 ratings,0%,3
+1343,Aloysious Martinich,Philosophy,3.0,5 ratings,40%,2.6
+1344,Phoebe Long,Education,5.0,3 ratings,100%,2
+1345,Lingzi Zhong,Communication,4.0,3 ratings,67%,3.7
+1346,Henry Quillen,Government,0.0,0 ratings,N/A,0
+1347,Mary Gerwels,Education,5.0,3 ratings,100%,3
+1348,Jennifer Hensley,Nursing,4.8,8 ratings,100%,1.3
+1349,Denise Ekberg,Education,4.7,3 ratings,67%,2
+1350,Zhengyu Zhang,Communication,5.0,1 ratings,100%,4
+1351,Angela Richards,Psychology,4.4,5 ratings,80%,1.2
+1352,Yaguang Zhu,Communication,0.0,0 ratings,N/A,0
+1353,Xiaobo Lu,Government,4.4,5 ratings,91%,4
+1354,Derek Epp,Government,4.0,19 ratings,78%,3.2
+1355,Amanda Gray,Mexican American Studies,2.0,2 ratings,0%,4
+1356,Sepehr Vakil,Education,0.0,0 ratings,N/A,0
+1357,Eric Knuth,Education,0.0,0 ratings,N/A,0
+1358,Diane Coffey,Sociology,3.6,5 ratings,80%,2.8
+1359,Anousha Shahsavari,Middle Eastern Studies,5.0,2 ratings,100%,3.5
+1360,Vera Ioudina,Economics,2.8,9 ratings,34%,3.7
+1361,Sabine Hake,American Studies,2.5,2 ratings,34%,2.5
+1362,Jaimie Davis,Nutrition,5.0,1 ratings,100%,3
+1363,Maya Henry,Communication,5.0,3 ratings,100%,1.3
+1364,Howard Ochman,Biology,0.0,0 ratings,100%,0
+1365,Angela Richards,Education,5.0,1 ratings,100%,1
+1366,Amy Brock,Engineering,4.0,2 ratings,100%,4
+1367,Rita Jhang,Communication,5.0,6 ratings,100%,3.2
+1368,Douglas Hannah,Management,4.0,6 ratings,67%,3.3
+1369,Alejandra De Angulo Sorian,Nutrition,4.3,21 ratings,96%,1.7
+1370,Joel Mott,Music,5.0,1 ratings,100%,1
+1371,Diana Gomez-Vazquez,Spanish amp Portuguese,4.0,4 ratings,75%,3.8
+1372,Alfredo Khoshnood,English,3.0,2 ratings,50%,4
+1373,Eric Price,Computer Science,2.0,2 ratings,89%,5
+1374,Bill Spiller,Accounting,2.7,10 ratings,40%,3.4
+1375,Diana Gomez,Spanish amp Portuguese,0.0,0 ratings,N/A,0
+1376,Bradley King,English,4.5,2 ratings,100%,1.5
+1377,Brett Robertson,Communication,5.0,4 ratings,100%,2.3
+1378,Stephen Grand,Geology,2.0,1 ratings,0%,3
+1379,Bikai Nie,Health Science,0.0,0 ratings,N/A,0
+1380,Natalia Bermudez,Linguistics,2.8,6 ratings,67%,3.2
+1381,Katherine Lippa,Psychology,4.0,3 ratings,67%,4.3
+1382,William Smith,Communication,3.6,5 ratings,80%,3.2
+1383,BJ Friedman,Nutrition,3.0,1 ratings,0%,3
+1384,Mayra Ramirez,Psychology,5.0,1 ratings,100%,3
+1385,Marie Fournier,French amp Italian,5.0,1 ratings,100%,3
+1386,Amanda Little,Education,2.0,1 ratings,0%,2
+1387,Xiaowei Michael Mei,Management amp Info Systems,4.7,3 ratings,67%,2.3
+1388,Erica Fennewald,Business,4.7,3 ratings,100%,1
+1389,Richard Morrisett,Pharmacy,0.0,0 ratings,N/A,0
+1390,Selena Dickey,Film,5.0,4 ratings,100%,2
+1391,Paul Miller,Government,0.0,0 ratings,N/A,0
+1392,Stephanie Murphy,Management,0.0,0 ratings,N/A,0
+1393,Steven Kornguth,First Year Experience,5.0,5 ratings,100%,1.4
+1394,Ryan Fitzgerald,Religion,5.0,1 ratings,100%,2
+1395,Brian Knab,Philosophy,5.0,1 ratings,100%,3
+1396,Sam Gaglio,Italian,5.0,3 ratings,100%,3.3
+1397,Tim Corcoran,Classics,4.5,2 ratings,100%,2.5
+1398,Robbe Goris,Psychology,2.0,3 ratings,34%,4
+1399,Haris Krijestorac,Business,3.5,2 ratings,50%,3.5
+1400,Corinne Wong,Geology,4.0,1 ratings,100%,4
+1401,Jin-A Choi,Advertising,2.0,2 ratings,0%,3.5
+1402,Mattan Erez,Engineering,5.0,1 ratings,100%,3
+1403,Isaac Sanchez,Engineering,0.0,0 ratings,0%,0
+1404,Mark Levy,Government,5.0,5 ratings,100%,2.4
+1405,Mark Hayward,Health Science,5.0,2 ratings,100%,2
+1406,Shaherzad Ahmadi,Government,3.2,5 ratings,60%,3
+1407,Mehmet Candas,Engineering,3.0,1 ratings,100%,3
+1408,Kirsten Cather,Asian Studies,4.3,3 ratings,75%,3
+1409,Deji Akinwande,Engineering,5.0,1 ratings,100%,3
+1410,Michael Sockin,Finance,1.0,1 ratings,50%,3
+1411,Courtney Walsh,Human Dev & Family Sciences,3.0,1 ratings,100%,3
+1412,Dhananjay Raju,Computer Science,0.0,0 ratings,N/A,0
+1413,Jason Derr,Physics,3.3,4 ratings,50%,2.5
+1414,Hannah Harrison,Writing,0.0,0 ratings,N/A,0
+1415,Mandy Kious,Business,4.0,1 ratings,100%,3
+1416,Russell Bellande,Languages,5.0,1 ratings,100%,1
+1417,Rozen Neupane,French & Italian,0.0,0 ratings,N/A,0
+1418,Zaccheus Ahonle,Social Work,5.0,1 ratings,100%,3
+1419,Korey Pereira,Communication,0.0,0 ratings,N/A,0
+1420,Dia Bagchi,Biology,3.0,5 ratings,40%,3.6
+1421,Tristin Hooker,Writing,5.0,2 ratings,100%,3
+1422,William Louis,History,4.7,3 ratings,100%,4.3
+1423,Yannis Stamatopoulos,Business,4.3,4 ratings,100%,3.3
+1424,Paul Green,Management,5.0,6 ratings,100%,2.7
+1425,Laura Faircloth,Linguistics,3.5,2 ratings,100%,3
+1426,Jeremy Melvin,Mathematics,0.0,0 ratings,N/A,0
+1427,Megan Ehrisman,Business,4.0,5 ratings,80%,1.8
+1428,Richelle Crotty,Film,1.8,4 ratings,0%,2.5
+1429,Michael Roberts,English,0.0,0 ratings,N/A,0
+1430,Luis Urrieta,Education,4.0,2 ratings,50%,3.5
+1431,Stacia Cedillo,Education,0.0,0 ratings,N/A,0
+1432,Da Ku,Education,5.0,1 ratings,100%,2
+1433,Andrew Krebs,Sociology,0.0,0 ratings,N/A,0
+1434,Emmett Gill,Social Work,5.0,1 ratings,100%,2
+1435,William Fagelson,Engineering,3.7,3 ratings,86%,4
+1436,Arthur Peters,Computer Science,3.0,2 ratings,0%,3.5
+1437,Kimberly Dill,Philosophy,0.0,0 ratings,N/A,0
+1438,Marie-Anne Suizzo,Psychology,3.0,1 ratings,0%,2
+1439,John Market,Physics,5.0,2 ratings,100%,3.5
+1440,Toetap GG,Engineering,5.0,2 ratings,67%,4.5
+1441,Tania Garcia-Pina,Spanish amp Portuguese,2.0,1 ratings,0%,3
+1442,Lewis Spellman,Finance,0.0,0 ratings,N/A,0
+1443,Jason Terrell,Medicine,0.0,0 ratings,N/A,0
+1444,Rama Hamarneh,Languages,5.0,1 ratings,100%,3
+1445,Stephen McCord,Chemistry,0.0,0 ratings,N/A,0
+1446,Sarah Stevens,Physics,0.0,0 ratings,N/A,0
+1447,Kate West,Journalism,2.5,2 ratings,50%,4
+1448,Edward Shore,History,5.0,3 ratings,100%,2.7
+1449,Isabel Riley,Psychology,0.0,0 ratings,N/A,0
+1450,Victor Sampson,Education,0.0,0 ratings,N/A,0
+1451,Michael Montgomery,Astronomy,5.0,1 ratings,100%,4
+1452,Long Zhao,Mathematics,2.0,2 ratings,50%,4
+1453,Richard Reddick,Education,0.0,0 ratings,100%,0
+1454,Y. Sekou Bermiss,Management,4.0,1 ratings,100%,2
+1455,Henry Schiller,Philosophy,0.0,0 ratings,N/A,0
+1456,Peter Muller,Mathematics,5.0,1 ratings,100%,3
+1457,Stanley Johanson,Law,0.0,0 ratings,N/A,0
+1458,Matthias Barker,Philosophy,5.0,1 ratings,100%,2
+1459,Christopher Hadlock,Mathematics,3.0,2 ratings,50%,3.5
+1460,Miranda Lippold-Johnson,Film,0.0,0 ratings,N/A,0
+1461,Ya'Ke Smith,Film,5.0,2 ratings,100%,2.5
+1462,Jeff Hellmer,Music,4.3,13 ratings,70%,1.5
+1463,Cassandra Donnelly,Classics,4.0,1 ratings,100%,4
+1464,William Winslade,Medicine,4.7,6 ratings,100%,1.2
+1465,Cynthia Talbot,History,3.3,3 ratings,67%,2.7
+1466,Caroline Morley,Astronomy,5.0,2 ratings,100%,2.5
+1467,Benjamin Zeff,Music,5.0,1 ratings,100%,1
+1468,James Hoffman,Education,4.0,2 ratings,100%,2
+1469,Thomas Hart,American Studies,5.0,1 ratings,100%,1
+1470,Moriba Jah,Engineering,4.3,4 ratings,75%,4.5
+1471,Lance Manuel,Civil Engineering,4.7,3 ratings,100%,2.7
+1472,Kristina Flores,Mathematics,5.0,1 ratings,100%,3
+1473,Anna Lyon,American Studies,5.0,5 ratings,100%,2.4
+1474,Susan Deans-Smith,Ethnic Studies,0.0,0 ratings,N/A,0
+1475,Kyle English,Education,2.3,3 ratings,34%,3
+1476,Dain Donelson,Accounting,2.0,1 ratings,0%,4
+1477,Luis Zayas,Social Work,0.0,0 ratings,N/A,0
+1478,Kenza Yousfi,Anthropology,4.5,6 ratings,84%,3.5
+1479,Indrani Chatterjee,History,3.0,3 ratings,34%,3.7
+1480,Qixing Huang,Computer Science,2.4,5 ratings,34%,3
+1481,Ben Hodges,Civil Engineering,2.0,1 ratings,88%,3
+1482,James Henson,Government,2.5,2 ratings,0%,4
+1483,Anastasia Rees,Art History,4.5,2 ratings,100%,2
+1484,Deborah Webb,Social Work,0.0,0 ratings,N/A,0
+1485,Hannah Trees,Philosophy,5.0,4 ratings,100%,2
+1486,Roger Priebe,Engineering,4.4,5 ratings,100%,3
+1487,Sukjin Han,Economics,1.5,2 ratings,0%,3.5
+1488,Samuel Ginsburg,Spanish amp Portuguese,5.0,4 ratings,100%,2.5
+1489,Michael Sacks,Engineering,1.0,1 ratings,0%,4
+1490,Bhavani Thuraisingham,Computer Science,0.0,0 ratings,N/A,0
+1491,Omoniyi Afolabi,Spanish & Portuguese,4.8,5 ratings,100%,1.8
+1492,Adeline Harrington,Religion,5.0,2 ratings,100%,3.5
+1493,Diane Beer,Languages,5.0,1 ratings,100%,3
+1494,Thomas Staron,Mathematics,0.0,0 ratings,N/A,0
+1495,Enrique Degollado,Education,5.0,1 ratings,100%,1
+1496,Brenda Ayala,Education,0.0,0 ratings,N/A,0
+1497,Katherine Espinoza,Education,0.0,0 ratings,N/A,0
+1498,Maya Perez,Film,5.0,1 ratings,100%,3
+1499,Travis Lau,English,5.0,3 ratings,100%,3.3
+1500,Shubhi Sachdeva,Education,5.0,1 ratings,100%,3
+1501,Seerwan Hariry,Middle Eastern Studies,5.0,1 ratings,100%,2
+1502,David Crews,Biology,0.0,0 ratings,N/A,0
+1503,Erin Cotter,English,5.0,3 ratings,100%,2
+1504,Courtney Diranieh,Languages,5.0,2 ratings,100%,3
+1505,Steven Rahn,Music,0.0,0 ratings,N/A,0
+1506,Julie Irwin,Business,4.5,2 ratings,100%,2
+1507,Steven Gubka,Philosophy,4.8,4 ratings,100%,2.8
+1508,Jessamine Batario,Art History,5.0,3 ratings,100%,3
+1509,Kyle Kercher,Engineering,5.0,1 ratings,100%,2
+1510,Jason Rarick,Mathematics,4.4,29 ratings,94%,2.6
+1511,Monica Penick,Design,4.0,3 ratings,67%,2.7
+1512,Marisa LaGuardia,Fine Arts,5.0,1 ratings,100%,4
+1513,Jin Young Kim,Religion,0.0,0 ratings,N/A,0
+1514,Cody Jarman,Writing,1.0,1 ratings,50%,5
+1515,Christopher Davis,Anthropology,3.0,1 ratings,0%,4
+1516,Robert Freeman,Accounting,4.0,2 ratings,100%,3
+1517,Roland Myers,Film,5.0,1 ratings,100%,2
+1518,Francesca Beretta,French amp Italian,0.0,0 ratings,N/A,0
+1519,Duncan McCoy,Mathematics,4.0,3 ratings,100%,2
+1520,Jo-anne Holley,Biology,4.0,1 ratings,100%,4
+1521,Marisol LeBron,Mexican American Studies,2.3,6 ratings,34%,3.7
+1522,Patrick Harris,Writing,5.0,2 ratings,100%,2
+1523,Elizabeth Widen,Nutrition,3.7,3 ratings,80%,2.3
+1524,Saroj Bhattarai,Economics,0.0,0 ratings,N/A,0
+1525,Nitya Pandalai-Nayar,Economics,0.0,0 ratings,N/A,0
+1526,Rebecca Lyle,Mathematics,1.0,1 ratings,0%,3
+1527,Won So,Communication,2.0,1 ratings,0%,3
+1528,Adrian Trejo Nuntildeez,Computer Science,0.0,0 ratings,N/A,0
+1529,Adrian Trejo Nunez,Computer Science,4.0,3 ratings,34%,3
+1530,Bulmaro Jiménez,Philosophy,3.2,10 ratings,59%,3.8
+1531,Zoya Heidari,Engineering,5.0,1 ratings,100%,3
+1532,Susan Broniarczyk,Marketing,2.7,3 ratings,50%,4
+1533,Jess Toste,Education,0.0,0 ratings,100%,0
+1534,Sam Dunning,Chemistry,4.1,9 ratings,78%,2.6
+1535,Erica Cizsek,Advertising,5.0,1 ratings,100%,2
+1536,Noel Landuyt,Social Work,0.0,0 ratings,N/A,0
+1537,Stathis Tompaidis,Finance,5.0,2 ratings,100%,2.5
+1538,Elijah Fleming,Classics,0.0,0 ratings,N/A,0
+1539,Andrea Blatz,French amp Italian,5.0,1 ratings,100%,1
+1540,Timsal Masud,Languages,0.0,0 ratings,N/A,0
+1541,Haoyuan Liu,Business,0.0,0 ratings,N/A,0
+1542,Jim Law,French & Italian,3.5,2 ratings,50%,1.5
+1543,Dean Spears,Economics,5.0,1 ratings,100%,3
+1544,Babak Poursartip,Computer Science,3.3,3 ratings,67%,4
+1545,Tim Yeh,Engineering,3.2,5 ratings,86%,4.2
+1546,Samantha Reisz,Human Dev & Family Sciences,4.0,2 ratings,67%,2
+1547,Patricia Roberts-Miller,Writing,5.0,4 ratings,100%,5
+1548,Zhuojun Gu,Management & Info Systems,0.0,0 ratings,N/A,0
+1549,Hana Masri,Communication,5.0,1 ratings,100%,3
+1550,Chelsea Brass,Communication,3.7,8 ratings,50%,2.9
+1551,Jose Ovalle,Music,5.0,3 ratings,100%,2
+1552,Jeff Neely,Design,4.0,1 ratings,100%,4
+1553,Mikala Gibson,Film,0.0,0 ratings,N/A,0
+1554,Katharine Tillman,Psychology,3.0,2 ratings,50%,3.5
+1555,Jacqueline Woolley,Psychology,5.0,1 ratings,100%,2
+1556,Robert Hutchings,Political Science,0.0,0 ratings,N/A,0
+1557,Jose Villagran,Anthropology,5.0,1 ratings,100%,3
+1558,Keshav Pingali,Computer Science,5.0,2 ratings,100%,2
+1559,Audrey Blood,Fine Arts,5.0,1 ratings,100%,5
+1560,Ben Crowther,History,4.0,1 ratings,100%,3
+1561,Sean Thompson,Advertising,4.5,2 ratings,100%,2.5
+1562,Lexi Perez,Mexican American Studies,5.0,1 ratings,100%,1
+1563,Tasha Davis,Management,3.5,2 ratings,100%,4
+1564,Amber Clark,English,4.0,1 ratings,100%,2
+1565,Huntress Granger,Business,0.0,0 ratings,N/A,0
+1566,Granger Huntress,Business,4.0,1 ratings,100%,3
+1567,Paola Passalacqua,Civil Engineering,5.0,1 ratings,100%,4
+1568,Justin Hart,Computer Science,3.5,2 ratings,100%,4
+1569,Kirsten Meemann,Linguistics,4.0,2 ratings,100%,3
+1570,Joseph Lindsey,Communication,4.3,3 ratings,100%,3
+1571,Dhiraj Murthy,Journalism,5.0,1 ratings,100%,4
+1572,Ariel Taylor,Education,5.0,2 ratings,100%,2.5
+1573,Melissa Kemp,Education,0.0,0 ratings,N/A,0
+1574,Rodolfo Alaniz,History,5.0,1 ratings,100%,3
+1575,Elliott Turley,English,5.0,1 ratings,100%,3
+1576,James Branham,Government,0.0,0 ratings,N/A,0
+1577,Marisol Bayona-Roman,Languages,4.6,9 ratings,100%,2.6
+1578,Gabriela Perez,Spanish amp Portuguese,5.0,1 ratings,100%,3
+1579,Christina Fragale,Special Education,5.0,1 ratings,100%,1
+1580,Corey Hannah,Kinesiology amp Health,5.0,1 ratings,100%,3
+1581,Wayne Lee,Kinesiology amp Health,4.0,1 ratings,100%,1
+1582,Yuebing Zheng,Engineering,0.0,0 ratings,100%,0
+1583,Recep Birgul,Civil Engineering,0.0,0 ratings,N/A,0
+1584,R. Gill,Architecture,2.0,1 ratings,0%,4
+1585,Mark Helper,Geology,0.0,0 ratings,N/A,0
+1586,Joshua Sears,Classics,0.0,0 ratings,N/A,0
+1587,Sarah Stephens,Physics,5.0,1 ratings,100%,2
+1588,Sophia Gilmson,Music,0.0,0 ratings,N/A,0
+1589,Willem De Beer,Music,5.0,1 ratings,100%,3
+1590,Matthew Balhoff,Engineering,3.3,4 ratings,50%,3.8
+1591,Surya Santoso,Engineering,0.0,0 ratings,N/A,0
+1592,Indranil Bardhan,Management & Info Systems,0.0,0 ratings,N/A,0
+1593,Greg Durrett,Computer Science,5.0,3 ratings,100%,3.3
+1594,Briana Barner,Film,3.0,2 ratings,50%,1
+1595,Bruce Boville,Middle Eastern Studies,2.0,5 ratings,20%,4
+1596,Peter Russell,Government,5.0,2 ratings,100%,2.5
+1597,Dan Welcher,Music,0.0,0 ratings,N/A,0
+1598,Jefferson Perry,Physics,0.0,0 ratings,N/A,0
+1599,Alexis Riley,Theatre & Dance,5.0,1 ratings,100%,2
+1600,Robert Deans,Biology,5.0,2 ratings,100%,3
+1601,Mathaniel Rossi,Communication,0.0,0 ratings,N/A,0
+1602,Daniella Rempe,Geology,3.7,4 ratings,60%,3.2
+1603,ASHLEIGH aviles,Human Dev amp Family Sciences,5.0,1 ratings,100%,2
+1604,Jeffrey Abramson,Government,4.5,2 ratings,100%,4
+1605,Brad Haggadone,Communication,5.0,1 ratings,100%,3
+1606,David walker,Chemistry,0.0,0 ratings,N/A,0
+1607,Alicia Link,Fine Arts,4.0,1 ratings,100%,4
+1608,Abena Mackall,Social Work,5.0,1 ratings,100%,4
+1609,James Andrew,Philosophy,4.0,1 ratings,100%,2
+1610,Jason Wilkins,Design,5.0,1 ratings,50%,4
+1611,Laura Swarts,Nursing,1.0,1 ratings,0%,5
+1612,Tracy Zhang,Communication,3.0,1 ratings,0%,4
+1613,Jamila Davey,Middle Eastern Studies,4.5,2 ratings,100%,3.5
+1614,Jason Wehling,Journalism,0.0,0 ratings,100%,0
+1615,Eve Nicols,Humanities,0.0,0 ratings,N/A,0
+1616,Jon Tamir,Engineering,5.0,1 ratings,100%,4
+1617,Tommy Darwin,Communication,5.0,1 ratings,100%,3
+1618,Kristian Jones,Social Work,4.0,1 ratings,100%,3
+1619,Colleen Arnold,Social Work,3.0,1 ratings,100%,2
+1620,Jimena Perry,History,4.0,2 ratings,100%,2.5
+1621,Abhi Ramchandani,Accounting,0.0,0 ratings,N/A,0
+1622,Keith Brown,Finance,4.0,1 ratings,100%,3
+1623,Nathan Sportsman,Computer Science,0.0,0 ratings,N/A,0
+1624,Bronwyn Stippa,Philosophy,4.0,1 ratings,100%,4
+1625,Michael Orshansky,Engineering,3.5,2 ratings,100%,3
+1626,Teresa Bailey,Nursing,5.0,1 ratings,100%,3
+1627,Kolina Koltai,Information Science,0.0,0 ratings,N/A,0
+1628,Megan Alrutz,Theater,0.0,0 ratings,N/A,0
+1629,Marylise Rilliard,French & Italian,5.0,1 ratings,100%,3
+1630,Mike Akel,Film,5.0,1 ratings,100%,3
+1631,Dorothy Mcketta,Art History,5.0,5 ratings,100%,3.2
+1632,Bernard David,Physics,3.0,1 ratings,100%,2
+1633,Julie Maslowsky,Kinesiology amp Health,5.0,2 ratings,100%,1.5
+1634,Susan Nold,Communication,5.0,1 ratings,100%,3
+1635,Amy Simmons,Music,0.0,0 ratings,N/A,0
+1636,Hovav Shacham,Computer Science,2.0,1 ratings,67%,5
+1637,Vitor Cerqueira Dassie,Spanish & Portuguese,2.0,1 ratings,0%,4
+1638,Ashley Kuchar,Education,5.0,1 ratings,100%,2
+1639,Lauren Yeager,Marine Sciences,0.0,0 ratings,N/A,0
+1640,Katy Polston,Human Dev amp Family Sciences,5.0,1 ratings,100%,3
+1641,Reid Echols,English,5.0,6 ratings,100%,3
+1642,Dalton Walthall,Classics,0.0,0 ratings,100%,0
+1643,Michael Scott,Computer Science,0.0,0 ratings,100%,0
+1644,Alma Mena,Social Work,0.0,0 ratings,N/A,0
+1645,Raelynn Gosse,English,4.0,1 ratings,100%,4
+1646,Philip Moniz,Government,0.0,0 ratings,N/A,0
+1647,David Bogard,Engineering,0.0,0 ratings,N/A,0
+1648,Michael Everdell,Linguistics,0.0,0 ratings,N/A,0
+1649,Rebecca Switzer,Theatre amp Dance,0.0,0 ratings,N/A,0
+1650,Thomas Leslie,Spanish & Portuguese,5.0,2 ratings,100%,3
+1651,Delaney Harness,Communication,1.0,1 ratings,0%,2
+1652,Amanda Bush,Italian,5.0,1 ratings,100%,3
+1653,Kalli Doubleday,Geography,1.0,1 ratings,0%,5
+1654,Daniel Leahy,Biology,0.0,0 ratings,N/A,0
+1655,Chris Reilly,Physics,2.3,3 ratings,0%,4.3
+1656,James Lowery,Finance,0.0,0 ratings,100%,0
+1657,Krzysztof Piekarski,Writing,1.4,5 ratings,29%,4.8
+1658,Robert Brenner,Design,0.0,0 ratings,N/A,0
+1659,Jennifer Sukis,Design,0.0,0 ratings,N/A,0
+1660,Stacey Jordan,Social Work,0.0,0 ratings,N/A,0
+1661,Laura Gutierrez,Ethnic Studies,1.0,1 ratings,0%,1
+1662,Dena Afrasiabi,Middle Eastern Studies,1.0,1 ratings,0%,2
+1663,Sebastian Hohenberg,Marketing,2.5,2 ratings,50%,3.5
+1664,Christa Rose,Advertising,0.0,0 ratings,N/A,0
+1665,Zachary Mcgee,Government,3.8,4 ratings,50%,3
+1666,Loren Cressler,English,4.0,3 ratings,67%,2.7
+1667,Natalie Brown Devlin,Advertising,2.0,1 ratings,0%,4
+1668,Sunil Badal,Chemistry,0.0,0 ratings,N/A,0
+1669,Scott Graham,Writing,4.7,3 ratings,100%,3.7
+1670,Jude Osara,Engineering,4.0,1 ratings,100%,3
+1671,Erin Reilly,Advertising,3.0,6 ratings,67%,4.2
+1672,Marika Cabral,Economics,0.0,0 ratings,N/A,0
+1673,Adam Clulow,History,4.7,3 ratings,100%,3
+1674,Bogdan Perzynski,Fine Arts,0.0,0 ratings,N/A,0
+1675,DeAnn Heath,Advertising,5.0,1 ratings,100%,2
+1676,Sean Albertson,Government,0.0,0 ratings,100%,0
+1677,Kendrea Austin,Kinesiology amp Health,0.0,0 ratings,N/A,0
+1678,Jeannie McKetta,Art History,3.0,1 ratings,0%,2
+1679,Jeffrey Gan,Theatre amp Dance,5.0,1 ratings,100%,2
+1680,Maria Sidorkina,Anthropology,0.0,0 ratings,100%,0
+1681,Paul Merville,Medicine,0.0,0 ratings,N/A,0
+1682,David Barny,French & Italian,5.0,3 ratings,100%,3.7
+1683,Jared Jensen,Communication,4.5,2 ratings,100%,2
+1684,Andrea Remoquillo,Asian Studies,4.0,2 ratings,50%,4
+1685,Leah Yacknin-Dawson,English,4.0,1 ratings,100%,2
+1686,Martin Sandoval,Computer Science,0.0,0 ratings,100%,0
+1687,Sarah Baker,Languages,5.0,1 ratings,100%,3
+1688,Amanda Evans,Philosophy,4.0,7 ratings,72%,2.4
+1689,Nathan Rossi,Film,5.0,1 ratings,100%,2
+1690,Sanaz Talaifar,Psychology,5.0,1 ratings,100%,4
+1691,william allensworth,Law,0.0,0 ratings,N/A,0
+1692,Andrew Del Rio,Philosophy,5.0,1 ratings,100%,2
+1693,Kirk Evoy,Pharmacy,0.0,0 ratings,N/A,0
+1694,Andrew Normann,Music,0.0,0 ratings,N/A,0
+1695,Juan Murcia-Delso,Engineering,4.0,1 ratings,100%,4
+1696,Michelle Velasquez-Potts,Women's Studies,4.0,1 ratings,0%,3
+1697,Nancy Guillet,Nursing,5.0,1 ratings,100%,3
+1698,Vinh Nguyen,Nursing,5.0,1 ratings,100%,1
+1699,Cindy Fitchpatrick,Human Dev & Family Sciences,2.0,1 ratings,0%,2
+1700,Rachel Piwarski,Writing,0.0,0 ratings,N/A,0
+1701,Nadoo Mida,Pharmacy,0.0,0 ratings,N/A,0
+1702,Jaime Schmidt,Accounting,0.0,0 ratings,N/A,0
+1703,Jeffrey Wilson,Religion,0.0,0 ratings,100%,0
+1704,Hiilei Hobart,Anthropology,0.0,0 ratings,N/A,0
+1705,Maria Skouras,Social Science,5.0,3 ratings,100%,1.7
+1706,David Mitlin,Engineering,1.5,2 ratings,34%,3.5
+1707,Grani Hanasusanto,Engineering,4.3,3 ratings,100%,2.7
+1708,Christen Julien,Engineering,0.0,0 ratings,100%,0
+1709,Lane Stanley,Theater,4.0,1 ratings,100%,1
+1710,Mason Rosenthal,Theater,4.0,4 ratings,75%,2
+1711,Juan Reyes,Management & Info Systems,0.0,0 ratings,N/A,0
+1712,Rachel Tessmer,Communication,5.0,1 ratings,100%,2
+1713,Inbal Leibovits,Communication,3.0,2 ratings,50%,3.5
+1714,Amy Wolf,Biology,0.0,0 ratings,N/A,0
+1715,Judson Barber,American Studies,5.0,3 ratings,100%,2.3
+1716,Matthew Mcconnaghey,Film,0.0,0 ratings,N/A,0
+1717,Swarat Chaudhuri,Computer Science,0.0,0 ratings,N/A,0
+1718,Christin Davis,Theatre amp Dance,3.6,5 ratings,60%,2.8
+1719,Lucien Douglas,Theater,4.8,6 ratings,100%,1.7
+1720,Kate Cronin,Film,4.8,7 ratings,86%,2.2
+1721,Erin Rodriguez,Education,0.0,0 ratings,N/A,0
+1722,Robin Smith,Social Work,0.0,0 ratings,N/A,0
+1723,Bruce Porter,Computer Science,3.9,12 ratings,75%,2.3
+1724,Kwok Wu,Computer Science,4.0,2 ratings,100%,1.5
+1725,Mona Mehedy,Biology,2.8,16 ratings,100%,4.5
+1726,Christopher Roldan,Film,0.0,0 ratings,N/A,0
+1727,Matthew Breece,English,5.0,4 ratings,100%,3
+1728,Kemper Lipscomb,Education,5.0,1 ratings,100%,3
+1729,Mian Jia,Communication,0.0,0 ratings,N/A,0
+1730,Norian Caporale-Berkowitz,Education,0.0,0 ratings,N/A,0
+1731,Marc Pierce,American Studies,5.0,1 ratings,100%,2
+1732,Kari McDonald,Nursing,3.7,3 ratings,75%,2
+1733,Junyi Li,Linguistics,3.0,3 ratings,75%,3
+1734,Samuel Lipman,Film,0.0,0 ratings,N/A,0
+1735,Hyun Jung Kim,Engineering,5.0,1 ratings,100%,3
+1736,Tim Scott,Advertising,5.0,2 ratings,100%,3
+1737,Naoko Suito,Languages,3.3,8 ratings,63%,2.5
+1738,Sara Diamond,Geography,1.7,3 ratings,0%,3.3
+1739,Amelia Kahn,Philosophy,5.0,2 ratings,100%,3.5
+1740,Liesl Nydegger,Health Science,3.7,3 ratings,75%,2
+1741,James Golby,Government,5.0,1 ratings,100%,3
+1742,Rebecca Rossen,Dance,4.2,26 ratings,86%,2.7
+1743,Patricia Johansson,Languages,0.0,0 ratings,100%,0
+1744,Deane Swanson,Kinesiology & Health,3.7,3 ratings,67%,4
+1745,Jinjin Yan,Nursing,1.3,3 ratings,0%,2.3
+1746,Rusty Cloyes,Theater,5.0,2 ratings,100%,1.5
+1747,Madge Darlington,Theatre & Dance,3.5,2 ratings,75%,3
+1748,Emily Quigley,Journalism,5.0,3 ratings,100%,3.3
+1749,Nanette Acosta,Theatre & Dance,5.0,1 ratings,100%,3
+1750,Sujay Sanghavi,Engineering,1.0,2 ratings,0%,4.5
+1751,Yan Zhang,Biology,5.0,1 ratings,100%,2
+1752,Paul Damien,Business,3.2,11 ratings,69%,3.5
+1753,Jeongin Lee,Music,0.0,0 ratings,N/A,0
+1754,Rachelle Chiang,Health Science,4.0,5 ratings,100%,3.6
+1755,Ann Reynolds,Art History,4.5,7 ratings,100%,3
+1756,Paul Bommer,Engineering,3.7,3 ratings,67%,3.7
+1757,Lauri Kytomaa,Economics,1.0,1 ratings,0%,5
+1758,Donna Kornhaber,English,4.4,30 ratings,94%,2.2
+1759,S. V. Sreenivasan,Engineering,0.0,0 ratings,100%,0
+1760,Steve Swinnea,Engineering,3.3,4 ratings,84%,3
+1761,Annie Bares,English,4.0,2 ratings,50%,2.5
+1762,Michele Hildrum,Management,2.0,1 ratings,0%,4
+1763,Joseph Cozza,Government,5.0,3 ratings,100%,2.3
+1764,Samantha Santacruz,Engineering,4.0,1 ratings,100%,2
+1765,Haleigh Wallace,Spanish & Portuguese,4.0,1 ratings,0%,4
+1766,Patricia Clayton,Engineering,4.7,3 ratings,100%,2.7
+1767,Brandon Jones,Engineering,2.0,1 ratings,50%,4
+1768,Diana Norton,Spanish & Portuguese,4.0,1 ratings,100%,3
+1769,Bob George,Accounting,3.0,1 ratings,100%,3
+1770,Emily Porter,Engineering,4.5,2 ratings,100%,3
+1771,Carey King,Geology,2.5,4 ratings,20%,3.5
+1772,Zach Blaesi,Philosophy,4.5,13 ratings,94%,2.1
+1773,Michael Mosser,Government,5.0,10 ratings,100%,3.1
+1774,Thomas Palaima,Classics,3.7,20 ratings,55%,2.6
+1775,Steven Phelps,Biology,3.3,7 ratings,78%,3.7
+1776,Stefano Eusepi,Economics,4.5,2 ratings,100%,3
+1777,Karl Gebhardt,Astronomy,4.0,34 ratings,100%,3.3
+1778,Gray Garmon,Design,5.0,2 ratings,100%,2
+1779,Felicity Muth,Biology,3.0,2 ratings,75%,3
+1780,Jacob Ptacek,Writing,4.6,9 ratings,100%,2.1
+1781,Risto Miikkulainen,Computer Science,1.6,12 ratings,17%,4
+1782,Grace Gibson,Classics,5.0,2 ratings,100%,2
+1783,Yukie Aida,Languages,4.8,11 ratings,80%,2.7
+1784,Megan Pearson,Information Studies,2.0,1 ratings,0%,3
+1785,Vishy Iyer,Biology,5.0,1 ratings,100%,3
+1786,William Finney,Management & Info Systems,0.0,0 ratings,N/A,0
+1787,Viswanath Iyer,Biology,4.0,1 ratings,100%,3
+1788,kt shorb,Asian Studies,0.0,0 ratings,N/A,0
+1789,Abigail Weitzman,Sociology,0.0,0 ratings,50%,0
+1790,Kieth Freidman,Engineering,5.0,2 ratings,100%,1.5
+1791,Grant Willson,Engineering,2.0,1 ratings,0%,5
+1792,Jessica Barr,Nursing,0.0,0 ratings,N/A,0
+1793,Michelle Peterson,Design,0.0,0 ratings,N/A,0
+1794,Michael Jarrett,Computer Science,5.0,2 ratings,100%,4
+1795,Mark McDermott,Engineering,0.0,0 ratings,100%,0
+1796,Katie Pritchett,Management,0.0,0 ratings,N/A,0
+1797,Jared Huke,Design,0.0,0 ratings,N/A,0
+1798,Manuel Higginbotham,Languages,5.0,1 ratings,100%,3
+1799,Daniel Trugman,Geology,0.0,0 ratings,N/A,0
+1800,Zandra Lopez,Information Studies,0.0,0 ratings,N/A,0
+1801,Alyson Beaton,Design,0.0,0 ratings,N/A,0
+1802,Joel Swerdlow,Government,0.0,0 ratings,N/A,0
+1803,Jonathan Wensveen,Classics,3.0,4 ratings,50%,3.5
+1804,Andrew Bassford,Philosophy,5.0,3 ratings,100%,2
+1805,Heather Houser,English,5.0,1 ratings,100%,2
+1806,Ari Arapostathis,Mathematics,2.0,1 ratings,0%,5
+1807,Eli Reed,Journalism,4.0,4 ratings,67%,2.5
+1808,Bruce Hunt,History,3.8,13 ratings,90%,3.4
+1809,Steven Bischoff,Philosophy,5.0,1 ratings,100%,2
+1810,Deena Kemp,Advertising,0.0,0 ratings,N/A,0
+1811,Andra Bailard,Writing,0.0,0 ratings,N/A,0
+1812,Katharine Cacace,Film,0.0,0 ratings,N/A,0
+1813,Laura Gauggel,English,5.0,2 ratings,100%,2
+1814,Jolynne Batchelor,Social Work,3.0,1 ratings,100%,3
+1815,Hanan Hashem,Psychology,5.0,2 ratings,100%,3
+1816,Maria Wade,History,0.0,0 ratings,N/A,0
+1817,Robert Icenhauer Ramirez,History,4.8,10 ratings,100%,3.3
+1818,Pascale Bos,Languages,3.7,15 ratings,40%,3.2
+1819,John Davis,Marketing,4.3,6 ratings,84%,2.8
+1820,Caroline Farrior,Biology,4.0,1 ratings,100%,5
+1821,Jon Huibregtse,Biology,3.3,3 ratings,67%,4
+1822,Seth Bank,Engineering,4.1,22 ratings,93%,4
+1823,Emily Que,Chemistry,2.8,10 ratings,30%,3.7
+1824,Joshua Gunn,Communication,3.4,13 ratings,62%,2.9
+1825,Charlotte Fiehn,English,5.0,1 ratings,100%,3
+1826,Marie Monfils,Psychology,4.0,5 ratings,88%,3
+1827,Nathan Leach,History,0.0,0 ratings,100%,0
+1828,Xiaochuan Tian,Mathematics,2.4,15 ratings,20%,2.9
+1829,Garrett Shuffield,Middle Eastern Studies,5.0,1 ratings,100%,4
+1830,Arlene Montgomery,Social Work,2.0,1 ratings,0%,2
+1831,Ryan Russel,Engineering,0.0,0 ratings,N/A,0
+1832,Madhavi Mallapragada,Film,4.5,2 ratings,100%,2
+1833,Anthony Woodbury,Linguistics,3.8,35 ratings,74%,2.4
+1834,Nathan Stone,Spanish & Portuguese,4.0,2 ratings,100%,3.5
+1835,Mary Rose,Sociology,4.4,7 ratings,80%,3.3
+1836,Meg Mendenhall,English,3.0,1 ratings,100%,4
+1837,Norma Fowler,Biology,2.5,13 ratings,34%,3.5
+1838,Ashley Matheny,Geology,5.0,4 ratings,100%,3.5
+1839,Aysa Dordzhieva,Accounting,3.5,12 ratings,82%,3.3
+1840,Daniel Birkholz,English,5.0,12 ratings,93%,3.8
+1841,Chad Bennett,English,4.0,4 ratings,80%,3.5
+1842,Douglas Morrice,Management,5.0,5 ratings,100%,3.4
+1843,Stephen Wechsler,Linguistics,4.0,3 ratings,75%,2.3
+1844,H Morikawa,Biology,2.0,3 ratings,50%,4.3
+1845,Gloria Gonzalez-Lopez,Sociology,4.7,3 ratings,100%,2.3
+1846,Chih-Hao Chang,Engineering,3.0,1 ratings,0%,3
+1847,Brendan Bowler,Astronomy,4.5,10 ratings,100%,3.2
+1848,Gregory Clark,Biology,5.0,5 ratings,100%,2.4
+1849,William O Brien,Civil Engineering,3.0,2 ratings,50%,3
+1850,Lea Hildebrandt Ruiz,Engineering,2.5,2 ratings,50%,3
+1851,Cynthia Penwell,Social Work,5.0,4 ratings,100%,2.7
+1852,Kelly Kamm,Finance,4.8,5 ratings,100%,3
+1853,Beth Eby,Women's Studies,5.0,2 ratings,100%,2
+1854,Daniel Fridman,Sociology,3.4,15 ratings,86%,3.7
+1855,Nancy Schiesari,Film,0.0,0 ratings,N/A,0
+1856,Eric Tang,Asian Studies,4.0,25 ratings,80%,3.2
+1857,Ryan Russell,Engineering,0.0,0 ratings,N/A,0
+1858,Catharine Echols,Psychology,3.0,4 ratings,50%,3.5
+1859,Hyeji Kim,Engineering,1.0,1 ratings,50%,2
+1860,Frasier Liljestrand,Civil Engineering,0.0,0 ratings,N/A,0
+1861,Amrita Mishra,English,5.0,4 ratings,100%,2.5
+1862,Thibaud Taillefumier,Mathematics,3.1,28 ratings,74%,3.6
+1863,Sonia Paban,Physics,4.8,6 ratings,100%,4
+1864,Robert Koons,Philosophy,4.7,15 ratings,100%,2
+1865,Liberty Hamilton,Communication,4.3,4 ratings,80%,3.2
+1866,Sascha Guttfreund,Film,5.0,1 ratings,100%,1
+1867,Charlotte Canning,Theater,2.3,27 ratings,20%,3.8
+1868,Ivaacuten Lopez,American Studies,1.0,1 ratings,0%,5
+1869,Suzanne Burdick,Communication,0.0,0 ratings,N/A,0
+1870,Mark Evans,Business,1.6,10 ratings,10%,3.9
+1871,Kurt Heinzelman,English,4.3,7 ratings,80%,2.5
+1872,Piero Visconte,Languages,1.0,1 ratings,80%,3
+1873,Wenrui Chai,Chemistry,0.0,0 ratings,100%,0
+1874,Beth Link,Education,0.0,0 ratings,N/A,0
+1875,Kristie Kelly,Government,4.4,7 ratings,88%,3
+1876,Michael Cullinan,Engineering,2.0,5 ratings,34%,3.6
+1877,Krishna Kumar,Civil Engineering,4.8,4 ratings,100%,2.2
+1878,Vagheesh Narasimha,Biology,0.0,0 ratings,N/A,0
+1879,Traci-Ann Wint-Hayles,Anthropology,4.0,3 ratings,67%,2.3
+1880,Qiang Liu,Computer Science,0.0,0 ratings,100%,0
+1881,Salvatore Stuvard,Mathematics,4.7,6 ratings,84%,3.2
+1882,Brian Korgel,Engineering,4.0,4 ratings,75%,2.8
+1883,Matthew Worden,Chemistry,4.5,2 ratings,100%,3
+1884,John Pipkin,English,5.0,3 ratings,100%,1.3
+1885,John Hoberman,Ethnic Studies,3.4,7 ratings,75%,3
+1886,James Patterson,Classics,4.0,36 ratings,69%,3.7
+1887,Claudia Pisano,Italian,4.0,2 ratings,50%,4
+1888,Deirdre Smith,Art History,3.5,6 ratings,88%,3.2
+1889,Julianne Phillips,Government,3.0,2 ratings,50%,1.5
+1890,Ivan Char-Lopez,American Studies,1.0,2 ratings,34%,4.5
+1891,Thomas Lindsay,Communication,3.4,7 ratings,29%,4
+1892,ATILA NOVOSELAC,Engineering,3.5,2 ratings,75%,2
+1893,Jonathan Schofer,Religion,3.7,8 ratings,70%,1.4
+1894,Chih-Wei Chang,Asian Studies,0.0,0 ratings,N/A,0
+1895,Elliot Tucker Drob,Psychology,3.5,4 ratings,84%,2.3
+1896,Salvatore Salamone,Civil Engineering,5.0,4 ratings,100%,3.5
+1897,Reema Barakat,Languages,5.0,2 ratings,100%,3.5
+1898,Jamie O'Quinn,Sociology,5.0,3 ratings,100%,2
+1899,Adriana Paola Sotelo Munoz,Chemistry,3.0,6 ratings,34%,3.3
+1900,J. Crosson,Religion,1.0,1 ratings,0%,4
+1901,Mona Medhy,Biology,0.0,0 ratings,N/A,0
+1902,Graeme Henkelman,Chemistry,3.5,9 ratings,75%,3.8
+1903,Monica Jimenez,Mexican American Studies,3.9,8 ratings,56%,2.5
+1904,Rachel German,Management & Info Systems,5.0,1 ratings,100%,4
+1905,Thomas Sager,Business,0.0,0 ratings,N/A,0
+1906,Chikako Cooke,Asian Studies,4.8,10 ratings,100%,2.9
+1907,Emilie Pagano,Philosophy,5.0,2 ratings,100%,3
+1908,Carly Montagnolo,Communication,1.0,1 ratings,67%,4
+1909,Michelle Habeck,Theater,3.2,12 ratings,42%,2.1
+1910,Sean Upshaw,Advertising,0.0,0 ratings,N/A,0
+1911,Kirk Von Sternberg,Statistics,0.0,0 ratings,N/A,0
+1912,Jan Fox,Nursing,4.7,11 ratings,100%,1.9
+1913,Elaine Li,Physics,4.8,5 ratings,100%,3.6
+1914,Justin Hatch,Writing,4.5,4 ratings,100%,2.5
+1915,Aleksandra Jaeschke,Architecture,5.0,2 ratings,100%,3.5
+1916,DAVID SOLOVEICHIK,Engineering,5.0,1 ratings,100%,3
+1917,Thomas Juenger,Biology,3.7,3 ratings,86%,3
+1918,Nancy Moran,Biology,3.0,2 ratings,0%,3.5
+1919,Jesse Pisel,Geology,4.3,3 ratings,67%,2
+1920,Jordyn Middleton,Music,5.0,7 ratings,100%,2
+1921,Van Herd,History,3.0,6 ratings,80%,2.8
+1922,Annie Hill,Writing,5.0,2 ratings,100%,2.5
+1923,Laura Baggs,Theater,2.2,24 ratings,13%,4.1
+1924,Jeffrey Tulis,Government,3.7,4 ratings,60%,4
+1925,Esther Raizen,Humanities,5.0,1 ratings,100%,4
+1926,Carl Forrest,Marketing,0.0,0 ratings,N/A,0
+1927,Jonathan Sessler,Chemistry,3.3,24 ratings,54%,3.9
+1928,Joe Allen,Engineering,0.0,0 ratings,N/A,0
+1929,Michael Parent,Education,5.0,3 ratings,100%,2
+1930,Trenzio Turner,Marketing,5.0,1 ratings,100%,2
+1931,Charters Wynn,History,4.3,6 ratings,75%,3.3
+1932,Michelle Montague,Philosophy,5.0,1 ratings,100%,2
+1933,Tatjana Lichtenstein,History,4.3,3 ratings,100%,4.3
+1934,Maurizio Viroli,Philosophy,4.5,6 ratings,91%,1.8
+1935,Nigel Atkinson,Biology,2.0,8 ratings,25%,3.6
+1936,Roberto Santillan,Finance,1.5,2 ratings,0%,4
+1937,Jason Sagers,Engineering,3.2,5 ratings,60%,4.4
+1938,Venkat Ganesan,Engineering,3.3,3 ratings,75%,4
+1939,Jennifer Maynard,Engineering,2.9,5 ratings,34%,2.6
+1940,Brian Dinsmoor,Engineering,0.0,0 ratings,N/A,0
+1941,Ronny Hadani,Mathematics,4.8,4 ratings,100%,3.5
+1942,Lillian Mills,Accounting,0.0,0 ratings,N/A,0
+1943,Margaret Mendenhall,English,0.0,0 ratings,N/A,0
+1944,Bruce Pennycook,Film,1.0,1 ratings,0%,3
+1945,Janet Ellzey,Engineering,1.7,3 ratings,50%,3.7
+1946,Solomon Manukure,Mathematics,3.7,43 ratings,77%,2.8
+1947,Jacques Distler,Physics,1.0,1 ratings,0%,5
+1948,Brian Farr,Kinesiology Health,5.0,5 ratings,100%,3.4
+1949,Gregory Anderson,Geography,3.3,3 ratings,80%,1.3
+1950,James Walker,Biology,2.4,11 ratings,23%,4.2
+1951,Robert Luskin,Political Science,3.4,7 ratings,25%,2.7
+1952,Frane Karabatic,Languages,2.0,1 ratings,0%,5
+1953,Ronen Avraham,Law,2.9,3 ratings,0%,2.7
+1954,Nathaniel Lynd,Engineering,2.7,3 ratings,67%,3.7
+1955,Barry Brummett,Communication,2.8,4 ratings,25%,3.3
+1956,Amelia Wolf,Biology,3.0,6 ratings,58%,1.8
+1957,Madeline Maxwell,Communication,2.7,5 ratings,50%,4
+1958,Natalia Sylvester,Writing,2.0,1 ratings,0%,5
+1959,Charles Ramirez Berg,Film,4.9,37 ratings,100%,2
+1960,Kami Hull,Chemistry,3.4,15 ratings,67%,4.5
+1961,Michael Froehls,Business,3.6,12 ratings,67%,3.1
+1962,Patricia Wilson,Architecture,3.3,4 ratings,80%,4
+1963,Lucille Wood,Law,1.0,1 ratings,0%,3
+1964,Hayley Barnett,Classics,5.0,1 ratings,100%,2
+1965,Nicole Burrowes,Ethnic Studies,4.0,1 ratings,100%,4
+1966,Michael Charlesworth,Art History,3.5,10 ratings,67%,3.2
+1967,Julia Clarke,Geology,0.0,0 ratings,N/A,0
+1968,Shannon Dennis,Social Work,5.0,2 ratings,100%,1
+1969,Jessica O'Bleness,Psychology,5.0,3 ratings,100%,2.7
+1970,Erin Wike,Business,4.8,4 ratings,75%,1
+1971,Jessica Goldstein-Kral,Sociology,4.8,4 ratings,100%,2.8
+1972,Antonella Olson,Languages,4.5,18 ratings,91%,2.6
+1973,Abena Osseo-Asare,History,4.8,6 ratings,100%,1.8
+1974,Jessica O'Connell,Marine Sciences,0.0,0 ratings,N/A,0
+1975,Bryan Sitzes,Middle Eastern Studies,0.0,0 ratings,N/A,0
+1976,Biniam Aregawi,Civil Engineering,5.0,1 ratings,100%,4
+1977,Raissa Ferron,Civil Engineering,2.2,6 ratings,29%,4.5
+1978,Adrian Keatinge-Clay,Chemistry,2.5,11 ratings,17%,4.5
+1979,Rosa Schnyer,Nursing,2.9,8 ratings,25%,1.7
+1980,Keith Hawkins,Astronomy,5.0,10 ratings,100%,1.7
+1981,Kiril Avramov,Government,5.0,2 ratings,100%,3
+1982,Marcelo Paixão,Ethnic Studies,4.7,6 ratings,92%,2.3
+1983,David DiCarlo,Engineering,3.0,4 ratings,67%,4.3
+1984,Masa Prodanovic,Engineering,2.5,6 ratings,25%,3.2
+1985,Andrew Akhlaghi,History,5.0,1 ratings,100%,4
+1986,Itzik Gottesman,Languages,4.1,6 ratings,78%,2.5
+1987,Denne Reed,Anthropology,4.0,22 ratings,79%,3.2
+1988,Sangeeta Kamdar,Communication,4.4,5 ratings,80%,3
+1989,Linda Ferreira-Buckley,English,3.4,20 ratings,59%,3.7
+1990,Dina Kassler,Social Work,5.0,1 ratings,100%,3
+1991,Sikander Gilani,Philosophy,2.3,4 ratings,25%,3.5
+1992,Denise Davila,Education,0.0,0 ratings,100%,0
+1993,Mark Sainsbury,Philosophy,4.5,2 ratings,100%,2.5
+1994,Sarah Whitehead,Spanish Portuguese,3.8,13 ratings,74%,3.4
+1995,Elena Perez-Zetune,Mexican American Studies,0.0,0 ratings,N/A,0
+1996,Galit Marmor-Lavie,Advertising,3.9,9 ratings,67%,2.7
+1997,Wen Song,Engineering,3.2,6 ratings,67%,3.3
+1998,Larry Schooler,Communication,0.0,0 ratings,100%,0
+1999,Debbie White,Languages,4.8,9 ratings,86%,2.6
+2000,Edward Carey,Literature,5.0,1 ratings,100%,3
+2001,Rudy Pett,Communication,3.6,5 ratings,67%,3.2
+2002,Edward Anderson,Human Dev Family Sciences,3.0,13 ratings,62%,2.6
+2003,D'Arcy Randall,Writing,4.0,5 ratings,75%,1.4
+2004,Tracie Harrison,Nursing,5.0,1 ratings,100%,1
+2005,Finn Frankis,Computer Science,0.0,0 ratings,100%,0
+2006,Lorelei Batislaong,Music,5.0,2 ratings,100%,2
+2007,Roger Bonnecaze,Engineering,2.0,2 ratings,67%,4
+2008,KJ Sanchez,Theater,3.6,9 ratings,56%,2.3
+2009,Carlos Ramos-Scharron,Geography,3.5,13 ratings,58%,3.4
+2010,Thoralf Meyer,Geography,4.8,40 ratings,98%,2.6
+2011,Molly Polk,Geography,3.8,14 ratings,54%,3.7
+2012,Jayme Walenta,Geography,4.5,13 ratings,93%,2.2
+2013,Alexandra Garcia,Nursing,5.0,5 ratings,100%,1.2
+2014,Elizabeth Mayne,French Italian,4.5,2 ratings,100%,2
+2015,Davida Charney,Writing,4.8,7 ratings,100%,2.1
+2016,Kevin Thomas,Ethnic Studies,5.0,1 ratings,100%,2
+2017,Ting Ho,Philosophy,5.0,1 ratings,100%,3
+2018,Kelly McDonough,Spanish & Portuguese,4.8,10 ratings,100%,3
+2019,Astrid Runggaldier,Art History,3.8,15 ratings,67%,2.9
+2020,Bill Bloodgood,Theater,4.7,5 ratings,100%,2
+2021,Ronald Barr,Engineering,4.1,7 ratings,86%,1.6
+2022,Liu Xuecheng,Government,5.0,3 ratings,100%,2
+2023,Deanna Buckley,Education,5.0,4 ratings,100%,2.7
+2024,Ilya Finkelstein,Biology,2.6,10 ratings,50%,4
+2025,Peter Kahng,Fine Arts,2.0,1 ratings,75%,4
+2026,Michael Pearson,Journalism,5.0,7 ratings,100%,2.5
+2027,Raul Madrid,Political Science,3.4,16 ratings,54%,3.5
+2028,Aaron Baker,Engineering,0.0,0 ratings,100%,0
+2029,Juliet Walker,History,2.2,16 ratings,28%,2.6
+2030,Megan Crowhurst,Linguistics,3.1,10 ratings,63%,3.6
+2031,Kristen Oglesbee,Literature,1.8,6 ratings,17%,3.3
+2032,Penelope Davies,Fine Arts,4.2,18 ratings,79%,3.2
+2033,Rose Bridges,Music,0.0,0 ratings,N/A,0
+2034,Darsana Manayathu Sasi,Asian Studies,0.0,0 ratings,N/A,0
+2035,Richard Brown,Nursing,4.4,5 ratings,80%,1.6
+2036,Noah De Lissovoy,Education,5.0,2 ratings,100%,3
+2037,Yenibel ruiz,Spanish amp Portuguese,3.5,4 ratings,72%,3.3
+2038,Floyd Horng,Computer Science,5.0,4 ratings,100%,1
+2039,Michael Tye,Philosophy,3.3,33 ratings,50%,3.6
+2040,Ian Nauhaus,Psychology,1.0,1 ratings,0%,4
+2041,Mark Eddy,Psychology,0.0,0 ratings,100%,0
+2042,Ben Bentzin,Marketing,4.0,3 ratings,100%,3.3
+2043,Susan Mays,Asian Studies,3.4,5 ratings,60%,2.8
+2044,Kris Martin,Education,4.8,6 ratings,100%,2.3
+2045,Christopher Jolly,Nutrition,3.6,12 ratings,85%,2.8
+2046,Ami Pedahzur,Political Science,4.0,14 ratings,75%,1.9
+2047,Kit Belgum,Languages,4.3,6 ratings,67%,2.8
+2048,Kristen Ederer,Information Science,1.0,1 ratings,0%,3
+2049,Michelle Hsieh,Communication,3.0,4 ratings,25%,4
+2050,Bradford Love,Advertising,4.9,16 ratings,100%,1.6
+2051,Chantal Hailey,Sociology,4.8,5 ratings,100%,1.8
+2052,Gary Jacobsohn,Political Science,3.3,9 ratings,100%,3.7
+2053,Rachel González-Martin,Mexican American Studies,2.0,1 ratings,67%,5
+2054,Micheal Mackert,Advertising,3.9,4 ratings,100%,3.2
+2055,Dee Silverthorn,Biology,4.8,6 ratings,100%,3.7
+2056,Carol Spaulding,Kinesiology & Health,3.5,6 ratings,84%,2
+2057,Raffi Kiureghian,English,5.0,1 ratings,100%,3
+2058,Diana Zamora-Olivares,Chemistry,3.1,7 ratings,60%,3.8
+2059,Cassidy Doucet,Communication,0.0,0 ratings,N/A,0
+2060,Jacob Dizard,Government,4.0,6 ratings,84%,3
+2061,Alissa Mrazek,Psychology,5.0,4 ratings,100%,1.8
+2062,Chandra Srivastava,Marketing,1.0,1 ratings,50%,3
+2063,Huoy Khoo,Business,4.3,17 ratings,90%,3.5
+2064,Wilfredo Burgos Matos,Spanish & Portuguese,5.0,3 ratings,100%,2.7
+2065,Eugenio Arima,Geography,3.4,12 ratings,72%,3.2
+2066,Sheryl Beach,Geography,5.0,1 ratings,100%,2
+2067,Benjamin Burnett,Advisor,4.5,2 ratings,100%,2.5
+2068,Lauren Blondeau,Statistics amp Data Science,0.0,0 ratings,N/A,0
+2069,Josh Alexander,Finance,2.7,7 ratings,34%,3
+2070,Randi Voss,Engineering,4.7,6 ratings,100%,1.8
+2071,Adena Rivera-Dundas,Writing,5.0,11 ratings,100%,2.4
+2072,Huaiyin Li,History,3.3,4 ratings,34%,3
+2073,Pramit Chaudhuri,Classics,3.8,4 ratings,50%,3.5
+2074,Haydee Rodriguez,Education,2.0,1 ratings,0%,3
+2075,Doris Baker,Education,0.0,0 ratings,N/A,0
+2076,Melissa Rojas Williams,Education,0.0,0 ratings,N/A,0
+2077,Nathaniel Pancost,Finance,2.8,13 ratings,54%,3.9
+2078,Brendan Kline,Economics,3.5,6 ratings,89%,1.8
+2079,Nicola Tisato,Geology,3.5,2 ratings,50%,3.5
+2080,Donna Johnston-Blair,Accounting,4.6,32 ratings,94%,3.2
+2081,Claus Wilke,Biology,3.7,4 ratings,67%,3.3
+2082,Pawel Misztal,Engineering,0.0,0 ratings,100%,0
+2083,David Goldstein,Engineering,3.0,3 ratings,67%,4
+2084,Mark Longaker,Writing,4.9,14 ratings,100%,2.5
+2085,Vijay Joglekar,Management & Info Systems,2.5,16 ratings,41%,3.4
+2086,Muhammad Rahman,Geography,4.0,4 ratings,75%,3.3
+2087,Chris Prosise,Computer Science,3.7,6 ratings,84%,2.5
+2088,Warren Hunt,Computer Science,2.0,6 ratings,34%,4.2
+2089,Molly Cummings,Biology,3.5,4 ratings,89%,3
+2090,Liza Shapiro,Anthropology,4.0,23 ratings,88%,3
+2091,Devdatta Kulkarni,Computer Science,3.2,6 ratings,50%,3.2
+2092,Yazz Fawaz,French & Italian,3.9,11 ratings,43%,3.5
+2093,Adrian Riccelli,Spanish & Portuguese,4.0,1 ratings,100%,4
+2094,Todd Arbogast,Mathematics,3.9,12 ratings,63%,3.5
+2095,David Crew,History,4.9,10 ratings,100%,2.4
+2096,Michael Stoff,History,4.6,52 ratings,94%,3.2
+2097,Ray Buchanan,Philosophy,4.5,7 ratings,100%,2.8
+2098,Gordon Novak,Computer Science,3.8,37 ratings,84%,2.1
+2099,Arturo Delozanne,Biology,4.4,14 ratings,85%,3.6
+2100,Jody Jensen,Kinesiology amp Health,1.4,5 ratings,0%,3.2
+2101,Deborah Beck,Classics,3.9,21 ratings,94%,3.8
+2102,Josh Beckham,Biology,4.8,4 ratings,100%,3.5
+2103,Veronica Young,Pharmacy,0.0,0 ratings,100%,0
+2104,Rastko Jakovljevic,Music,5.0,2 ratings,100%,3
+2105,Philip Yoo,Religion,4.5,11 ratings,91%,3.7
+2106,Kirkland Fulk,Ethnic Studies,4.8,8 ratings,100%,2.1
+2107,Aarti Bhalodia,Asian Studies,1.7,3 ratings,25%,3
+2108,Ashley Coleman Taylor,Religion,3.5,2 ratings,50%,3
+2109,Geeta Persad,Geology,4.0,1 ratings,100%,2
+2110,Petre Petrov,Ethnic Studies,3.0,1 ratings,50%,4
+2111,Shannon Cavanagh,Sociology,4.4,18 ratings,89%,2.3
+2112,Petar Petrov,History,4.0,1 ratings,0%,4
+2113,Desiderio Kovar,Engineering,2.0,1 ratings,50%,3
+2114,Sara Sanchez,Business,4.3,7 ratings,100%,1.9
+2115,Vera Liu,Statistics,4.0,1 ratings,100%,2
+2116,Tristan Hanson,English,5.0,1 ratings,100%,2
+2117,Mirka Benes,Architecture,0.0,0 ratings,100%,0
+2118,Danielle Werle,Communication,4.7,3 ratings,100%,2.3
+2119,Nicholas Hallman,Accounting,5.0,4 ratings,100%,2.5
+2120,Madeline Sutherland-Meier,Languages,4.8,10 ratings,100%,2
+2121,Sean Keel,Mathematics,4.1,14 ratings,75%,4.4
+2122,Claire Maes,Asian Studies,3.5,6 ratings,67%,3
+2123,Shelbey Rolison,Communication,4.0,3 ratings,67%,3.3
+2124,Ian Molineux,Biology,3.0,5 ratings,84%,3.8
+2125,Barbara Laubenthal,Government,4.8,6 ratings,100%,2.2
+2126,Jennifer Graber,Religion,4.7,29 ratings,93%,2.8
+2127,Sierra Mendez,Writing,4.7,3 ratings,100%,2.7
+2128,Mark Pannes,Advertising,4.0,6 ratings,67%,3.3
+2129,Stephen Sonnenberg,Humanities,4.2,21 ratings,77%,1.8
+2130,Jung Kwak,Nursing,3.6,5 ratings,60%,3
+2131,Tim Fleisher,Biology,1.0,6 ratings,0%,4.8
+2132,David Cannatella,Biology,2.5,12 ratings,48%,3.5
+2133,Emily Brown,Education,4.5,2 ratings,100%,2.5
+2134,Michael Denly,Government,0.0,0 ratings,N/A,0
+2135,Gurpreet Singh,Engineering,3.0,5 ratings,60%,3.2
+2136,Darlene Wiley,Music,0.0,0 ratings,N/A,0
+2137,Chelsi Oheuri,Anthropology,5.0,2 ratings,100%,3.5
+2138,Jeff Andrien,Finance,5.0,1 ratings,100%,4
+2139,Kristen Procko,Biology,0.0,0 ratings,N/A,0
+2140,David Stein,Biology,4.0,3 ratings,75%,4.7
+2141,Kathleen Li,Business,4.8,4 ratings,100%,2.8
+2142,Chenyang Luo,Physics,1.0,3 ratings,0%,5
+2143,Richard Meier,Linguistics,4.3,3 ratings,100%,3
+2144,Peter Burton,Mathematics,3.6,15 ratings,60%,3.4
+2145,Andrew Blumberg,Mathematics,1.0,1 ratings,0%,5
+2146,Karishma Kaushik,Biology,5.0,4 ratings,100%,2
+2147,David Zuckerman,Computer Science,1.5,2 ratings,34%,4.5
+2148,Lisa Bennett,Advertising,0.0,0 ratings,N/A,0
+2149,Silvia Ramirez,Spanish & Portuguese,3.0,15 ratings,37%,3.2
+2150,Matt Eastin,Advertising,3.5,11 ratings,84%,3.1
+2151,Rebecca Neal-Beevers,Psychology,4.4,10 ratings,86%,3
+2152,Jennifer Glass,Social Science,4.5,13 ratings,100%,3
+2153,Adele Nelson,Art History,4.0,11 ratings,59%,3.5
+2154,Lynne Wilkinson,International Studies,3.1,9 ratings,100%,2.8
+2155,Briana Toole,Philosophy,4.5,2 ratings,100%,3.5
+2156,Deepak Chetty,Fine Arts,5.0,2 ratings,100%,3
+2157,Mary Schmitt,Communication,4.5,2 ratings,100%,3
+2158,Ken Wiles,Finance,3.3,3 ratings,67%,2.3
+2159,Chiu-Mi Lai,Asian Studies,4.3,19 ratings,86%,3
+2160,Courtney Powers,Communication,3.6,8 ratings,50%,2.8
+2161,Donnie Sackey,Writing,4.8,4 ratings,100%,2
+2162,Luis Aviles,Spanish & Portuguese,5.0,1 ratings,100%,2
+2163,Samy Ayoub,Government,4.0,14 ratings,87%,2.8
+2164,Hannah Hopkins,Writing,5.0,2 ratings,100%,2.5
+2165,Jeff Helmer,Music,4.5,22 ratings,100%,1.2
+2166,Brian Mills,Finance,1.0,1 ratings,50%,5
+2167,Donglei Fan,Engineering,4.0,1 ratings,100%,3
+2168,Steven Marshall,Political Science,4.4,8 ratings,100%,3.8
+2169,Jeanne Stachowiak,Engineering,3.5,2 ratings,75%,3.5
+2170,Etienne Vouga,Computer Science,5.0,2 ratings,100%,4
+2171,Mary E. Blockley,English,2.5,13 ratings,38%,3.6
+2172,John Berman,Mathematics,4.0,10 ratings,80%,3.5
+2173,Anthony Welsch,Accounting,0.0,0 ratings,N/A,0
+2174,Simon Peter,Computer Science,4.7,3 ratings,100%,3
+2175,Martha Menchaca,Anthropology,3.1,16 ratings,37%,3.1
+2176,Nina Palmo,Sociology,3.9,35 ratings,85%,2.5
+2177,Brian Pollex,Philosophy,4.3,3 ratings,67%,3.3
+2178,Wendy Domjan,Psychology,3.7,71 ratings,70%,2.8
+2179,Vladimir Samoylenko,Chemistry,3.4,43 ratings,61%,3.9
+2180,Jessica Church Lang,Psychology,4.3,12 ratings,95%,2.4
+2181,Samantha Pinto,English,4.0,15 ratings,87%,2.8
+2182,Sierra Senzaki,Writing,3.3,7 ratings,58%,2.8
+2183,Saraswati Majumdar,Writing,5.0,2 ratings,100%,2
+2184,Mansi Bajaj,Asian Studies,5.0,16 ratings,100%,2.2
+2185,Mackenzie Howard,Biology,2.0,18 ratings,17%,4.8
+2186,Delia Brownson,Social Work,2.5,2 ratings,50%,4
+2187,Pedro Metola,Chemistry,5.0,11 ratings,100%,2.4
+2188,Mark Cloos,Geology,0.0,0 ratings,N/A,0
+2189,Gail Grabner,Chemistry,3.3,56 ratings,63%,3.6
+2190,Chih-Wei Chang,Languages,4.7,12 ratings,100%,3.6
+2191,Haley Eazor,English,0.0,0 ratings,100%,0
+2192,Robert Oppenheim,Asian Studies,3.7,12 ratings,62%,3
+2193,Abhay Samant,Management & Info Systems,3.7,8 ratings,70%,2.6
+2194,Alisa Walch,Mathematics,1.4,8 ratings,30%,4.3
+2195,Jennifer Ebbeler,Classics,3.2,25 ratings,50%,3.5
+2196,Juan Dominguez,Psychology,4.2,22 ratings,71%,3
+2197,Lindsey Smith,Mathematics,3.5,69 ratings,51%,3.6
+2198,Sinead Williamson,Mathematics,3.3,14 ratings,65%,2.7
+2199,Chiyo Nishida,Spanish amp Portuguese,2.3,3 ratings,34%,3.7
+2200,James Miller,Finance,5.0,13 ratings,100%,3.5
+2201,Harrison Montgomery,Music,4.4,11 ratings,92%,1.8
+2202,Sean Manning,Spanish Portuguese,4.6,9 ratings,100%,3.4
+2203,Michael Marder,Physics,4.9,15 ratings,100%,3.1
+2204,Jurgen Streeck,Communication,2.4,14 ratings,17%,3
+2205,Anastazja Harris,Communication,0.0,0 ratings,N/A,0
+2206,Jeremy Cudd,Theater,3.2,5 ratings,60%,2.8
+2207,Katie Muenks,Education,2.9,19 ratings,62%,3.8
+2208,Dixie Stanforth,Health Science,4.5,32 ratings,100%,3.2
+2209,Kunal Nalamwar,Engineering,1.3,3 ratings,0%,2
+2210,Kevin Clarno,Engineering,0.0,0 ratings,N/A,0
+2211,Molly McGee,Information Studies,5.0,1 ratings,100%,1
+2212,Sarah Lopez,Architecture,4.4,7 ratings,84%,3.1
+2213,Scott Bauguess,Finance,3.8,4 ratings,50%,3
+2214,Michael Starbird,Mathematics,4.7,6 ratings,93%,3.2
+2215,Allan Cole,Philosophy,5.0,1 ratings,100%,3
+2216,Betsy Greenberg,Statistics,2.5,29 ratings,42%,3.8
+2217,Zengjian Chen,Biology,4.0,24 ratings,76%,3.4
+2218,Matthew Rinaudo,Finance,0.0,0 ratings,100%,0
+2219,Christina Markert,Physics,3.1,21 ratings,67%,2.9
+2220,Sarah Colclough,English,2.5,2 ratings,50%,4.5
+2221,Peter Stone,Computer Science,0.0,0 ratings,N/A,0
+2222,Zachary Adamz,Asian Studies,5.0,2 ratings,100%,2.5
+2223,Evan Stein,Psychology,5.0,3 ratings,100%,2
+2224,Natalie Amleshi,English,5.0,1 ratings,100%,3
+2225,Ana Cecilia Poveda,Spanish amp Portuguese,4.0,1 ratings,100%,3
+2226,Lvzhou Joe Chen,Mathematics,4.3,4 ratings,80%,2.8
+2227,Karen Browning,Biology,1.3,7 ratings,0%,4.4
+2228,Joseph Kotinsly,Middle Eastern Studies,0.0,0 ratings,100%,0
+2229,Heather Cooper,Nutrition,0.0,0 ratings,N/A,0
+2230,Charles Radin,Mathematics,1.7,14 ratings,25%,4
+2231,Chang Liu,Communication,4.1,11 ratings,70%,3.4
+2232,Thomas Edison,Engineering,3.6,13 ratings,70%,3.8
+2233,H.W. Perry Jr.,Government,4.7,11 ratings,95%,4.3
+2234,Jun Wang,Communication,5.0,1 ratings,100%,2
+2235,Thomas K. Hubbard,Classics,2.6,25 ratings,25%,3.9
+2236,Jason Lustig,Middle Eastern Studies,4.8,7 ratings,100%,2.7
+2237,Aruhn Venkat,Accounting,0.0,0 ratings,100%,0
+2238,Edmund Gordon,Anthropology,3.7,21 ratings,69%,2.9
+2239,Patti Brown,Accounting,3.5,12 ratings,70%,3.5
+2240,Kelvin Phan,Kinesiology & Health,3.7,3 ratings,50%,3
+2241,Eric Cambronne,Biology,4.7,8 ratings,100%,2.8
+2242,Randal Linder,Biology,2.7,15 ratings,50%,4
+2243,Spyros Kinnas,Civil Engineering,5.0,3 ratings,84%,4
+2244,Kenneth Stokoe,Engineering,3.1,18 ratings,57%,2.8
+2245,Rachel Lloyd,Communication,5.0,3 ratings,100%,4
+2246,Kevin Robbins,Journalism,5.0,9 ratings,100%,1.6
+2247,Kendall Tich,Communication,4.5,6 ratings,84%,3.2
+2248,Marilyn Felkner,Science,3.7,42 ratings,68%,3.3
+2249,Wen-Hua Teng,Asian Studies,4.0,11 ratings,64%,3.9
+2250,David Hoffman,Chemistry,4.4,28 ratings,87%,3.4
+2251,Christine Garvey,Fine Arts,3.1,7 ratings,58%,4.4
+2252,Deborah Jacobvitz,Human Dev amp Family Sciences,4.2,6 ratings,84%,2.5
+2253,Nora England,Languages,4.0,21 ratings,78%,2.6
+2254,Genelle Sanders,Communication,5.0,1 ratings,50%,3
+2255,Gina Chen,Journalism,4.7,3 ratings,100%,1.3
+2256,Andreas Mueller,Economics,2.0,1 ratings,50%,3
+2257,Janice Leoshko,Art History,3.0,3 ratings,25%,4
+2258,Yunina Barbour-Payne,Theater,2.8,5 ratings,43%,2.8
+2259,Mirela Ciperiani,Mathematics,2.9,5 ratings,75%,3.8
+2260,Robert Carroll,Communication,3.7,19 ratings,74%,4.1
+2261,Srimathi Kannan,Nutrition,2.5,9 ratings,45%,1.9
+2262,Shirl Donaldson,Management,1.0,5 ratings,0%,3.6
+2263,Charlie Dey,Computer Science,4.7,3 ratings,100%,2.7
+2264,Eunsol Choi,Computer Science,2.6,5 ratings,43%,4
+2265,Stefania Patrizi,Mathematics,4.1,14 ratings,95%,3.1
+2266,Joe Neeman,Mathematics,4.2,6 ratings,86%,3.7
+2267,Julia Echternach,Writing,4.2,5 ratings,80%,2.6
+2268,Volker Laux,Accounting,3.2,5 ratings,40%,3.2
+2269,Brian Sedio,Biology,0.0,0 ratings,N/A,0
+2270,Constantine Caramanis,Engineering,0.0,0 ratings,100%,0
+2271,Jeffrey Chipps Smith,Fine Arts,4.6,22 ratings,80%,3
+2272,Edward Chambers,Art History,4.2,10 ratings,86%,2
+2273,Moyosore Okediji,Art History,4.5,12 ratings,93%,1.7
+2274,Vera Burrows,Spanish & Portuguese,0.0,0 ratings,N/A,0
+2275,Becky Morales,Social Work,5.0,2 ratings,100%,2.5
+2276,Robert Josephs,Psychology,3.0,19 ratings,53%,3.5
+2277,Nolan Bentley,Biology,5.0,2 ratings,100%,3.5
+2278,Richard Crawford,Engineering,2.4,4 ratings,34%,3
+2279,Ja'nell Ajani,American Studies,5.0,1 ratings,100%,2
+2280,Josh Griffiths,French Italian,4.7,7 ratings,86%,4.7
+2281,Kevin Foster,Education,3.6,30 ratings,73%,2.4
+2282,Inbar Weiss,Sociology,4.1,10 ratings,80%,3
+2283,Enrique Figueredo,Art History,5.0,1 ratings,100%,1
+2284,Xiaolu Cambronne,Biology,0.0,0 ratings,N/A,0
+2285,Dawn Stienecker,Education,0.0,0 ratings,N/A,0
+2286,Sarah Miller,Art History,4.3,6 ratings,89%,2.3
+2287,Ahmed Shamim,Asian Studies,5.0,1 ratings,100%,2
+2288,Shanti Kumar,Film,2.5,4 ratings,34%,2.8
+2289,Erin Cunningham,Fine Arts,5.0,1 ratings,100%,3
+2290,Vernita Gordon,Physics,2.6,20 ratings,47%,4
+2291,Nina Telang,Engineering,4.1,70 ratings,85%,3.6
+2292,Gretchen Charrier,Accounting,4.2,37 ratings,90%,3.4
+2293,Mary Vaughan,Mathematics,4.3,3 ratings,100%,4.3
+2294,Kasey Faust,Engineering,5.0,7 ratings,100%,2.6
+2295,George Flaherty,Art History,4.2,19 ratings,89%,2.5
+2296,Lyndon Gill,Ethnic Studies,5.0,6 ratings,100%,2.7
+2297,Gregory Knapp,Geography,4.3,35 ratings,80%,2
+2298,George Pollak,Biology,4.3,33 ratings,86%,3.2
+2299,Tse-Min Lin,Government,3.0,1 ratings,100%,2
+2300,Daniyar Saparov,Science,5.0,2 ratings,100%,1
+2301,Kathleen Kelleher,Government,0.0,0 ratings,N/A,0
+2302,Allison Zengilowski,Psychology,5.0,6 ratings,100%,2
+2303,Vincent Snyder,Architecture,2.0,2 ratings,75%,4
+2304,Lizy John,Engineering,0.0,0 ratings,N/A,0
+2305,Altha Rodin,Mathematics,4.5,17 ratings,100%,3.6
+2306,Robert A. Joseph,Psychology,2.5,7 ratings,0%,3.4
+2307,Gary Underwood,English,2.2,12 ratings,N/A,3.3
+2308,Nathaniel Raley Woodward,Mathematics,4.7,36 ratings,95%,2.8
+2309,Jishnu Shankar,Asian Studies,4.7,3 ratings,100%,3
+2310,Richard Taylor,Health Science,3.9,21 ratings,75%,3.8
+2311,Liza Goodstein,Literature,4.3,4 ratings,100%,2.3
+2312,John Hasenbein,Engineering,4.5,4 ratings,100%,2.5
+2313,Dragan Djurdjanovic,Engineering,3.0,1 ratings,80%,4
+2314,Ashish Deshpande,Engineering,3.3,4 ratings,67%,3.5
+2315,Micky Marinelli,Biology,3.8,6 ratings,72%,3.7
+2316,Joseph Straubhaar,Communication,3.0,24 ratings,50%,3.4
+2317,Yoav Dicapua,Middle Eastern Studies,4.0,12 ratings,75%,3.3
+2318,Tracie Matysik,History,4.6,10 ratings,100%,3
+2319,Kevin Folliard,Engineering,3.2,6 ratings,60%,3.2
+2320,Tej Anand,Business,5.0,42 ratings,100%,2.9
+2321,Yasmiyn Irizarry,Ethnic Studies,3.2,5 ratings,60%,3.6
+2322,Faegheh Shirazi,Humanities,4.4,10 ratings,100%,3.3
+2323,Jose Perez,Design,5.0,2 ratings,100%,3.5
+2324,Matthew Lease,Computer Science,2.3,3 ratings,72%,4.3
+2325,Vincent Vanderheijden,Languages,3.0,14 ratings,72%,3.8
+2326,Rowan Martindale,Geology,3.8,12 ratings,75%,3.2
+2327,Carlos Hidrovo-Chavez,Engineering,5.0,1 ratings,100%,4
+2328,Hyun Hwang,Accounting,4.3,3 ratings,100%,2.3
+2329,Mia Markey,Engineering,0.0,0 ratings,N/A,0
+2330,Jennifer Wilson,Science,5.0,2 ratings,100%,1.5
+2331,Dawit Kidane-Mulat,Pharmacy,1.0,1 ratings,0%,3
+2332,Kim Beckwith,Kinesiology Health,2.9,7 ratings,43%,3.3
+2333,Hao-Yun Hsiao,Kinesiology amp Health,3.0,1 ratings,67%,2
+2334,Alan Tully,History,3.5,8 ratings,38%,3.1
+2335,Hans Frex,Spanish & Portuguese,5.0,1 ratings,100%,4
+2336,Chris Sullivan,Biology,3.8,9 ratings,63%,4.1
+2337,Lauren Dobbs,Science,5.0,4 ratings,100%,3
+2338,Helen Schneider,Economics,3.7,80 ratings,81%,2.7
+2339,Stephen Trejo,Economics,4.5,5 ratings,100%,3.8
+2340,Nevitt Reesor,Philosophy,3.4,5 ratings,100%,3.2
+2341,Seema Agarwala,Biology,2.8,4 ratings,50%,4
+2342,Jonathan Crosson,Anthropology,0.0,0 ratings,N/A,0
+2343,Arturo De Lozanne,Biology,4.8,5 ratings,100%,3
+2344,Luisa Fandino,Design,2.0,1 ratings,67%,5
+2345,Ji Ma,Statistics amp Data Science,1.0,2 ratings,0%,4
+2346,Tom Rauzi,Management,3.0,2 ratings,86%,4
+2347,Jeffrey Chen,Biology,1.0,1 ratings,0%,4
+2348,Molly Pollk,Geography,3.8,4 ratings,50%,3.5
+2349,Camila Torres Castro,Spanish amp Portuguese,5.0,3 ratings,100%,3
+2350,Nicole Smith,Philosophy,4.2,23 ratings,87%,2.6
+2351,Stephen Magee,Finance,4.0,1 ratings,50%,3
+2352,Valerio Rossi,Italian,1.0,1 ratings,88%,4
+2353,Sara Hussain,Kinesiology amp Health,5.0,1 ratings,100%,3
+2354,Christopher McClellan,Business,4.7,6 ratings,100%,2.3
+2355,Tyrone Porter,Biomedical Engineering,0.0,0 ratings,100%,0
+2356,Swathi Reddy,Social Work,0.0,0 ratings,N/A,0
+2357,Hillary Corwin,Government,5.0,1 ratings,100%,2
+2358,Katherina Payne,Education,0.0,0 ratings,N/A,0
+2359,Colin MacCormack,Classics,5.0,6 ratings,100%,2.5
+2360,Kaya de Barbaro,Psychology,3.7,7 ratings,72%,2.7
+2361,Lee Edwards,Accounting,0.0,0 ratings,N/A,0
+2362,John Keppelman,Anthropology,0.0,0 ratings,N/A,0
+2363,Lisa Neff,Human Dev amp Family Sciences,5.0,6 ratings,100%,2
+2364,Guy Raffa,Italian,4.4,17 ratings,95%,2.4
+2365,Kristen Oglesbee,Education,1.0,2 ratings,0%,3.5
+2366,Iliana Sosa,Film,5.0,1 ratings,100%,1
+2367,Noah Isenberg,Film,5.0,1 ratings,100%,2
+2368,James Hackett,Philosophy,5.0,3 ratings,100%,3
+2369,Mark Townsend,Mathematics,0.0,0 ratings,N/A,0
+2370,Gwendolyn Stovall,Chemistry,3.0,10 ratings,67%,3.3
+2371,Pablo Reinoso-Andres,Spanish & Portuguese,5.0,6 ratings,100%,3.2
+2372,Rasha Diab,Writing,2.6,13 ratings,34%,4.4
+2373,Laura Gonzales,Spanish Portuguese,2.0,2 ratings,0%,4
+2374,Samuel Twito,Sociology,3.0,8 ratings,70%,2.2
+2375,Carol MacKay,English,4.8,6 ratings,100%,2.7
+2376,Jennifer Austin,Mathematics,5.0,1 ratings,100%,1
+2377,Steven Gray,Management,4.6,9 ratings,89%,3.1
+2378,Ivan Chaar Lopez,American Studies,3.3,4 ratings,50%,3.5
+2379,Krishan Malik,Engineering,2.5,10 ratings,67%,2.2
+2380,Maria Franklin,Anthropology,4.4,11 ratings,95%,3.4
+2381,Samuel Woolley,Journalism,4.8,8 ratings,100%,2.5
+2382,Hannah Lewis,Music,4.5,9 ratings,89%,3.1
+2383,elizabeth keating,Anthropology,3.0,3 ratings,67%,2.7
+2384,Raoul Hernandez,Journalism,5.0,1 ratings,100%,2
+2385,Michael Young,Sociology,4.3,14 ratings,92%,2.5
+2386,Gustavo De Veciana,Engineering,4.5,4 ratings,100%,4
+2387,Mallary Tenore,Journalism,5.0,1 ratings,100%,3
+2388,Darla Castelli,Education,3.7,3 ratings,75%,2.3
+2389,Michael Endl,Astronomy,4.3,23 ratings,87%,2.6
+2390,Carolyn Dunlap,Spanish & Portuguese,4.6,9 ratings,89%,2.5
+2391,Mary Anderson,Management,0.0,0 ratings,100%,0
+2392,Michael Sury,Finance,4.4,72 ratings,86%,3.8
+2393,Myan Aljets,Design,0.0,0 ratings,100%,0
+2394,Scott Aaronson,Computer Science,0.0,0 ratings,100%,0
+2395,Janet Davis,American Studies,4.4,22 ratings,79%,2.9
+2396,Javier Auyero,Sociology,3.6,43 ratings,75%,2.7
+2397,Michael Holleran,Architecture,4.5,2 ratings,100%,3
+2398,Toyin Falola,History,2.8,24 ratings,58%,2.6
+2399,Sarah Abraham,Computer Science,3.9,13 ratings,75%,2.9
+2400,Oksana Lutsyshyna,Women's Studies,4.5,6 ratings,75%,2.3
+2401,Delia Montesinos,Spanish & Portuguese,4.4,14 ratings,84%,3
+2402,Sonya Seeman,Music,4.5,4 ratings,100%,2.5
+2403,Cheng-Wei Lin,Middle Eastern Studies,4.3,3 ratings,100%,3.7
+2404,Joel Johnson,Geology,3.5,29 ratings,60%,3.1
+2405,Yoel Villahermosa,Spanish amp Portuguese,5.0,13 ratings,100%,2.6
+2406,Elizabeth Pettit,Sociology,4.0,1 ratings,100%,2
+2407,Robyn Croft,Communication,5.0,1 ratings,100%,2
+2408,Susan De Luca,Social Work,2.2,10 ratings,50%,3.9
+2409,Saikishan Suryanarayanan,Engineering,1.0,1 ratings,0%,5
+2410,Pamela Buchanan,Physical Ed,2.8,7 ratings,43%,2.4
+2411,Walter Buenger,History,3.3,3 ratings,67%,3
+2412,Vox Hsu,Writing,5.0,1 ratings,100%,3
+2413,Alex Armonda,Education,5.0,3 ratings,100%,2.3
+2414,Emily Brown,Psychology,4.8,7 ratings,100%,2.1
+2415,Miriam Schoenfield,Philosophy,4.0,7 ratings,100%,2.1
+2416,Christopher Wlezien,Government,4.1,6 ratings,84%,3
+2417,Dinorah Cossio,Spanish & Portuguese,4.0,3 ratings,34%,3.7
+2418,Ciara Nugent,Statistics,3.0,2 ratings,75%,4
+2419,Pat Davis,Pharmacy,4.9,11 ratings,100%,1.8
+2420,Kim Fromme,Psychology,3.4,9 ratings,50%,2.6
+2421,Danielle Berg,Astronomy,3.5,2 ratings,87%,4
+2422,Can Kilic,Physics,4.5,12 ratings,93%,3.1
+2423,Shelly Rodriguez,Science,4.9,15 ratings,100%,1.7
+2424,Zeynep Somer-Topcu,Political Science,3.3,13 ratings,62%,4
+2425,P Barrish,English,4.5,14 ratings,100%,2.8
+2426,John Luecke,Mathematics,3.5,18 ratings,50%,3.1
+2427,Steve Mims,Film,3.3,6 ratings,50%,3.3
+2428,Stephanie Holmsten,International Studies,4.1,22 ratings,90%,3.2
+2429,Erik Dempsey,Classics,4.5,21 ratings,100%,3.8
+2430,Lauren Meyers,Biology,4.3,4 ratings,67%,1.8
+2431,Kyle Shen,Government,5.0,1 ratings,100%,2
+2432,James Buhler,Music,3.4,26 ratings,59%,2.7
+2433,Ethan Warren,Classics,3.0,1 ratings,0%,3
+2434,Donato Loia,Art History,4.4,5 ratings,80%,2.2
+2435,Catherine Hough,Social Work,4.5,2 ratings,100%,3
+2436,Nicholas Fey,Engineering,4.0,1 ratings,100%,3
+2437,Lauren Webb,Chemistry,3.3,26 ratings,43%,3.8
+2438,Stanley Gunn,Information Science,5.0,1 ratings,100%,2
+2439,Patrick Badolato,Accounting,3.7,13 ratings,72%,4.2
+2440,Jonathan Jarvis,Anthropology,5.0,4 ratings,100%,1.2
+2441,Karen Ostlund,Science,4.0,10 ratings,70%,2.1
+2442,Lisa Sigafoos,Education,4.6,7 ratings,88%,2
+2443,Caitlin Orsini,Psychology,4.4,5 ratings,84%,3
+2444,Diane Rhodes,Social Work,5.0,8 ratings,100%,2
+2445,Dina Inman-Ramgolam,Communication,4.5,2 ratings,100%,2.5
+2446,Sandi Rosenbloom,Architecture,0.0,0 ratings,N/A,0
+2447,Heather Pelletier,French & Italian,4.5,21 ratings,90%,3.2
+2448,Noel Busch-Armendariz,Social Work,4.0,9 ratings,89%,2.4
+2449,Ellen Rathje,Engineering,3.2,7 ratings,60%,3.9
+2450,Eric Fahrenthold,Engineering,4.7,3 ratings,100%,1.7
+2451,Boris Corredor,Spanish & Portuguese,0.0,0 ratings,100%,0
+2452,Trey Lockett,Music,5.0,1 ratings,100%,1
+2453,Victor Garre Leon,Spanish & Portuguese,4.0,1 ratings,100%,4
+2454,Raymond Thompson,Communication,1.0,2 ratings,34%,4
+2455,Katherine Davis,Mathematics,3.5,114 ratings,62%,2.6
+2456,Ron Elber,Chemistry,3.9,4 ratings,100%,3
+2457,Brian Belardi,Engineering,4.0,1 ratings,100%,5
+2458,Mark Kirkpatrick,Biology,3.2,12 ratings,67%,3.9
+2459,Ariel Evans,Art History,3.8,6 ratings,50%,3.3
+2460,Flávio Azevedo,Education,4.8,4 ratings,100%,3.5
+2461,Jack Turner,Physics,2.7,9 ratings,75%,3.6
+2462,George Forgie,History,4.5,23 ratings,71%,3.9
+2463,Joel Rollins,Communication,2.8,19 ratings,48%,3.5
+2464,Sandra Straubhaar,Social Science,3.5,6 ratings,72%,2.2
+2465,Michael Webber,Engineering,4.8,4 ratings,100%,2.5
+2466,Ryan Kelly,Fine Arts,5.0,3 ratings,100%,1.3
+2467,Aryan Mokhtari,Engineering,3.0,3 ratings,60%,2.7
+2468,Dana Ballard,Computer Science,3.4,9 ratings,40%,2.4
+2469,Ryan Wallace,Journalism,2.0,2 ratings,0%,3.5
+2470,Charles Mullins,Engineering,4.8,5 ratings,100%,4.2
+2471,Eric Senning,Neuroscience,1.0,3 ratings,0%,4.3
+2472,Christopher Meakin,Business,3.7,19 ratings,77%,3.1
+2473,Arianna Avalle,French & Italian,0.0,0 ratings,N/A,0
+2474,Richard Hazeltine,Physics,5.0,1 ratings,100%,4
+2475,Quilan Arnold,Theatre & Dance,0.0,0 ratings,N/A,0
+2476,Bertram Gawronski,Psychology,4.2,10 ratings,67%,3.9
+2477,Emily Emison,Writing,5.0,2 ratings,100%,2
+2478,Steven Bowers,Finance,5.0,3 ratings,100%,3
+2479,Mina Kim,Languages,4.9,10 ratings,100%,2.4
+2480,Caryn Conley,Management Info Systems,2.5,20 ratings,35%,4.1
+2481,George Christian,English,4.7,52 ratings,88%,3
+2482,Mariah Wade,Anthropology,2.3,26 ratings,34%,3.7
+2483,Phil Isett,Mathematics,0.0,0 ratings,0%,0
+2484,Anthony Di Fiore,Anthropology,0.0,0 ratings,N/A,0
+2485,Christy Moore,English,3.5,2 ratings,50%,3.5
+2486,Sapun Parekh,Biomedical Engineering,2.0,2 ratings,67%,4
+2487,James Wadman,Chemistry,5.0,8 ratings,100%,2.8
+2488,Ann Repp,Psychology,4.5,53 ratings,91%,2.2
+2489,Paola Canova,Anthropology,4.3,2 ratings,100%,3
+2490,Earl Swartzlander,Engineering,4.5,13 ratings,100%,1.5
+2491,Amy Melton,Music,5.0,1 ratings,100%,2
+2492,Yvon Delville,Psychology,3.2,14 ratings,20%,3.2
+2493,Gregory Rodin,Physics,3.3,28 ratings,57%,4.2
+2494,David Allen,Geography,4.0,3 ratings,80%,3.7
+2495,Loukas Kallivokas,Civil Engineering,3.0,10 ratings,59%,4
+2496,Minette Drumwright,Communication,4.2,16 ratings,90%,3.4
+2497,Jorge Balat,Economics,0.0,0 ratings,100%,0
+2498,Mary Poteet,Biology,3.0,42 ratings,53%,2.9
+2499,Jennifer Jones Barbour,Communication,4.6,31 ratings,93%,2.8
+2500,Caroline Rohm,Music,1.7,3 ratings,0%,3.7
+2501,Eric Webber,Advertising,0.0,0 ratings,100%,0
+2502,Lina Sela,Engineering,4.4,5 ratings,100%,2.2
+2503,Rebecca Le Borgne,Languages,4.5,6 ratings,100%,3.3
+2504,Blinda McClelland,Science,3.6,57 ratings,73%,2.7
+2505,Dalpat Rajpurohit,Asian Studies,2.2,9 ratings,54%,2.8
+2506,Kathryn Harden,Psychology,3.0,21 ratings,67%,3.7
+2507,Benjamin Brower,History,3.0,9 ratings,13%,3.5
+2508,Kerry Knerr,American Studies,4.6,8 ratings,88%,3.5
+2509,Bradley Love,Psychology,5.0,2 ratings,100%,1.5
+2510,Bill Wolesensky,Mathematics,4.9,155 ratings,100%,2.7
+2511,Kanthimathi Sathasivan,Mathematics,2.4,58 ratings,36%,3.6
+2512,Heather Rice,Languages,4.7,3 ratings,100%,3.7
+2513,Julie Hardwick,History,3.7,15 ratings,50%,3.4
+2514,Karen Grumberg,Middle Eastern Studies,4.5,2 ratings,100%,4
+2515,Sahil Maherali,Business,4.8,10 ratings,100%,2.1
+2516,JK Barret,English,4.4,5 ratings,86%,4.2
+2517,Antonia Chimonidou,Science,4.3,9 ratings,91%,2.1
+2518,Lauren DePue,Chemistry,5.0,2 ratings,100%,1
+2519,Sarah Sutcliffe,Chemistry,2.9,166 ratings,24%,3.3
+2520,Ryan Romero,Communication,3.5,11 ratings,50%,3.2
+2521,Lauren Ehrlich,Biology,3.7,3 ratings,67%,4
+2522,Steve Reese,Journalism,3.3,30 ratings,63%,3
+2523,Jorge Zornberg,Civil Engineering,1.0,2 ratings,0%,5
+2524,Joseph Kileel,Mathematics,1.5,2 ratings,34%,4.5
+2525,Justin Havird,Biology,5.0,5 ratings,100%,3.8
+2526,Jason Rosenblum,Education,1.0,1 ratings,0%,4
+2527,Jason Cons,Anthropology,3.9,12 ratings,75%,3.5
+2528,Jossianna Arroyo,Spanish & Portuguese,5.0,1 ratings,100%,4
+2529,Amy Sanders,Journalism,3.0,14 ratings,34%,4.4
+2530,Philip Treisman,Mathematics,4.4,91 ratings,97%,3.8
+2531,Stacy Jorgensen,Health Science,5.0,1 ratings,100%,1
+2532,Jeffrey Danciger,Mathematics,4.2,26 ratings,80%,2.7
+2533,Harold McMillan,Communication,0.0,0 ratings,N/A,0
+2534,Dede Sparks,Social Work,5.0,1 ratings,100%,1
+2535,Antonio Gonzalez,Biology,5.0,3 ratings,100%,1.7
+2536,Lauren Hampton,Education,2.0,3 ratings,34%,3.7
+2537,Benjamin Gregg,Government,3.8,16 ratings,60%,3.3
+2538,Brandon Lamson,English,0.0,0 ratings,100%,0
+2539,Steve Friesen,Religion,4.3,4 ratings,67%,3
+2540,Kaori Duffey,Languages,5.0,7 ratings,100%,2.9
+2541,Nabanjan Maitra,Asian Studies,5.0,1 ratings,100%,1
+2542,Amanda Hager,Mathematics,4.6,96 ratings,100%,2.5
+2543,Kathryn Tackett,Education,4.7,27 ratings,97%,1.4
+2544,Sharon Strover,Computer Science,0.0,0 ratings,N/A,0
+2545,Doug Bruster,English,4.7,51 ratings,94%,2.7
+2546,Gladys Valdez,Psychology,3.0,1 ratings,67%,3
+2547,Douglas Biow,French & Italian,4.4,24 ratings,89%,2.7
+2548,Shannon O'Brien,Government,4.4,17 ratings,97%,2.2
+2549,Joshua Frank,Spanish & Portuguese,4.6,5 ratings,100%,2.8
+2550,Michael Dale,Philosophy,5.0,11 ratings,100%,3.1
+2551,James Fleet,Nutrition,3.2,5 ratings,50%,3.4
+2552,Fred Valdez,Anthropology,4.2,53 ratings,99%,1.5
+2553,Kaila Schedeen,Art History,0.0,0 ratings,100%,0
+2554,Henry Rylander,Biomedical Engineering,3.0,1 ratings,100%,4
+2555,Laura Suggs,Biomedical Engineering,3.0,1 ratings,100%,4
+2556,Bahar Tahamtani,American Studies,5.0,1 ratings,100%,2
+2557,Tonia Guida,Humanities,0.0,0 ratings,100%,0
+2558,Nicole Yanez,Humanities,0.0,0 ratings,N/A,0
+2559,John Bimbiras,Music,5.0,2 ratings,100%,1
+2560,Elizabeth Hendrick,English,3.9,4 ratings,50%,2.5
+2561,John (Johnny) Butler,Management,2.6,4 ratings,34%,2.5
+2562,Don Crowley,Kinesiology amp Health,5.0,4 ratings,100%,1
+2563,Chris Aarons,Marketing,4.3,44 ratings,87%,3.7
+2564,Michael Hasler,Business,2.3,9 ratings,53%,3.6
+2565,Cate Graziani,Social Work,2.0,1 ratings,0%,4
+2566,Zully Guerra,Social Work,4.0,1 ratings,100%,3
+2567,Xiao Ding,Social Work,5.0,1 ratings,100%,2
+2568,Thomas Connolly,Engineering,4.0,8 ratings,100%,3.3
+2569,Mike Ryan,Biology,4.2,4 ratings,100%,3.2
+2570,Bobby Leshikar,English,5.0,5 ratings,100%,4
+2571,Avigail Noy,Middle Eastern Studies,5.0,1 ratings,100%,3
+2572,Alberto Martinez,History,4.5,16 ratings,94%,3
+2573,Oscar Gonzalez,Mathematics,3.3,9 ratings,77%,4.1
+2574,Ian Myers,Government,0.0,0 ratings,N/A,0
+2575,Timothy Beach,Geography,2.5,4 ratings,40%,4.2
+2576,Soo Hyun Yang,Chemistry,0.0,0 ratings,N/A,0
+2577,Christopher Beevers,Psychology,4.4,28 ratings,92%,2.9
+2578,Ed Yu,Engineering,4.0,21 ratings,86%,4.4
+2579,Brian Trinque,Economics,2.5,7 ratings,45%,4.4
+2580,Rosental Alves,Journalism,4.5,2 ratings,100%,2.5
+2581,Kate Pounders,Advertising,4.2,64 ratings,90%,2.7
+2582,Can Cenik,Biology,0.0,0 ratings,100%,0
+2583,Edward Marcotte,Biology,0.0,0 ratings,N/A,0
+2584,Brett Siegel,Film,4.8,5 ratings,100%,2.6
+2585,Alida Perrine,Spanish & Portuguese,4.8,4 ratings,100%,2.5
+2586,Jennifer Gillespie,Geology,1.0,2 ratings,34%,3
+2587,Tara Dudley,Architecture,0.0,0 ratings,100%,0
+2588,Gary Wilcox,Communication,3.8,49 ratings,83%,4
+2589,Ginny Catania,Geology,4.4,8 ratings,93%,2.9
+2590,Alicen Davis,Biology,0.0,0 ratings,100%,0
+2591,Stacia Rodenbusch,Biology,5.0,2 ratings,100%,2
+2592,Jonathan Kaplan,Middle Eastern Studies,4.4,34 ratings,86%,2.5
+2593,Ronda Barnett,Advertising,0.0,0 ratings,N/A,0
+2594,Sean LaBounty,Advertising,4.7,3 ratings,100%,4
+2595,Cory Juhl,Philosophy,3.8,12 ratings,25%,2.5
+2596,Bethany Albertson,Political Science,3.8,5 ratings,67%,2.4
+2597,Inman Ramgolam,Communication,3.5,7 ratings,43%,3
+2598,William Schwartz,Medicine,3.5,2 ratings,60%,3.5
+2599,James Scott,Business,4.4,11 ratings,83%,3.5
+2600,Colin Shanafelt,English,3.7,3 ratings,80%,4.3
+2601,Patrick Carroll,Psychology,3.9,57 ratings,65%,3.4
+2602,Jiwon Jeon,Sociology,2.9,19 ratings,47%,3.7
+2603,Miguel Pinedo,Health Science,4.0,6 ratings,84%,1.5
+2604,Daniel Kahozi,French & Italian,0.0,0 ratings,100%,0
+2605,Elizabeth Keating,Linguistics,3.0,9 ratings,25%,1.6
+2606,Hillary Procknow,Counseling,0.0,0 ratings,N/A,0
+2607,David Mohrig,Geology,4.4,5 ratings,80%,3.8
+2608,Amy Wright,Humanities,5.0,1 ratings,100%,2
+2609,Simon Quiroz,Film,5.0,1 ratings,100%,2
+2610,Keely Finkelstein,Astronomy,3.6,44 ratings,83%,2.7
+2611,Rohitash Rao,Advertising,4.9,17 ratings,95%,2.2
+2612,Charity-Joy Acchiardo,Economics,2.4,19 ratings,65%,3
+2613,James Pope,Government,4.5,2 ratings,100%,3.5
+2614,Megan Allen,Accounting,4.5,14 ratings,100%,3.4
+2615,Lauretta Reeves,Psychology,4.1,66 ratings,69%,3.2
+2616,Kendall Crowns,Science,5.0,3 ratings,100%,1.7
+2617,David Junker,Advertising,4.2,31 ratings,95%,2.1
+2618,Ash D'Harcourt,Communication,5.0,2 ratings,100%,3
+2619,Sinan Dogramaci,Philosophy,4.2,18 ratings,71%,3.9
+2620,Magdalena Bennett,Statistics,1.3,25 ratings,25%,4.2
+2621,Jun Wang,Linguistics,0.0,0 ratings,N/A,0
+2622,James Curley,Psychology,4.6,31 ratings,99%,2.9
+2623,Abigail Burns,Writing,0.0,0 ratings,100%,0
+2624,Jean Incorvia,Engineering,3.1,7 ratings,67%,4
+2625,David Beaver,Linguistics,3.7,9 ratings,75%,3.4
+2626,Elon Lang,Literature,4.2,24 ratings,90%,3.9
+2627,Ben Delphine,Political Science,5.0,1 ratings,100%,2
+2628,Lawrence Brownstein,Psychology,4.7,41 ratings,92%,1.6
+2629,Kelsey Ellis,Anthropology,5.0,2 ratings,100%,3
+2630,Kizzy Albritton,Education,5.0,1 ratings,100%,3
+2631,Elena Caceras,Physics,1.0,1 ratings,0%,4
+2632,Elena Caceres,Physics,3.6,9 ratings,64%,3.7
+2633,Esbelle Jowers,Kinesiology amp Health,2.7,12 ratings,54%,3.1
+2634,Jason Urban,Fine Arts,4.8,8 ratings,100%,2.5
+2635,Jennifer McClearen,Film,4.2,22 ratings,83%,2.7
+2636,Nathan Engel-Hawbecker,Philosophy,5.0,2 ratings,100%,3
+2637,Lance Bertelsen,English,4.0,15 ratings,74%,3
+2638,Megan Raby,Science,3.7,4 ratings,88%,3.5
+2639,Monica Faulkner,Psychology,5.0,1 ratings,100%,4
+2640,Luke Waring,Asian Studies,5.0,2 ratings,100%,2
+2641,Irene Gamba,Mathematics,3.0,2 ratings,50%,4.5
+2642,Timothy Perutz,Mathematics,3.5,22 ratings,58%,3.6
+2643,Andres Donangelo,Finance,3.3,4 ratings,50%,4
+2644,PRANAV SWAMINATHAN,Engineering,5.0,1 ratings,100%,2
+2645,Oscar Casares,English,3.7,7 ratings,100%,3.1
+2646,Katy McCarthy,Fine Arts,3.5,2 ratings,75%,3.5
+2647,Theresa Martines,Mathematics,4.9,41 ratings,100%,2.3
+2648,Jan Schneider,Finance,5.0,4 ratings,100%,3.8
+2649,Nahid Siamdoust,Middle Eastern Studies,4.0,1 ratings,100%,5
+2650,Tayfun Keskin,Management & Info Systems,3.0,6 ratings,50%,2.2
+2651,Vijay Chidambaram,Computer Science,5.0,1 ratings,100%,4
+2652,Anna Tenerani,Physics,4.5,2 ratings,100%,3.5
+2653,Alexander Huth,Computer Science,0.0,0 ratings,100%,0
+2654,Gregory Anderson,Computer Science,0.0,0 ratings,N/A,0
+2655,Brent Waters,Computer Science,0.0,0 ratings,N/A,0
+2656,Eun Kim,Languages,4.3,6 ratings,75%,3.2
+2657,Lauren Gulbas,Social Work,5.0,16 ratings,100%,3
+2658,Chad Seales,Religion,4.5,12 ratings,95%,2
+2659,Robert Hammond,Business,5.0,1 ratings,100%,1
+2660,Mihai Sirbu,Mathematics,4.0,8 ratings,78%,3
+2661,John Hartigan,Anthropology,3.3,25 ratings,56%,3.4
+2662,Efstathios Bakolas,Engineering,0.0,0 ratings,N/A,0
+2663,Daniel Kramer,Information Studies,0.0,0 ratings,100%,0
+2664,Laura Brown,Communication,5.0,6 ratings,100%,2.2
+2665,Natalie Czimskey,Communication,5.0,30 ratings,100%,2.8
+2666,Karen Rayne,Education,4.9,17 ratings,100%,1.7
+2667,Yi-Chih Lin,Chemistry,5.0,1 ratings,50%,4
+2668,Deborah Walker,Chemistry,3.3,111 ratings,56%,3.9
+2669,Mina Ogando-Lavin,Spanish Portuguese,3.8,9 ratings,79%,2.9
+2670,John Daly,Communication,4.7,99 ratings,99%,3.5
+2671,Rabun Taylor,Classics,2.5,35 ratings,23%,3.7
+2672,Narayana Aluru,Engineering,3.0,1 ratings,100%,4
+2673,James Sulzer,Engineering,5.0,2 ratings,100%,3.5
+2674,Daniel Bonevac,Philosophy,4.1,99 ratings,71%,2.9
+2675,Nanshu Lu,Engineering,3.0,17 ratings,44%,4.1
+2676,Xuan Ho,Film,1.0,1 ratings,50%,4
+2677,Katherine Dunlop,Philosophy,0.0,0 ratings,100%,0
+2678,Magda Simonet,Italian,5.0,1 ratings,100%,3
+2679,Phillip Barrish,English,4.5,8 ratings,79%,2.4
+2680,Omer Ozcan,Anthropology,4.1,8 ratings,100%,2.3
+2681,Gregory Brooks,Civil Engineering,0.0,0 ratings,100%,0
+2682,Maria Gonzalez,Management & Info Systems,4.3,4 ratings,80%,3.8
+2683,Lucas Holt,Engineering,0.0,0 ratings,100%,0
+2684,Jocelly Meiners,Spanish & Portuguese,5.0,12 ratings,100%,3.4
+2685,Shuting Yao,Communication,0.0,0 ratings,N/A,0
+2686,Leta Deithloff,First Year Experience,5.0,2 ratings,100%,2
+2687,Adrianne Rosales,Chemistry,4.7,7 ratings,100%,3.1
+2688,Enrique Aguayo,Education,0.0,0 ratings,100%,0
+2689,Katie Bradford,Communication,4.7,9 ratings,100%,2.6
+2690,Craig Blaha,Information Science,3.4,9 ratings,60%,2.6
+2691,Kenneth Wisian,First Year Experience,4.2,5 ratings,84%,2.8
+2692,Haiqing Xu,Economics,4.2,4 ratings,80%,3
+2693,Sharon Jarvis,Communication,4.9,8 ratings,100%,3
+2694,Patience Epps,Languages,4.2,7 ratings,100%,3
+2695,Mohammad Mohammad,Languages,5.0,4 ratings,100%,2.8
+2696,Raji Srinivasan,Marketing,0.0,0 ratings,N/A,0
+2697,Jae Johnson,Languages,4.6,18 ratings,95%,1.9
+2698,Bryan Norwood,Architecture,0.0,0 ratings,100%,0
+2699,Kathryn Dabbs,Mathematics,4.0,19 ratings,83%,2.6
+2700,Shao-Ying Cheng,Biology,2.9,34 ratings,62%,4.4
+2701,Samuel Gosling,Psychology,3.3,17 ratings,69%,3.6
+2702,Don Ruse,Management,2.0,14 ratings,53%,4.6
+2703,Brandon Jones,Humanities,0.0,0 ratings,100%,0
+2704,Colton Krawietz,Communication,3.5,4 ratings,50%,3.8
+2705,Nishant Upadhyay,Languages,5.0,1 ratings,100%,4
+2706,Mazen Diab,Engineering,3.0,28 ratings,57%,3.6
+2707,Virginia Brown,Social Science,1.0,3 ratings,0%,1.7
+2708,Saher Elsayed,Engineering,4.9,13 ratings,94%,3.5
+2709,Patrick Walter,American Studies,4.4,7 ratings,93%,2.2
+2710,Chris Kirk,Anthropology,4.6,62 ratings,90%,3.3
+2711,Jay Banner,Geology,3.9,58 ratings,71%,3.2
+2712,geoff rich,Physical Education,4.7,7 ratings,86%,1.2
+2713,Ofodike Ezekoye,Engineering,1.8,8 ratings,23%,4.7
+2714,Erik Gnagy,Physical Education,3.2,12 ratings,77%,2.4
+2715,Rosalie Ambrosino,Social Work,5.0,5 ratings,100%,2.8
+2716,Judith Coffin,History,3.5,11 ratings,77%,3.5
+2717,Kristin Patterson,Biology,3.2,37 ratings,42%,3.5
+2718,Dana Stauffer,Government,4.0,51 ratings,78%,3.6
+2719,Ian Thomas,Engineering,2.3,7 ratings,50%,3.4
+2720,Bobbie Wu,Mathematics,4.8,4 ratings,100%,2.8
+2721,Frederick Aldama,English,5.0,2 ratings,100%,2
+2722,Melissa Murphy,Management,4.0,21 ratings,88%,3.6
+2723,Kenneth Diller,Biomedical Engineering,5.0,7 ratings,100%,1.7
+2724,Mike Scott,Computer Science,4.4,139 ratings,88%,3.6
+2725,Greg Sitz,Physics,4.4,14 ratings,95%,3
+2726,Pedro Santacruz,Engineering,4.4,13 ratings,67%,3.6
+2727,Quoc Nguyen,Engineering,3.5,7 ratings,60%,4.4
+2728,Zhenghui Sha,Engineering,0.0,0 ratings,N/A,0
+2729,Chris Rylander,Engineering,3.0,1 ratings,100%,1
+2730,Oliver Freiberger,Asian Studies,5.0,8 ratings,100%,1.8
+2731,James Karboski,Science,3.1,39 ratings,55%,3.8
+2732,Timothy Riedel,Biology,4.9,5 ratings,100%,2.4
+2733,Beth Pizzini,History,0.0,0 ratings,N/A,0
+2734,Yaoyao Jia,Engineering,5.0,1 ratings,100%,5
+2735,Fatima Fahkreddine,Chemistry,4.7,8 ratings,100%,2.5
+2736,Angela Beasley,Computer Science,4.2,21 ratings,91%,3
+2737,Martin Poenie,Biology,2.5,29 ratings,46%,3.6
+2738,Julie Casey,History,4.3,21 ratings,90%,4
+2739,William Bulko,Computer Science,4.3,38 ratings,88%,2.4
+2740,Nilen Varade,Physics,0.0,0 ratings,N/A,0
+2741,Daniel de Repentigny,Business,0.0,0 ratings,N/A,0
+2742,Alan Sager,Government,3.5,25 ratings,67%,4
+2743,Laurent Lafleche,Mathematics,2.3,4 ratings,50%,3.8
+2744,Layla Guyot,Statistics & Data Science,3.6,20 ratings,75%,3.6
+2745,Emanuel Tutuc,Engineering,4.6,8 ratings,100%,4
+2746,Nathan Jensen,Government,5.0,6 ratings,100%,2.7
+2747,Fares Fraij,Computer Science,4.3,49 ratings,91%,3.2
+2748,Anat Miamon,Middle Eastern Studies,1.0,1 ratings,67%,5
+2749,Philipp Krahenbuhl,Computer Science,3.7,3 ratings,34%,4.7
+2750,Keji Lai,Physics,3.4,11 ratings,77%,3.6
+2751,Mariana Sabino-Salazar,Spanish & Portuguese,5.0,3 ratings,100%,2
+2752,Gretchen Murphy,English,4.3,6 ratings,75%,2.2
+2753,Ibaad Rahman,Physics,4.5,2 ratings,N/A,3.5
+2754,Prashant Jha,Engineering,2.3,14 ratings,29%,4.1
+2755,Jeffrey Linwood,Journalism,0.0,0 ratings,N/A,0
+2756,Elizabeth Bradbury,Biology,3.3,66 ratings,66%,3.6
+2757,Diana Orozco-Lapray,Human Dev & Family Sciences,5.0,1 ratings,100%,2
+2758,Taha Alhalimi,Kinesiology amp Health,0.0,0 ratings,N/A,0
+2759,Maria Arredondo,Human Dev & Family Sciences,0.0,0 ratings,100%,0
+2760,Frances Champagne,Psychology,5.0,3 ratings,100%,1
+2761,Luke Bishop,Spanish & Portuguese,5.0,2 ratings,100%,3.5
+2762,Irma Nevarez,Spanish Portuguese,3.8,8 ratings,75%,3.6
+2763,Emmet Campos,Mexican American Studies,0.0,0 ratings,N/A,0
+2764,Elias Saqan,Engineering,1.0,2 ratings,34%,4
+2765,Stuart Reichler,Science,4.2,33 ratings,88%,2.3
+2766,Christine Bird,Government,3.6,5 ratings,60%,3.2
+2767,Derreck Powell,Spanish & Portuguese,0.0,0 ratings,N/A,0
+2768,Hannah Wojciehowski,English,0.0,0 ratings,100%,0
+2769,Gerald Oettinger,Economics,4.5,24 ratings,87%,2.9
+2770,Steven Pedigo,Social Science,2.7,3 ratings,67%,4
+2771,Abigail Hazlett,Communication,4.8,4 ratings,100%,3.2
+2772,Irina Marinova,Science,4.3,15 ratings,84%,2.6
+2773,Katie Tackett,Special Education,5.0,13 ratings,100%,1.5
+2774,Khristian Mendez,Theatre & Dance,2.8,14 ratings,43%,3.4
+2775,Luis Sentis,Engineering,4.6,9 ratings,90%,2.7
+2776,Jarrod Lewis-Peacock,Psychology,2.8,6 ratings,50%,3.5
+2777,Damon Gaddis,Education,1.0,13 ratings,0%,4.5
+2778,Daniel Eaton,Philosophy,4.0,1 ratings,N/A,3
+2779,Alia Hudroge,English,0.0,0 ratings,N/A,0
+2780,Steve Gilbert,Business,4.0,5 ratings,100%,3.4
+2781,Hector Dominguez-Ruvalcaba,Spanish & Portuguese,4.2,9 ratings,63%,2.7
+2782,Randi Saunders,Sociology,0.0,0 ratings,100%,0
+2783,Cary Cardova,American Studies,0.0,0 ratings,N/A,0
+2784,Ed Salvato,Marketing,0.0,0 ratings,N/A,0
+2785,Sunghyuk Park,Mathematics,0.0,0 ratings,100%,0
+2786,Ruochen LU,Engineering,4.5,2 ratings,100%,4
+2787,Aragorn Miller,History,3.5,16 ratings,80%,3.5
+2788,Kendra Koch,Nursing,0.0,0 ratings,100%,0
+2789,Marci Gleason,Humanities,4.3,37 ratings,89%,2.5
+2790,Andrew Butters,Journalism,0.0,0 ratings,100%,0
+2791,Rachel Bardin,Film,0.0,0 ratings,N/A,0
+2792,Laurel Rogers,Film,0.0,0 ratings,100%,0
+2793,Paxton Haven,Film,0.0,0 ratings,N/A,0
+2794,Lily Kunda,Film,0.0,0 ratings,N/A,0
+2795,Andy Wright,Film,0.0,0 ratings,100%,0
+2796,Liam Cosgrove,Advisor,0.0,0 ratings,N/A,0
+2797,Jana Weiss,History,0.0,0 ratings,100%,0
+2798,Amy Pavel,Computer Science,0.0,0 ratings,100%,0
+2799,Orlando Kelm,Spanish & Portuguese,4.9,19 ratings,97%,1.5
+2800,C.J. Alvarez,Ethnic Studies,4.5,2 ratings,100%,3
+2801,Brian Lukoff,Statistics,4.7,9 ratings,93%,3.9
+2802,Chand John,Computer Science,4.3,31 ratings,88%,2.5
+2803,Gregory Alves,Finance,1.2,21 ratings,5%,4.5
+2804,Isil Dillig,Computer Science,3.8,9 ratings,87%,3.8
+2805,Robert Newberry,Chemistry,0.0,0 ratings,100%,0
+2806,Yolanda Padilla,Social Work,4.4,15 ratings,92%,1.7
+2807,Jonathan Perry,Physics,3.9,28 ratings,89%,3.4
+2808,Christine Julien,Engineering,1.0,1 ratings,0%,1
+2809,Brian Lendecky,Accounting,3.8,32 ratings,79%,3.6
+2810,Timothy Shanahan,Geology,3.1,64 ratings,63%,3.3
+2811,Robbie Kubala,Philosophy,5.0,1 ratings,100%,2
+2812,Nico Osier,Nursing,4.5,4 ratings,100%,1.5
+2813,Jennifer Adair,Education,5.0,8 ratings,100%,1.6
+2814,Roberto Carlos,Government,0.0,0 ratings,100%,0
+2815,Caryn Carlson,Psychology,5.0,2 ratings,100%,3.5
+2816,Bradley Gold,Business,3.5,23 ratings,60%,3.2
+2817,Claudia Esquivel,Finance,3.0,1 ratings,0%,4
+2818,Andrew Belnap,Accounting,0.0,0 ratings,100%,0
+2819,Merri Su Ruhmann,Accounting,1.7,3 ratings,0%,3
+2820,Jayant Sirohi,Engineering,0.0,0 ratings,N/A,0
+2821,Ernesto Lima,Biomedical Engineering,0.0,0 ratings,100%,0
+2822,Rasa Navasaityte,Architecture,1.0,2 ratings,N/A,3.5
+2823,Juan Miro,Architecture,0.0,0 ratings,N/A,0
+2824,Stephennie Mulder,Art History,4.7,31 ratings,97%,3
+2825,Elizabeth Ilardi,Biology,0.0,0 ratings,100%,0
+2826,Sarfraz Khurshid,Engineering,1.0,1 ratings,N/A,3
+2827,Marie Garnier,English,0.0,0 ratings,100%,0
+2828,Kaily Heitz,Geography,3.0,1 ratings,100%,4
+2829,Karim Nader,Philosophy,0.0,0 ratings,N/A,0
+2830,Jordan Conwell,Sociology,5.0,1 ratings,100%,3
+2831,Yingda Lu,Engineering,5.0,1 ratings,100%,3
+2832,Dagoberto Cortez,Sociology,5.0,1 ratings,100%,2
+2833,Andrew Hintz,Computer Science,0.0,0 ratings,100%,0
+2834,Lori Magruder,Engineering,0.0,0 ratings,N/A,0
+2835,Laura Bright,Advertising,4.8,4 ratings,100%,2.5
+2836,Jeffery Rowland,Accounting,0.0,0 ratings,N/A,0
+2837,Derrek Powell,Spanish & Portuguese,0.0,0 ratings,N/A,0
+2838,David Prindle,Political Science,4.4,63 ratings,88%,2.9
+2839,Raul Martinez,Anthropology,0.0,0 ratings,N/A,0
+2840,Lucas Dimick,Fine Arts,0.0,0 ratings,100%,0
+2841,Erika Slaymaker,Sociology,0.0,0 ratings,N/A,0
+2842,Raz Zarate,Education,5.0,31 ratings,100%,2.5
+2843,Amanda Mixon,Women's Studies,0.0,0 ratings,100%,0
+2844,Kevin Yuan,Finance,0.0,0 ratings,100%,0
+2845,Teresa Blumenthal,Spanish & Portuguese,1.3,7 ratings,0%,4.7
+2846,Elif Sarinay Cenik,Biology,0.0,0 ratings,N/A,0
+2847,Andrew Ellington,Biology,0.0,0 ratings,N/A,0
+2848,John Meth,Mathematics,4.4,173 ratings,85%,3.1
+2849,Lindsay Bouchacourt,Advertising,0.0,0 ratings,N/A,0
+2850,Paul Toprac,Computer Science,1.6,5 ratings,20%,3
+2851,Acacia Chan,Writing,0.0,0 ratings,100%,0
+2852,Linchao Luo,Architecture,0.0,0 ratings,100%,0
+2853,Jin Yang,Engineering,0.0,0 ratings,100%,0
+2854,Mallory Matsumoto,Religion,0.0,0 ratings,100%,0
+2855,Linda Gerber,Business,3.6,9 ratings,63%,3.8
+2856,Elise Brazier,Business,0.0,0 ratings,100%,0
+2857,Mark Helper,Science,4.5,12 ratings,78%,3.3
+2858,Lito Porto,Spanish & Portuguese,4.8,31 ratings,100%,3.9
+2859,Hannah Walker,Government,0.0,0 ratings,100%,0
+2860,Ashish Agarwal,Business,4.1,15 ratings,100%,4.6
+2861,Farshid Alambeigi,Engineering,0.0,0 ratings,N/A,0
+2862,Alex Addington,Design,0.0,0 ratings,N/A,0
+2863,Barbara Bullock,Linguistics,4.2,9 ratings,100%,4
+2864,David Birdsong,French & Italian,0.0,0 ratings,100%,0
+2865,Tyler Watts,Engineering,0.0,0 ratings,N/A,0
+2866,David Wu,Computer Science,0.0,0 ratings,100%,0
+2867,Audrey Shaffer,Communication,0.0,0 ratings,N/A,0
+2868,Pam Arnold,Fine Arts,3.0,1 ratings,N/A,2
+2869,Eddie Chambers,Fine Arts,0.0,0 ratings,N/A,0
+2870,Kerry Maguire,Fine Arts,0.0,0 ratings,N/A,0
+2871,Sam Twito,Social Science,3.0,1 ratings,100%,2
+2872,Zhen Yao,Physics,3.4,39 ratings,72%,3.9
+2873,Alicia Armijo,Philosophy,0.0,0 ratings,N/A,0
+2874,Jay Hartzell,Business,0.0,0 ratings,N/A,0
+2875,Jonathan Valvano,Engineering,3.7,19 ratings,74%,3.4
+2876,Nafal Ossandon Hostens,Languages,5.0,1 ratings,100%,2
+2877,Todd Ditmire,Physics,3.2,15 ratings,88%,4.3
+2878,Joshua Rock,Management & Info Systems,4.1,130 ratings,83%,4.2
+2879,Tyler Richard,Asian Studies,0.0,0 ratings,100%,0
+2880,Crystal Rosenthal,Art History,0.0,0 ratings,100%,0
+2881,Alan Kuperman,International Studies,0.0,0 ratings,N/A,0
+2882,Hamed Khaledi,Management & Info Systems,3.1,13 ratings,54%,3.9
+2883,Daisy Adams,Art History,0.0,0 ratings,100%,0
+2884,Siyan Li,Advertising,5.0,1 ratings,100%,3
+2885,Dukkyun Lee,Philosophy,0.0,0 ratings,100%,0
+2886,Ananth Dodabalapur,Engineering,2.9,16 ratings,87%,3.9
+2887,Donald Levin,Biology,2.9,101 ratings,50%,3.6
+2888,John Lassiter,Geology,3.9,12 ratings,93%,2.7
+2889,Brenda Zaparroli,Spanish & Portuguese,0.0,0 ratings,N/A,0
+2890,Madeline McMahon,History,0.0,0 ratings,100%,0
+2891,Brian Doherty,English,3.2,56 ratings,66%,3.3
+2892,Mary Viers,Philosophy,1.0,1 ratings,N/A,5
+2893,Amy Lee,Neuroscience,0.0,0 ratings,N/A,0
+2894,Katelyn Hatfield,Kinesiology & Health,0.0,0 ratings,100%,0
+2895,Kevin Galambos,Government,0.0,0 ratings,N/A,0
+2896,Noemie Hamaide,French & Italian,0.0,0 ratings,100%,0
+2897,Marlena Cravens,Spanish & Portuguese,0.0,0 ratings,N/A,0
+2898,Xin Nong,Government,0.0,0 ratings,N/A,0
+2899,Albert MacKrell,Science,0.0,0 ratings,100%,0
+2900,Vanessa Lopez,Writing,0.0,0 ratings,100%,0
+2901,Mevin Hooten,Statistics,0.0,0 ratings,100%,0
+2902,Rebecca Torres,Ethnic Studies,5.0,1 ratings,100%,4
+2903,Eric Freeman,Fine Arts,0.0,0 ratings,100%,0
+2904,Anna Teiche,Fine Arts,0.0,0 ratings,N/A,0
+2905,Josh Fisher,Finance,0.0,0 ratings,N/A,0
+2906,Donald Ruse,Management,0.0,0 ratings,N/A,0
+2907,Daniella Bini,Languages,2.7,6 ratings,N/A,3.5
+2908,Robert Abzug,History,5.0,2 ratings,100%,3
+2909,Monica Fogelquist,Music,2.0,2 ratings,N/A,2
+2910,Jendayi Dillard,Psychology,0.0,0 ratings,N/A,0
+2911,Nora Luna,Education,1.0,2 ratings,N/A,1.5
+2912,Joan Brennecke,Engineering,2.0,5 ratings,20%,4.6
+2913,Despoina Mavridou,Biology,5.0,1 ratings,100%,3
+2914,Sara Lundqvist,Business,2.8,6 ratings,100%,4
+2915,Alexander Marras,Engineering,0.0,0 ratings,N/A,0
+2916,Ellen Jones,Languages & Literatures,0.0,0 ratings,N/A,0
+2917,Kathryn Hartzell,Communication,3.0,1 ratings,N/A,4
+2918,Kristie Denlinger,Linguistics,0.0,0 ratings,100%,0
+2919,Guo-Jhen Wu,Mathematics,0.0,0 ratings,100%,0
+2920,Karen Kocher,Communication,0.0,0 ratings,100%,0
+2921,Karen Kocher,Film,5.0,1 ratings,100%,2
+2922,Erica Winterer,Mathematics,0.0,0 ratings,100%,0
+2923,Rene Cabrera,Mathematics,0.0,0 ratings,100%,0
+2924,Darrin Brager,Neuroscience,0.0,0 ratings,N/A,0
+2925,Brendon Vayo,English,0.0,0 ratings,100%,0
+2926,Corwin Zigler,Statistics & Data Science,0.0,0 ratings,100%,0
+2927,Thomas Rushin,English,0.0,0 ratings,N/A,0
+2928,Sara Toynbee,Accounting,2.5,13 ratings,39%,4.5
+2929,Mike Caverly,Education,0.0,0 ratings,100%,0
+2930,Marissa Knox,Education,0.0,0 ratings,100%,0
+2931,Gary Anderson,Management,0.0,0 ratings,100%,0
+2932,Kathleen Griesbach,Sociology,0.0,0 ratings,100%,0
+2933,Tyler Bradstreet,Psychology,0.0,0 ratings,N/A,0
+2934,Rowena Crabbe,Marketing,5.0,1 ratings,100%,2
+2935,John Griffin,Business,1.0,1 ratings,N/A,5
+2936,Iana Robitaille,Writing,5.0,1 ratings,100%,2
+2937,Landon Croker,Engineering,0.0,0 ratings,N/A,0
+2938,Landon Croker,"Engineering, Science, & Mechanics",0.0,0 ratings,N/A,0
+2939,Martin Schmidt,Accounting,1.0,1 ratings,N/A,5
+2940,Edward Castillo,Engineering,0.0,0 ratings,100%,0
+2941,Suzanne Seriff,Anthropology,3.6,47 ratings,65%,2.4
+2942,Paul Bonin,Fine Arts,4.8,4 ratings,88%,2.8
+2943,Ray Chen,Engineering,3.0,4 ratings,67%,1.8
+2944,Eric Vera,Theater,4.3,29 ratings,90%,2.9
+2945,Marc Bizer,French & Italian,3.6,14 ratings,70%,3.1
+2946,Jonathan Partridge,Biology,4.5,77 ratings,94%,3.3
+2947,MAY WANG,Accounting,1.3,15 ratings,0%,3.7
+2948,Tina Peterson,Computer Science,4.1,8 ratings,93%,2
+2949,Ricky Shear,English,5.0,2 ratings,100%,2.5
+2950,Maria Echavarria,Spanish & Portuguese,4.3,9 ratings,78%,2.9
+2951,Celina Nevarez,Languages,4.5,12 ratings,92%,3.1
+2952,Jacqueline Evans,Psychology,4.5,39 ratings,93%,2.5
+2953,Larissa Bougleux,Spanish amp Portuguese,3.0,8 ratings,50%,3.7
+2954,W. Rory Coker,Physics,2.9,24 ratings,50%,4.1
+2955,Devleena Samanta,Chemistry,4.0,1 ratings,100%,4
+2956,Preston Biro,Statistics,5.0,1 ratings,100%,2
+2957,Michael Mason,Writing,0.0,0 ratings,100%,0
+2958,Lars Hinrichs,English,2.0,5 ratings,0%,3.2
+2959,Greg Hervey,Graphic Arts,1.8,10 ratings,20%,3.3
+2960,Bindu Viswanathan,Mathematics,3.6,38 ratings,69%,3.5
+2961,Nicole Awai,Fine Arts,3.3,4 ratings,100%,2.5
+2962,Jeffrey Barrick,Biology,3.1,16 ratings,67%,4.3
+2963,Jonghwan Kim,Biology,3.8,4 ratings,100%,4
+2964,Nathaniel Gilmore,Government,3.5,2 ratings,100%,3.5
+2965,Amanda Russell,Marketing,4.3,21 ratings,81%,3.4
+2966,Andrea Pittard,Humanities,4.6,22 ratings,93%,2.7
+2967,Gergina Pencheva,Mathematics,2.2,51 ratings,35%,3.9
+2968,Raul Longoria,Engineering,0.0,0 ratings,N/A,0
+2969,Gyeong Hwang,Engineering,3.0,2 ratings,67%,4
+2970,Bruce McClung,Economics,2.6,4 ratings,100%,2.3
+2971,Frank Register,Engineering,1.0,1 ratings,N/A,3
+2972,James Gardner,Geology,4.2,6 ratings,100%,3.3
+2973,Alice McCoy-Bae,Languages,4.0,34 ratings,87%,2.7
+2974,Christopher Burke,Management & Info Systems,2.9,47 ratings,76%,3.3
+2975,Brian Gingrich,English,4.7,3 ratings,100%,3
+2976,MJ Johns,Computer Science,4.3,15 ratings,95%,2.5
+2977,Megan Johns,Computer Science,5.0,1 ratings,100%,2
+2978,Ana Schwartz,English,3.0,2 ratings,75%,4.5
+2979,Brendon Bankey,Communication,3.3,6 ratings,67%,3.3
+2980,Hongjoo Lee,Psychology,4.9,15 ratings,100%,3.5
+2981,Pauline Claussen,Statistics,0.0,0 ratings,100%,0
+2982,Layla Parast,Mathematics,5.0,1 ratings,100%,2
+2983,Matthew Mccutchin,Advertising,5.0,1 ratings,100%,2
+2984,Elijah Wilder,Linguistics,5.0,1 ratings,100%,2
+2985,Arisbel Andraca,Spanish & Portuguese,5.0,1 ratings,100%,4
+2986,Marcel Goldschen-Ohm,Science,0.0,0 ratings,100%,0
+2987,Wei Xuexin,Neuroscience,0.0,0 ratings,N/A,0
+2988,Khytie Brown,Religion,0.0,0 ratings,N/A,0
+2989,Falan Buie-Madden,Theater,0.0,0 ratings,N/A,0
+2990,Laura Chase,Education,0.0,0 ratings,N/A,0
+2991,Moira Muldoon,Engineering,5.0,1 ratings,100%,2
+2992,Kyle Kearns,Engineering,4.0,1 ratings,100%,3
+2993,Taylor Johnson Karahan,American Studies,0.0,0 ratings,N/A,0
+2994,Anthony Brown,Education,5.0,1 ratings,100%,2
+2995,Scott Kravitz,Physics,0.0,0 ratings,100%,0
+2996,Diego Rivera,Music,0.0,0 ratings,N/A,0
+2997,Pamela Elias,Mathematics,0.0,0 ratings,100%,0
+2998,Octavio Kano-Galvan,Advertising & Public Relations,0.0,0 ratings,100%,0
+2999,Luis Rivera Figueroa,Film,0.0,0 ratings,N/A,0
+3000,Irmak Balcik,Mathematics,3.0,1 ratings,100%,3
+3001,Jill Kolasinski,First Year Experience,4.0,1 ratings,100%,1
+3002,Susan Harkins,First Year Experience,4.0,1 ratings,100%,1
+3003,Kayla Booth,Information Sciences & Technology,0.0,0 ratings,100%,0
+3004,David Lauderback,History,0.0,0 ratings,100%,0
+3005,Constantinos Coutifaris,Business,5.0,1 ratings,100%,3
+3006,Leon Kunz,Government,5.0,1 ratings,100%,3
+3007,Pauline Claussen,Management & Info Systems,0.0,0 ratings,100%,0
+3008,David Springer,First Year Experience,0.0,0 ratings,N/A,0
+3009,Laurel Mei-Singh,Asian Studies,5.0,1 ratings,100%,1
+3010,Klara Fredriksson,Government,5.0,1 ratings,100%,1
+3011,Douglas Dempster,Fine Arts,5.0,1 ratings,100%,2
+3012,Sonya Forster,Business,0.0,0 ratings,N/A,0
+3013,Nathan Barrymore,Business,0.0,0 ratings,N/A,0
+3014,Guo Jhen Wu,Mathematics,5.0,1 ratings,100%,2
+3015,Annie Johnston,Fine Arts,5.0,1 ratings,100%,1
+3016,Samantha Pickette,History,0.0,0 ratings,N/A,0
+3017,Samantha Pickette,Religion,0.0,0 ratings,N/A,0
+3018,Xinyuan Yu,Chemistry,0.0,0 ratings,N/A,0
+3019,Cindy McCreery,Film,4.0,4 ratings,100%,2.5
+3020,Jacky Chong,Mathematics,2.4,34 ratings,27%,4.5
+3021,Emily Caudill,Chemistry,3.1,21 ratings,100%,3.3
+3022,Brent Iverson,Chemistry,4.9,86 ratings,99%,3.3
+3023,Dennis Dunn,Science,4.5,31 ratings,97%,2.6
+3024,Tara Craig,Mathematics,2.3,25 ratings,40%,2.7
+3025,Larry Lake,Engineering,2.4,6 ratings,100%,3.2
+3026,Kathy Fuller-Seeley,Film,4.9,18 ratings,100%,1.9
+3027,Lorenzo Sadun,Mathematics,2.7,62 ratings,41%,4.1
+3028,J. Kamas,Accounting,4.3,42 ratings,85%,3.5
+3029,Elizabeth Ries,Education,0.0,0 ratings,100%,0
+3030,Heather Wilber,Mathematics,4.5,4 ratings,100%,2.5
+3031,John Strub,Music,0.0,0 ratings,100%,0
+3032,Pauline Claussen,Business,5.0,1 ratings,100%,3
+3033,Scott Rice,Film,5.0,1 ratings,100%,3
+3034,Jihye Kim,Chemistry,3.0,1 ratings,100%,5
+3035,Diego De Jesus Santos,Spanish & Portuguese,0.0,0 ratings,N/A,0
+3036,Ashley Guidry,Communication,5.0,1 ratings,100%,2
+3037,Mary Ibarrola,Anthropology,5.0,1 ratings,100%,3
+3038,Xuexin Wei,Neuroscience,0.0,0 ratings,N/A,0
+3039,Katie Williams,Psychology,5.0,1 ratings,100%,2
+3040,Ethan Pew,Marketing,0.0,0 ratings,N/A,0
+3041,Keoshia Harris,Education,0.0,0 ratings,N/A,0
+3042,Melissa Biggs,Anthropology,5.0,1 ratings,100%,1
+3043,Matthew Ladue,Mathematics,0.0,0 ratings,N/A,0
+3044,Bernadeta Kaminska,Languages,5.0,1 ratings,100%,3
+3045,Jeff Mihm,Business,0.0,0 ratings,100%,0
+3046,Gregory Salmieri,Philosophy,0.0,0 ratings,N/A,0
+3047,Daniel Brinks,Political Science,4.4,14 ratings,100%,2.9
+3048,Kasey Claborn,First Year Experience,3.8,4 ratings,100%,2.5
+3049,Michae Pasala,Computer Science,0.0,0 ratings,N/A,0
+3050,Medhi Haghshenas,Social Science,3.9,130 ratings,79%,3.1
+3051,Lawrence Cormack,Psychology,4.3,12 ratings,87%,2.4
+3052,Bartholomew Sparrow,Political Science,2.9,23 ratings,34%,3.2
+3053,Linda Reichl,Physics,2.8,11 ratings,45%,4
+3054,James Gardner,Languages,0.0,0 ratings,100%,0
+3055,James Tandy,Linguistics,0.0,0 ratings,100%,0
+3056,Cole Holmes,Business,0.0,0 ratings,N/A,0
+3057,Linda Golden,Marketing,5.0,7 ratings,100%,2.6
+3058,Shirley Cohen,Computer Science,3.7,10 ratings,60%,3.1
+3059,Danelle Briscoe,Architecture,1.0,2 ratings,0%,3.5
+3060,Noah Davis,Computer Science,0.0,0 ratings,N/A,0
+3061,Stephen Slick,Government,4.0,1 ratings,100%,3
+3062,Ann Chen,Engineering,4.0,13 ratings,86%,2.7
+3063,William Gilpin,Physics,5.0,1 ratings,100%,3
+3064,Vincent Giordano,English,5.0,1 ratings,100%,3
+3065,Sage Anderson,Education,5.0,1 ratings,100%,2
+3066,Clint LaFuente,Education,4.0,1 ratings,100%,1
+3067,John Savage,Communication,0.0,0 ratings,100%,0
+3068,Zoya Kraus,History,0.0,0 ratings,N/A,0
+3069,John Davis,Finance,5.0,1 ratings,100%,3
+3070,Derek Powell,Languages,0.0,0 ratings,N/A,0
+3071,Matthew Bisconti,Philosophy,0.0,0 ratings,N/A,0
+3072,Marjorie Yankeelov,Music,5.0,4 ratings,100%,2.5
+3073,Sally Ragsdale,Statistics,4.0,38 ratings,100%,3.2
+3074,Elizabeth Klingbeil,Nutrition,5.0,1 ratings,100%,2
+3075,Russ Finney,Management & Info Systems,4.5,21 ratings,96%,3.3
+3076,Sung Sibum,Agriculture,3.6,7 ratings,50%,2.7
+3077,Stephanie Osbakken,Sociology,4.6,43 ratings,88%,3.1
+3078,George Mateer,Economics,4.0,79 ratings,83%,2.9
+3079,Rebecca Feferman,Management,5.0,6 ratings,100%,1.2
+3080,Marina Alexandrova,Languages,5.0,23 ratings,100%,2.3
+3081,Paul McClure,"Engineering, Science, & Mechanics",2.5,34 ratings,30%,3.2
+3082,Denise Spellberg,History,4.3,24 ratings,100%,3
+3083,Jamie Stephens,Business,0.0,0 ratings,N/A,0
+3084,Andrew Riggsby,Classics,2.4,25 ratings,56%,4.1
+3085,Elliot Hauser,Information Science,2.0,1 ratings,100%,1
+3086,Karianne Marks,Physics,4.7,6 ratings,100%,3.7
+3087,Eric Drott,Music,4.3,6 ratings,100%,2.2
+3088,Robert Bautista,Information Science,0.0,0 ratings,N/A,0
+3089,Natalie Ammon,Human Dev & Family Sciences,4.0,1 ratings,100%,4
+3090,Grace Greiner,English,1.0,1 ratings,N/A,5
+3091,Roger Peng,Statistics & Data Science,5.0,1 ratings,100%,2
+3092,Michael Rose,Chemistry,3.0,1 ratings,0%,3
+3093,Andrew Augustin,Fine Arts,5.0,1 ratings,100%,2
+3094,Fabrizio Bisetti,Engineering,5.0,2 ratings,100%,4.5
+3095,Miguel Alvarez,Film,0.0,0 ratings,N/A,0
+3096,Fan Wang,Communication,5.0,1 ratings,100%,2
+3097,Michael Wynne,Languages,4.8,25 ratings,96%,2.5
+3098,Hannah Lunkenheimer,Psychology,5.0,1 ratings,100%,2
+3099,S. John Mihic,Biology,0.0,0 ratings,N/A,0
+3100,Roman Corfas,Biology,0.0,0 ratings,100%,0
+3101,Rajiv Sant,Finance,2.9,23 ratings,100%,3.7
+3102,Don Miller,Linguistics,0.0,0 ratings,100%,0
+3103,Eric Heflin,Information Science,0.0,0 ratings,100%,0
+3104,Kimberly McErlean,Sociology,5.0,1 ratings,100%,2
+3105,Clarence Chan,Biology,3.0,28 ratings,55%,4.4
+3106,Johann Eberhart,Biology,4.4,5 ratings,84%,4.4
+3107,Mary Parker,Mathematics,1.0,1 ratings,0%,3
+3108,Paul Edgar,Middle Eastern Studies,3.3,7 ratings,100%,3.4
+3109,Harriet Dinerstein,Astronomy,2.3,33 ratings,47%,3.3
+3110,Stephen Jessee,Government,3.3,25 ratings,50%,2.6
+3111,Craig Linder,Biology,3.3,24 ratings,66%,3.9
+3112,John Schwartz,Journalism,5.0,1 ratings,100%,4
+3113,Lalitha Gopalan,Communication,2.7,21 ratings,63%,2.9
+3114,Amy Howard,Psychology,0.0,0 ratings,N/A,0
+3115,Rodrigo Castillo Vasquez,Physics,4.7,3 ratings,100%,1.7
+3116,Nicholas Palomares,Communication,1.0,1 ratings,N/A,4
+3117,Aquasia Shaw,Kinesiology & Health,1.3,4 ratings,100%,4.5
+3118,Michellan Quimby,Science,5.0,1 ratings,100%,3
+3119,Inder Saxena,Biology,3.0,134 ratings,54%,3.8
+3120,Joseph Dunsmoor,Biology,0.0,0 ratings,N/A,0
+3121,Alexis Vasseur,Mathematics,4.3,8 ratings,100%,3.1
+3122,John Mihic,Biology,3.1,7 ratings,75%,4.3
+3123,Cristine Legare,Psychology,3.1,18 ratings,53%,3.7
+3124,Kevin Auer,Design,0.0,0 ratings,100%,0
+3125,Tanya Hutter,Engineering,5.0,2 ratings,100%,2
+3126,Fernando Lara,Architecture,3.3,7 ratings,58%,2.4
+3127,Michael Shepherd,Health Science,5.0,1 ratings,100%,2
+3128,George Bittner,Neuroscience,1.0,2 ratings,N/A,5
+3129,Siyun Jiang,Government,0.0,0 ratings,N/A,0
+3130,Kristie Loescher,Management,3.8,21 ratings,80%,2.9
+3131,Alexander Etz,Psychology,4.6,8 ratings,100%,2.9
+3132,Sean Theriault,Political Science,4.1,134 ratings,86%,2.3
+3133,Ana Duclaud,English,0.0,0 ratings,N/A,0
+3134,Mikiya Koyagi,Middle Eastern Studies,1.0,1 ratings,0%,4
+3135,Frances Pederson,Business,3.3,6 ratings,67%,3.2
+3136,Goheun Kim,Biology,3.2,96 ratings,66%,3.9
+3137,Zachariah Page,Chemistry,4.0,51 ratings,77%,4
+3138,Carolyn Seepersad,Engineering,4.0,4 ratings,75%,1
+3139,Paul von Hippel,Statistics & Data Science,0.0,0 ratings,N/A,0
+3140,Hannah Williamson,Human Dev amp Family Sciences,2.8,14 ratings,43%,3.6
+3141,Cassandra Callmann,Chemistry,3.4,56 ratings,62%,4.1
+3142,Cary Cordova,American Studies,3.4,39 ratings,75%,3.7
+3143,Ryan Doonan,Biology,5.0,1 ratings,100%,1
+3144,Alison Craig,Political Science,0.0,0 ratings,100%,0
+3145,Morgan Ballantine,Nursing,5.0,1 ratings,100%,2
+3146,Li-Chen Lin,Nursing,3.0,1 ratings,100%,4
+3147,Ashley Henneghan,Nursing,3.0,1 ratings,100%,2
+3148,John-Paul Clarke,Engineering,0.0,0 ratings,N/A,0
+3149,Frank Wojan,Kinesiology & Health,0.0,0 ratings,N/A,0
+3150,Fathima Pary,Chemistry,0.0,0 ratings,100%,0
+3151,Taylor Schoberle,Biology,3.5,6 ratings,89%,2.7
+3152,Kerry Kinney,Civil Engineering,5.0,1 ratings,100%,3
+3153,Michael Sierra-Arrevalo,Sociology,5.0,1 ratings,100%,3
+3154,Ana Francisca Aroso Pinto de Oliveira,Architecture,4.4,5 ratings,100%,2.4
+3155,Michael Baker,Fine Arts,5.0,7 ratings,100%,2.6
+3156,Jiabao Li,Design,0.0,0 ratings,N/A,0
+3157,Junko Hatanaka,Asian Studies,5.0,1 ratings,100%,2
+3158,John Savage,Journalism,0.0,0 ratings,N/A,0
+3159,Binyam Belachew,Biology,5.0,1 ratings,100%,4
+3160,Aaron Sandel,Anthropology,4.3,7 ratings,100%,1.7
+3161,Raphaël Nonin,French & Italian,0.0,0 ratings,100%,0
+3162,J Budziszewski,Political Science,3.1,27 ratings,80%,4
+3163,Dylan Gilbert,French & Italian,0.0,0 ratings,100%,0
+3164,Sarah Oh,Film,1.0,1 ratings,0%,4
+3165,Jermani Ludena,Spanish & Portuguese,0.0,0 ratings,N/A,0
+3166,Brianna McCslin,Social Science,0.0,0 ratings,N/A,0
+3167,Brianna McCaslin,Social Science,2.0,1 ratings,N/A,2
+3168,Toshita Sharma,Business,1.0,1 ratings,N/A,5
+3169,Debbie Ramírez,Spanish & Portuguese,5.0,1 ratings,100%,3
+3170,Dev Niyogi,Geology,5.0,1 ratings,100%,3
+3171,Earnest Mazique,Theatre & Dance,5.0,1 ratings,100%,2
+3172,Annette Rodriguez,American Studies,4.0,1 ratings,100%,4
+3173,Ashley Castleberry,First Year Experience,0.0,0 ratings,N/A,0
+3174,Micah Barber,Film,4.2,13 ratings,100%,2.4
+3175,Suzanne Jacobs,Physics,5.0,1 ratings,100%,1
+3176,Madeline Penn,First Year Experience,5.0,1 ratings,100%,1
+3177,joseph hirsh,Mathematics,0.0,0 ratings,100%,0
+3178,Oviya Govindan,Anthropology,0.0,0 ratings,100%,0
+3179,Ekaterina Levina,Linguistics,5.0,1 ratings,100%,3
+3180,Brian Hurley,International Studies,4.0,1 ratings,100%,3
+3181,Amy Thompson,Geography,5.0,1 ratings,100%,3
+3182,Shannon Woods,Theatre & Dance,5.0,1 ratings,100%,1
+3183,Harry Rosenberg,Philosophy,1.0,1 ratings,0%,5
+3184,Andrea Villalba,Philosophy,0.0,0 ratings,N/A,0
+3185,Sarah Farrell,English,0.0,0 ratings,100%,0
+3186,Neville Hoad,English,4.6,29 ratings,100%,2.3
+3187,Miha Vindis,Social Science,5.0,5 ratings,100%,2.2
+3188,Jack Lee,Engineering,3.5,19 ratings,85%,3.5
+3189,Todd Curtis,Humanities,3.9,243 ratings,71%,3
+3190,Randolph Wilt,Management,0.0,0 ratings,N/A,0
+3191,Ram Sudha,Physics,3.0,1 ratings,100%,1
+3192,Ahmad Agbaria,Middle Eastern Studies,4.0,1 ratings,100%,2
+3193,Ann Johns,Art History,4.0,105 ratings,67%,2.7
+3194,Yale Patt,Engineering,3.9,61 ratings,88%,4
+3195,Zachary Miner,Mathematics,3.3,62 ratings,56%,3.8
+3196,Lewis Fallis,English,4.0,1 ratings,100%,4
+3197,Dan Puperi,Engineering,4.4,32 ratings,98%,2.4
+3198,Rebecca Robertson,Business,0.0,0 ratings,100%,0
+3199,Leigh McAlister,Marketing,0.0,0 ratings,100%,0
+3200,Myles Jeffrey,Writing,0.0,0 ratings,N/A,0
+3201,Annabelle Roberts,Marketing,4.0,1 ratings,100%,2
+3202,Julio Ruiz,Biology,5.0,1 ratings,100%,2
+3203,Sandeep Chinchali,Engineering,0.0,0 ratings,N/A,0
+3204,Howard Liljestrand,Civil Engineering,4.5,17 ratings,95%,1.9
+3205,Elizabeth Heitkemper,Nursing,3.0,1 ratings,N/A,2
+3206,Julie Zuñiga,Nursing,5.0,1 ratings,100%,1
+3207,Esther Nwokocha,Nursing,3.0,1 ratings,N/A,1
+3208,Weston Richey,English,5.0,1 ratings,100%,1
+3209,paige welsh,English,0.0,0 ratings,100%,0
+3210,Maxwell Stinchcombe,Economics,1.5,25 ratings,10%,4.9
+3211,Bruce Pflug,Economics,5.0,1 ratings,100%,1
+3212,Subrina Xirong Shen,Management,2.9,15 ratings,50%,3.7
+3213,Lisa Koonce,Business,5.0,1 ratings,100%,4
+3214,Timothy West,Accounting,4.2,5 ratings,100%,2.8
+3215,William Swearingen,Sociology,4.6,27 ratings,90%,2
+3216,Katherine Bruner,Biology,4.8,10 ratings,100%,2.4
+3217,Mikhail Matz,Biology,3.3,10 ratings,88%,3.5
+3218,Mark Bradshaw,Business,3.0,6 ratings,100%,2.7
+3219,Shahnaz Hassan,Middle Eastern Studies,4.4,7 ratings,86%,2.7
+3220,Stephen Walls,Marketing,3.0,17 ratings,57%,3.8
+3221,Tolga Ozyurtcu,Kinesiology Health,4.8,21 ratings,91%,2.3
+3222,Kirsten Bradbury,Psychology,4.9,107 ratings,100%,1.9
+3223,Matthew Morris,Management,4.0,47 ratings,90%,2.9
+3224,Sardar Hussain,Anthropology,2.0,1 ratings,N/A,1
+3225,Zoya Brumberg-Kraus,American Studies,1.0,1 ratings,N/A,1
+3226,Shannon O'Brien,Political Science,4.5,75 ratings,91%,2.3
+3227,Abhijit Mishra,Information Science,0.0,0 ratings,100%,0
+3228,Christian Pye,Religion,5.0,1 ratings,100%,3
+3229,Calvin Lin,Computer Science,3.2,20 ratings,77%,3.5
+3230,Diane Davis,Writing,5.0,1 ratings,100%,2
+3231,Zhuoran Jiang,Management & Info Systems,0.0,0 ratings,N/A,0
+3232,Derrick Bonyuet,Accounting,4.0,1 ratings,100%,2
+3233,Milica Cudina,Mathematics,4.3,21 ratings,95%,2.7
+3234,Aaron Rochlen,Education,3.9,11 ratings,88%,2.8
+3235,Rich Heyman,Geography,2.6,24 ratings,53%,3
+3236,Mihran Aroian,Business,2.8,87 ratings,44%,3.6
+3237,Sofian Merabet,Anthropology,2.9,14 ratings,50%,2.5
+3238,Brian Anderson,Chemistry,4.4,155 ratings,91%,3.4
+3239,Chad Alvarez,Mexican American Studies,4.5,7 ratings,100%,2.4
+3240,Liz Moliski,Business,2.8,101 ratings,60%,3.4
+3241,Anna Vilner,English,0.0,0 ratings,100%,0
+3242,Isabel Ibáñez,Spanish & Portuguese,0.0,0 ratings,N/A,0
+3243,Troy Kimmel,Geography,3.5,130 ratings,57%,3.7
+3244,Tracey Naumann,Education,5.0,1 ratings,100%,3
+3245,Patrick Jamar,Advertising,5.0,1 ratings,100%,3
+3246,Michael Novack,Mathematics,4.3,13 ratings,100%,2.9
+3247,Peter Kotowski,History,0.0,0 ratings,N/A,0
+3248,Sensen Li,Engineering,0.0,0 ratings,N/A,0
+3249,Adam Rabinowitz,Classics,4.3,44 ratings,86%,3.8
+3250,Janine Barchas,English,2.9,44 ratings,45%,4.2
+3251,Joshua Kocher,Finance,0.0,0 ratings,100%,0
+3252,Sejali Mittal,Business,0.0,0 ratings,N/A,0
+3253,Alice Batt,Writing,4.0,2 ratings,100%,4
+3254,Diego Rubio,Economics,5.0,1 ratings,100%,1
+3255,Alexander Thomas,Spanish & Portuguese,4.3,6 ratings,84%,3.2
+3256,James Slotta,Anthropology,4.6,43 ratings,92%,2.6
+3257,Larry Speck,Architecture,4.6,176 ratings,92%,2.9
+3258,Michael Aubrey,Chemistry,2.6,11 ratings,100%,4
+3259,Li Yang,Asian Studies,5.0,1 ratings,100%,3
+3260,Glenn Downing,Computer Science,4.5,1045 ratings,91%,3.5
+3261,Randolph Wilt,Business,4.7,37 ratings,100%,2.1
+3262,Devrim Ikizler,Economics,3.1,18 ratings,90%,4.1
+3263,Hannes Mandel,Languages,5.0,7 ratings,100%,2.6
+3264,David Buss,Psychology,4.3,42 ratings,90%,3.1
+3265,Cindy Meston,Psychology,4.4,68 ratings,94%,3
+3266,Jeremi Suri,History,3.7,50 ratings,58%,3.8
+3267,Ann Thijs,Biology,3.1,91 ratings,59%,3.1
+3268,Lauren Blondeau,Mathematics,4.6,51 ratings,92%,2.5
+3269,Honoria Starbuck,Fine Arts,2.8,12 ratings,59%,1.3
+3270,Krystle Zuniga,Nutrition,3.5,2 ratings,100%,2.5
+3271,Matthew Hebdon,Civil Engineering,4.0,1 ratings,100%,4
+3272,Sara Simons,Theatre & Dance,0.0,0 ratings,100%,0
+3273,Prateek Shah,Finance,0.0,0 ratings,N/A,0
+3274,Joe Cutbirth,Communication,4.2,25 ratings,89%,3.4
+3275,William Stagner,Mathematics,4.0,1 ratings,100%,5
+3276,Connie Rosati,Philosophy,3.5,2 ratings,100%,4.5
+3277,Hallie Speranza,Human Dev & Family Sciences,4.6,54 ratings,98%,1.5
+3278,Rayan Bagchi,Management,1.4,18 ratings,50%,4.3
+3279,Henry Brands,History,4.8,32 ratings,97%,2.2
+3280,Stephen Walker,Statistics,3.5,2 ratings,100%,4
+3281,Arcelia Hernandez,Education,0.0,0 ratings,N/A,0
+3282,Shannon Provost,Statistics,2.3,178 ratings,36%,3.9
+3283,Anindita Bardhan,Accounting,3.3,35 ratings,71%,3.7
+3284,Tom Willett,Film,3.0,1 ratings,100%,2
+3285,Diane Bryant,Education,1.0,2 ratings,N/A,1.5
+3286,Hans Koch,Mathematics,2.5,21 ratings,40%,4.2
+3287,Anita Israni,Mathematics,4.9,23 ratings,96%,2.2
+3288,Joseph Beaman,Engineering,3.4,16 ratings,85%,1.2
+3289,Kathrine Grooms,Economics,0.0,0 ratings,N/A,0
+3290,David Verduzco,Business,3.3,185 ratings,62%,3.3
+3291,Jose Alvarado,Physics,2.6,11 ratings,50%,3.9
+3292,Daniel Neuhann,Finance,5.0,4 ratings,100%,2.8
+3293,Jeehyun Lim,English,2.0,2 ratings,100%,3
+3294,D. slesnick,Economics,2.7,12 ratings,100%,4.5
+3295,Gigi Awad,Psychology,4.6,6 ratings,100%,3.2
+3296,Pratibha Saxena,Biology,2.9,13 ratings,67%,4.2
+3297,Ricardo Castro,Spanish & Portuguese,5.0,4 ratings,100%,3
+3298,Ahmed Gheith,Computer Science,4.5,50 ratings,89%,4.6
+3299,Keenan Kidwell,Mathematics,4.9,137 ratings,100%,2.5
+3300,Elizabeth Adams,Classics,4.6,14 ratings,100%,2.7
+3301,Scott Stroud,Communication,4.8,5 ratings,75%,2.4
+3302,Audrey Duarte,Psychology,1.0,1 ratings,N/A,4
+3303,Mike Boylan-Kolchin,Astronomy,3.9,24 ratings,83%,2.9
+3304,James Pennebaker,Psychology,4.1,39 ratings,34%,3
+3305,Natalie Stroud,Communication,0.0,0 ratings,N/A,0
+3306,Andrew Loveridge,Physics,2.8,49 ratings,57%,3.6
+3307,Beth Hedrick,English,3.8,42 ratings,63%,3.5
+3308,Richard Matzner,Physics,2.6,17 ratings,43%,3.1
+3309,Paola Sotelo,Chemistry,3.1,79 ratings,63%,3.4
+3310,Brent Landau,Religion,4.6,70 ratings,95%,1.7
+3311,Elizabeth Labate,First Year Experience,0.0,0 ratings,N/A,0
+3312,Jennifer Beavers,Music,4.3,3 ratings,N/A,3
+3313,David Sibley,Economics,4.1,20 ratings,100%,2.6
+3314,Robert Duvic,Finance,2.6,66 ratings,52%,3.9
+3315,Stacy Sparks,Chemistry,3.9,201 ratings,83%,3.3
+3316,Anthony Dudo,Advertising,4.5,68 ratings,90%,3
+3317,Christina Burke,Journalism,2.3,3 ratings,100%,3.7
+3318,Michael Baldea,Engineering,2.8,2 ratings,100%,4
+3319,Jared Murray,Business,2.2,5 ratings,34%,4.8
+3320,Yan Leng,Management & Info Systems,4.0,17 ratings,100%,3.5
+3321,Tasha Philpot,Government,2.6,22 ratings,27%,3.5
+3322,Sibum Sung,Biology,2.4,16 ratings,59%,3.4
+3323,Fatima Fakhreddine,Chemistry,4.5,206 ratings,93%,3.4
+3324,Sharon Waite,Political Science,0.0,0 ratings,N/A,0
+3325,Andrew Gaudet,Psychology,3.5,2 ratings,100%,2.5
+3326,Mikyung Han,Computer Science,3.0,27 ratings,50%,4.3
+3327,Patricia Garcia,English,4.6,31 ratings,97%,2.2
+3328,Laura Altuzar-Villafuerte,Mathematics,3.6,52 ratings,75%,3.3
+3329,Matthias Kehrig,Economics,3.4,8 ratings,60%,4
+3330,Jennifer Fritz,Biology,3.4,232 ratings,59%,3.5
+3331,Aileen Bumphus,First Year Experience,0.0,0 ratings,N/A,0
+3332,Clint Tuttle,Business,4.1,174 ratings,82%,3.1
+3333,David Laude,Chemistry,4.4,317 ratings,94%,2.7
+3334,Wayne Geerling,Economics,4.4,25 ratings,100%,3.1
+3335,Jan Machart,Biology,3.5,46 ratings,63%,4.1
+3336,Rhonda Evans Case,Government,4.4,12 ratings,89%,3.3
+3337,Hannah Luckenheimer,Psychology,0.0,0 ratings,N/A,0
+3338,Jeremiah McCallister,Engineering,3.0,1 ratings,100%,4
+3339,Cynthia Labrake,Chemistry,3.2,128 ratings,61%,3.3
+3340,Herbert Miller,Marketing,2.7,63 ratings,45%,2.8
+3341,Devangi Parikh,Computer Science,3.8,59 ratings,81%,3.1
+3342,Jay Brown,Health Science,3.8,12 ratings,100%,1.8
+3343,Jonathan Seefeldt,Asian Studies,0.0,0 ratings,N/A,0
+3344,Taylor Canann,Finance,0.0,0 ratings,N/A,0
+3345,Prathiba Saxena,Biology,1.9,93 ratings,20%,4.4
+3346,Jaime Barnes,Geology,4.5,32 ratings,87%,3.2
+3347,Rui Huang,Engineering,3.6,11 ratings,64%,3.3
+3348,Maxim Tsoi,Physics,2.6,38 ratings,43%,3.8
+3349,Robert Olwell,History,3.8,81 ratings,79%,3.2
+3350,Lisa Dobias,Advertising,3.4,32 ratings,61%,4.3
+3351,Nick Enge,Kinesiology & Health,4.3,6 ratings,100%,1
+3352,Di Wang,International Studies,4.6,10 ratings,84%,3.4
+3353,Navid Saleh,Civil Engineering,3.3,6 ratings,80%,3.5
+3354,Elizabeth Stepp,Mathematics,4.0,51 ratings,88%,2.8
+3355,Justin Dragna,Chemistry,4.2,78 ratings,84%,2.5
+3356,Becca Lewis,Anthropology,3.0,2 ratings,0%,4.5
+3357,Eric McDaniel,Government,2.3,109 ratings,43%,3.8
+3358,Ipek Sahinler,Writing,4.4,5 ratings,80%,1.6
+3359,Judit Ries,Astronomy,2.0,57 ratings,17%,3.9
+3360,Katherine Free,Theater,1.0,1 ratings,N/A,2
+3361,Scott Stevens,Biology,3.3,46 ratings,59%,4.3
+3362,Athanasio Papalexandrou,Fine Arts,4.2,41 ratings,94%,2.4
+3363,Zong-Liang Yang,Geology,3.0,13 ratings,58%,3.3
+3364,Charles Carson,Music,3.7,39 ratings,63%,2.6
+3365,Zena Drakou,Management & Info Systems,3.3,15 ratings,86%,2.9
+3366,Katie Pritchett,Business,3.0,26 ratings,47%,3.3
+3367,Katherine Grooms,Economics,0.0,0 ratings,100%,0
+3368,James Dyer,Business,4.0,3 ratings,100%,1.7
+3369,Emilio Zamora,History,3.2,43 ratings,57%,1.6
+3370,Zheliang Wang,Engineering,0.0,0 ratings,100%,0
+3371,Evan Gee,Government,0.0,0 ratings,N/A,0
+3372,Robert Moser,Engineering,0.0,0 ratings,N/A,0
+3373,Laura Gonzalez,Biology,3.7,23 ratings,69%,2.9
+3374,Athena Simpson,Management,2.1,22 ratings,100%,4.2
+3375,Christopher Golubski,Mathematics,4.5,61 ratings,87%,2.9
+3376,Stephany Coffman-Wolph,Computer Science,2.7,40 ratings,48%,2.7
+3377,Kevin Williams,Marketing,2.3,35 ratings,46%,3.5
+3378,Christopher Shriver,Mathematics,2.1,18 ratings,50%,4.6
+3379,Tracy Wuster,Engineering,2.5,35 ratings,40%,3.5
+3380,Gerard Wallace,Mathematics,2.0,13 ratings,45%,4.2
+3381,Ernst-Ludwig Florin,Physics,3.1,26 ratings,79%,4.3
+3382,Ryan Kelly,Engineering,0.0,0 ratings,N/A,0
+3383,German Stefanich,Mathematics,3.2,13 ratings,92%,3.3
+3384,Kendall Yamamoto,Business,0.0,0 ratings,N/A,0
+3385,Dong-Ha Min,Marine Sciences,3.6,39 ratings,68%,3.3
+3386,Jacob Doss,History,0.0,0 ratings,100%,0
+3387,Vincent Viviani,Chemistry,0.0,0 ratings,N/A,0
+3388,Chris Rossbach,Computer Science,4.3,4 ratings,100%,3.8
+3389,Ken Shih,Physics,2.2,17 ratings,80%,3.9
+3390,David Harwath,Computer Science,4.3,4 ratings,100%,2.3
+3391,Shamoun Dima,Economics,2.2,47 ratings,44%,4.1
+3392,Cole Holmes,Management,4.5,2 ratings,100%,2
+3393,John Keto,Physics,1.7,22 ratings,24%,3.8
+3394,Leonard Moore,History,4.3,187 ratings,96%,2.1
+3395,Martha Maas,Biology,2.4,162 ratings,36%,3.6
+3396,Katherine Freer,Design,2.0,1 ratings,N/A,1
+3397,Nicole Murry,First Year Experience,4.9,17 ratings,100%,1.2
+3398,Mk Haley,Fine Arts,2.3,3 ratings,50%,2.7
+3399,Rostyslav Kravchenko,Mathematics,3.1,59 ratings,66%,3.3
+3400,Shinko Harper,Mathematics,4.0,34 ratings,79%,2.9
+3401,William Babler,Biology,4.3,28 ratings,100%,4
+3402,Joshua Frens-String,History,4.5,20 ratings,89%,2.9
+3403,Kyong Joo Hong,Statistics & Data Science,4.2,49 ratings,83%,2.5
+3404,Robert Hankinson,Philosophy,1.5,15 ratings,17%,3.4
+3405,Lesley Robinson,Management,0.0,0 ratings,N/A,0
+3406,Fernanda Leite,Civil Engineering,5.0,4 ratings,100%,2.5
+3407,Eric Anslyn,Chemistry,4.3,42 ratings,93%,3.8
+3408,Timothy Brennan,Government,3.0,4 ratings,25%,4
+3409,Deirdre Shoemaker,Physics,4.3,8 ratings,100%,3.1
+3410,Lynn Katz,Engineering,2.6,14 ratings,56%,3.9
+3411,"H. W. ""Bill"" Brands",History,4.6,116 ratings,96%,2.2
+3412,Caitlin Gorback,Finance,1.1,9 ratings,N/A,4.4
+3413,Joel Nibert,Mathematics,2.9,97 ratings,46%,3.8
+3414,Lucianne Nelson,Humanities,0.0,0 ratings,N/A,0
+3415,Francois Baccelli,Mathematics,1.0,3 ratings,0%,5
+3416,David Rusin,Mathematics,2.5,76 ratings,44%,3.9
+3417,Sriram Vishwanath,Engineering,1.5,30 ratings,45%,4.6
+3418,Upasana Garnaik,Sociology,0.0,0 ratings,100%,0
+3419,Venese Alcantar,Theatre & Dance,0.0,0 ratings,N/A,0
+3420,Jasdeep Kaur,Kinesiology amp Health,5.0,1 ratings,100%,2
+3421,Yifan Xu,Communication,0.0,0 ratings,N/A,0
+3422,Jianlong Liu,Mathematics,1.0,1 ratings,N/A,3
+3423,Kearstin Jacobson,Art History,0.0,0 ratings,N/A,0
+3424,Edison Thomaz,Engineering,4.1,7 ratings,100%,2.6
+3425,Zach Marshall,Management,0.0,0 ratings,N/A,0
+3426,Joshua Fink,Business,0.0,0 ratings,N/A,0
+3427,Oscar Gonzales,Mathematics,3.4,41 ratings,48%,3.4
+3428,Taylor Canann,Economics,2.0,1 ratings,N/A,4
+3429,David Quintanilla,Business,4.9,74 ratings,98%,2.9
+3430,Matthew McConaughey,Film,4.8,12 ratings,92%,1.6
+3431,David Kornhaber,English,4.8,25 ratings,100%,2
+3432,James Patton,Education,4.8,36 ratings,96%,2.1
+3433,Frank Shirley,Mathematics,2.3,142 ratings,34%,3.7
+3434,Robert Moser,Political Science,3.7,154 ratings,70%,3.2
+3435,Lydia CdeBaca-Cruz,English,2.6,73 ratings,84%,3.4
+3436,Jacqueline Angel,Sociology,3.4,20 ratings,53%,2.7
+3437,Thomas Struppeck,Mathematics,2.2,69 ratings,23%,3.8
+3438,Patrick McDonald,Government,3.7,76 ratings,75%,3.1
+3439,Laurie Green,History,2.5,19 ratings,30%,2.7
+3440,Shilin Lai,Mathematics,2.3,15 ratings,100%,4.5
+3441,Kathleen McElroy,Journalism,4.4,5 ratings,100%,1.8
+3442,Lilia Rosas,Mexican American Studies,2.1,14 ratings,29%,3.5
+3443,Rachel Wellhausen,Government,4.0,34 ratings,92%,2.8
+3444,Katrin Erk,Linguistics,4.1,7 ratings,84%,2.9
+3445,Courtney Handman,Anthropology,3.3,14 ratings,89%,2.6
+3446,Laura Lashinger,Nutrition,2.7,30 ratings,48%,4.1
+3447,Sook Hyun Park,Statistics,3.2,9 ratings,84%,2.6
+3448,Sina Khani,Computer Science,1.2,20 ratings,50%,4.8
+3449,Juncai He,Mathematics,4.6,5 ratings,75%,2.4
+3450,Kasia Dinkeloo,Chemistry,5.0,9 ratings,100%,2.3
+3451,Thomas Wiseman,Economics,4.2,73 ratings,90%,3.2
+3452,Cossy Hough,Social Work,4.8,5 ratings,100%,1.8
+3453,Valerie Bencivenga,Economics,2.2,96 ratings,26%,4.1
+3454,Saori Suto,Languages,0.0,0 ratings,100%,0
+3455,Midori Tanaka,Languages,4.5,20 ratings,92%,2.7
+3456,Andrey Ordin,Finance,0.0,0 ratings,N/A,0
+3457,Adam Manda,Anthropology,0.0,0 ratings,N/A,0
+3458,Jesse Cline,Graphic Arts,1.6,11 ratings,34%,3.7
+3459,Keith Johnston,Engineering,3.3,3 ratings,100%,3.3
+3460,Dean Almy,Architecture,0.0,0 ratings,N/A,0
+3461,Aaron Benda,Mathematics,0.0,0 ratings,N/A,0
+3462,Jonathan Waknine,English,0.0,0 ratings,N/A,0
+3463,Mohit Mehta,Education,2.5,4 ratings,100%,3.8
+3464,Irene Arias Quintero,Spanish & Portuguese,0.0,0 ratings,N/A,0
+3465,Anthony Conway,Mathematics,0.0,0 ratings,N/A,0
+3466,Nicolas Estevez,Fine Arts,0.0,0 ratings,N/A,0
+3467,Joshua Jones,Religion,0.0,0 ratings,N/A,0
+3468,PRATIMA GOPALAKRISHNAN,Classics,0.0,0 ratings,N/A,0
+3469,Doran Raccah,Chemistry,0.0,0 ratings,N/A,0
+3470,Marius Ring,Finance,1.0,1 ratings,N/A,5
+3471,Eve Prilipko,Management,4.8,79 ratings,100%,2.2
+3472,John Markert,Physics,4.9,26 ratings,95%,3.1
+3473,Conrad Fjetland,Chemistry,3.6,51 ratings,86%,3.4
+3474,Ben Seeger,Mathematics,3.9,16 ratings,100%,3.4
+3475,Lorraine Pangle,Political Science,3.6,14 ratings,67%,3.9
+3476,Ayse Gursoy,Information Science,0.0,0 ratings,N/A,0
+3477,Iokepa Casumbal-Salazar,Anthropology,0.0,0 ratings,N/A,0
+3478,Enrique Dávila,Mexican American Studies,0.0,0 ratings,N/A,0
+3479,JoAnn Sciarrino,Marketing,0.0,0 ratings,N/A,0
+3480,Caroline Faria,Geography,4.4,36 ratings,85%,2.8
+3481,Brianna McCaslin,Sociology,1.0,1 ratings,N/A,4
+3482,Chelsea Privette,Communication,0.0,0 ratings,N/A,0
+3483,Shravan Narayan,Computer Science,0.0,0 ratings,N/A,0
+3484,Marcel Brousseau,Mexican American Studies,4.6,10 ratings,100%,2.3
+3485,Joel Cobb,Business,0.0,0 ratings,N/A,0
+3486,Signe Fourmy,History,3.6,29 ratings,100%,3.8
+3487,Linda Mullenix,Law,0.0,0 ratings,N/A,0
+3488,Jens Dammann,Law,0.0,0 ratings,N/A,0
+3489,Ward Farnsworth,Law,0.0,0 ratings,N/A,0
+3490,Lori Mason,Law,0.0,0 ratings,N/A,0
+3491,Michael Brandl,Economics,3.6,59 ratings,75%,4.3
+3492,Alessandro (Alex) Rezende de Macedo,Mathematics,4.4,139 ratings,99%,2.9
+3493,Alan Lloyd,Biology,3.3,22 ratings,65%,2.9
+3494,Betsy Berry,English,4.1,69 ratings,87%,2.5
+3495,Jim Bull,Science,3.7,36 ratings,77%,2.8
+3496,Simone Browne,Sociology,4.6,16 ratings,94%,3.3
+3497,Adam Bush,Biomedical Engineering,2.8,14 ratings,100%,3.6
+3498,Victor Eijkhout,Engineering Science amp Mechanics,3.0,2 ratings,100%,3.5
+3499,Amrita Kaur,Computer Science,0.0,0 ratings,N/A,0
+3500,Adam McCormick,Social Work,5.0,1 ratings,100%,2
+3501,Maulik Pandya,Business,4.0,1 ratings,100%,2
+3502,Tavish Dunn,Mathematics,0.0,0 ratings,N/A,0
+3503,Steve Brister,Marketing,2.4,18 ratings,50%,3.8
+3504,Oyvind Bjoru,Languages & Literatures,5.0,10 ratings,100%,2.3
+3505,Chad Landis,"Engineering, Science, & Mechanics",4.2,44 ratings,89%,3.5
+3506,Randy Machemehl,Civil Engineering,3.0,1 ratings,100%,2
+3507,Mary Kirisits,Engineering,3.4,8 ratings,100%,3.8
+3508,Ramesh Yerraballi,Engineering,4.4,77 ratings,90%,3.2
+3509,Hector Lomeli,Mathematics,3.6,81 ratings,76%,3.3
+3510,Arlene Rosen,Anthropology,3.6,12 ratings,67%,2.4
+3511,Nicolas Reyes,Mathematics,4.3,54 ratings,89%,2.1
+3512,Sonia Seeman,Music,1.7,12 ratings,50%,3.8
+3513,Gustavo Cepparo,Mathematics,4.4,137 ratings,90%,3.3
+3514,Matthew Bowers,Kinesiology & Health,4.9,46 ratings,98%,2
+3515,Tanya Coakley,Nursing,5.0,4 ratings,100%,1
+3516,Cory Reed,Spanish Portuguese,3.8,18 ratings,77%,3.5
+3517,Kristin Harvey,Mathematics,4.7,82 ratings,93%,2.3
+3518,Devin Walker,Ethnic Studies,4.8,38 ratings,100%,1.4
+3519,Jazmine Wells,Writing,4.3,4 ratings,100%,2.3
+3520,K. Sata Sathasivan,Biology,3.8,283 ratings,76%,3.3
+3521,Evan Carton,Literature,3.5,26 ratings,54%,3
+3522,Terrence Allen,Social Work,2.9,4 ratings,50%,1.8
+3523,Roberto martin martin,Computer Science,0.0,0 ratings,N/A,0
+3524,Sara Villanueva,Human Dev & Family Sciences,5.0,1 ratings,100%,3
+3525,Antonio Sosa,Government,0.0,0 ratings,N/A,0
+3526,Jesse Zou,Computer Science,0.0,0 ratings,N/A,0
+3527,Daniel Dickinson,Biology,4.8,16 ratings,94%,4.6
+3528,Amanda Garrett,Biology,0.0,0 ratings,N/A,0
+3529,Joshua Keena,Engineering,0.0,0 ratings,N/A,0
+3530,Christine Williams,Sociology,3.6,14 ratings,100%,3.8
+3531,Alison Norman,Computer Science,2.4,98 ratings,60%,4.7
+3532,Elizabeth Hanson Smith,Business,2.1,20 ratings,50%,4.3
+3533,Kirk Lynn,Theater,5.0,20 ratings,100%,2
+3534,Sanjay Shakkottai,Engineering,3.8,4 ratings,67%,4
+3535,Ellen Alley,Communication,0.0,0 ratings,N/A,0
+3536,Elizabeth Munoz,Human Dev & Family Sciences,0.0,0 ratings,N/A,0
+3537,Steve Rashin,Statistics,3.0,1 ratings,N/A,3
+3538,Patricia Chen,Education,5.0,1 ratings,100%,3
+3539,Mara McNiff,Art History,0.0,0 ratings,N/A,0
+3540,Scott Stevens,Chemistry,0.0,0 ratings,N/A,0
+3541,Mona Mehdy,Biology,3.8,5 ratings,75%,3.8
+3542,Andrei Straumanis,Chemistry,3.0,556 ratings,51%,4.2
+3543,Cornel Olariu,Geology,0.0,0 ratings,N/A,0
+3544,Marion Wong,Film,0.0,0 ratings,100%,0
+3545,Edward Garza,Languages,5.0,1 ratings,100%,3
+3546,Gene McDonald,Biology,0.0,0 ratings,100%,0
+3547,Manda Adam,Anthropology,0.0,0 ratings,N/A,0
+3548,Darla Grimes,Nursing,5.0,1 ratings,100%,2
+3549,Matthew McGlone,Communication,2.4,44 ratings,43%,3.8
+3550,Lee Ann Kahlor,Advertising,4.5,102 ratings,89%,2.5
+3551,NNEKA IBEKWE-OKAFOR,Mathematics,0.0,0 ratings,N/A,0
+3552,Deirdre Klokow,History,4.0,1 ratings,100%,3
+3553,Tina Curran,Theatre & Dance,0.0,0 ratings,N/A,0
+3554,Olivia Gellar,Communication,0.0,0 ratings,N/A,0
+3555,Charles Mills,Mathematics,3.4,107 ratings,77%,3
+3556,Heidi Toprac,Finance,4.4,48 ratings,92%,3.5
+3557,Justin Gordon,Theatre & Dance,0.0,0 ratings,N/A,0
+3558,Kristin Sharp,Social Work,5.0,1 ratings,100%,2
+3559,Jacob Stewart-Halevy,Art History,0.0,0 ratings,N/A,0
+3560,Douglas Cushing,Art History,4.8,8 ratings,88%,3.1
+3561,Erin Osterhaus,Languages,5.0,1 ratings,100%,3
+3562,Mary Bock,Journalism,2.3,6 ratings,40%,3.8
+3563,Drew Hays,Nutrition,4.2,32 ratings,82%,2.3
+3564,Nina Gary,Writing,5.0,1 ratings,100%,1
+3565,Jay Whitehead,Mathematics,5.0,4 ratings,100%,2.3
+3566,Heather Leidy,Nutrition,4.4,59 ratings,99%,1.7
+3567,Kenneth Greene,Government,3.4,46 ratings,74%,3.6
+3568,Charles Holahan,Psychology,4.7,13 ratings,100%,2.9
+3569,Madeline Hsu,Asian Studies,2.3,26 ratings,32%,3.5
+3570,Elizabeth Richmond-Garza,English,4.2,135 ratings,79%,3.2
+3571,Adela Timmons,Psychology,5.0,5 ratings,100%,2.4
+3572,Yaguo Wang,Engineering,3.2,15 ratings,59%,3.5
+3573,Emmett Witchel,Computer Science,3.6,11 ratings,72%,3.4
+3574,Carlee Baker,English,0.0,0 ratings,N/A,0
+3575,Robert E. Lee,Mathematics,3.4,103 ratings,27%,3.1
+3576,Arley Larson,Agriculture,2.7,42 ratings,25%,4
+3577,Babak Forouraghi,Computer Science,4.7,22 ratings,100%,3.5
+3578,Dan Burke,Fine Arts,3.3,53 ratings,N/A,3.5
+3579,Cathy Hahn,Fine Arts,2.9,25 ratings,100%,2
+3580,Norman Scrimger,Computer Science,4.1,19 ratings,N/A,2.4
+3581,Richelle Munkhoff,English,3.5,9 ratings,N/A,2
+3582,Stephen Sumner,Computer Science,2.3,85 ratings,0%,3
+3583,Carol Ramsey,Computer Science,2.1,82 ratings,100%,4.1
+3584,Adam Kraus,Astronomy,4.7,12 ratings,100%,2.2
+3585,Anna Piatigorsky,Music,5.0,9 ratings,100%,1
+3586,Kate Biberdorf,Chemistry,4.2,272 ratings,85%,3.4
+3587,Peter English,Biology,3.6,92 ratings,74%,3.8
+3588,Vijaya Ramachandran,Computer Science,2.2,12 ratings,28%,3.8
+3589,Micheal Wynne,Languages,4.6,4 ratings,100%,2
+3590,Circe Sturm,Anthropology,3.1,49 ratings,53%,3.2
+3591,Hyunju Kim,Biology,5.0,1 ratings,100%,3
+3592,Helene Engler,Biology,0.0,0 ratings,100%,0
+3593,Hannah Spector,Fine Arts,0.0,0 ratings,N/A,0
+3594,Huseyin Tanriverdi,Management amp Info Systems,2.2,6 ratings,100%,3.3
+3595,Morgan Parker,Architecture,4.5,1 ratings,N/A,3
+3596,Ariel Wood,Fine Arts,0.0,0 ratings,N/A,0
+3597,Dalle Molle,Engineering,0.0,0 ratings,N/A,0
+3598,Hirofumi Tanaka,Kinesiology amp Health,4.0,5 ratings,80%,4
+3599,Amrita Kuar,Computer Science,0.0,0 ratings,N/A,0
+3600,Kal Sundaram,Management & Info Systems,0.0,0 ratings,N/A,0
+3601,Sandy Leeds,Finance,5.0,20 ratings,100%,3.3
+3602,Kristin Procko,Chemistry,2.0,25 ratings,86%,4.6
+3603,Axel Turnquist,Mathematics,2.3,7 ratings,100%,4.4
+3604,Shagufta Shabbir,Chemistry,3.1,411 ratings,73%,4.3
+3605,Jack Barone,Mathematics,1.8,81 ratings,N/A,4.1
+3606,Sid Mitchell,Education,3.9,95 ratings,100%,2.9
+3607,Heather MacIvor,Law,3.7,73 ratings,0%,3.9
+3608,Jo-Anne Perkinson,Mathematics,3.9,14 ratings,100%,1.4
+3609,John Wager,Philosophy,3.1,17 ratings,N/A,2.4
+3610,John Kerrigan,Mathematics,4.1,46 ratings,100%,2.7
+3611,Jake Bowman,Science,4.0,17 ratings,N/A,3.7
+3612,Richard Bacon,Education,2.0,15 ratings,0%,3.3
+3613,Pat Barber,Science,4.5,9 ratings,N/A,2.2
+3614,Judith Hough-Goldstein,Science,3.8,8 ratings,N/A,2.6
+3615,Hank Bouchelle,Science,3.6,39 ratings,N/A,2.1
+3616,Michael Gelber,English,3.1,44 ratings,0%,3.8
+3617,Harold Ingram,English,2.8,41 ratings,25%,3.3
+3618,Kathleen Crawford,History,3.5,124 ratings,N/A,3
+3619,Brian Jones,Theatre & Dance,3.0,20 ratings,N/A,3.1
+3620,Mary Arlin,Music,3.7,52 ratings,100%,4.6
+3621,Dorathy Moore,Social Science,2.5,131 ratings,N/A,3.9
+3622,Steve Gutierrez,English,4.0,25 ratings,67%,2.6
+3623,Andrew Morton,Electrical & Comp. Engineering,3.8,34 ratings,80%,2.8
+3624,John Putman,History,3.6,152 ratings,31%,3.6
+3625,Sandy Tomc,English,3.6,48 ratings,100%,2.8
+3626,William Ramey,Microbiology,3.5,20 ratings,100%,3.2
+3627,Donald Unger,Family Studies,3.3,6 ratings,N/A,2.3
+3628,Robert Walkup,Communication,2.3,72 ratings,12%,3.4
+3629,Kirk Blazek,Mathematics,3.9,131 ratings,95%,2.9
+3630,Farhana Sarower,Mathematics,1.0,1 ratings,100%,3
+3631,Marialena Riviera,Communication,0.0,0 ratings,N/A,0
+3632,Eric Staron,Mathematics,4.4,190 ratings,89%,3.2
+3633,Oeyvind Bjoeru,Languages,0.0,0 ratings,N/A,0
+3634,Keith Keitz,Chemistry,4.0,1 ratings,100%,3
+3635,Kathryn Litten,Science,0.0,0 ratings,N/A,0
+3636,Deborah Sztejnberg,Science,5.0,1 ratings,100%,1
+3637,Steven Seegel,History,0.0,0 ratings,N/A,0
+3638,Hemant Chhajwani,Finance,0.0,0 ratings,N/A,0
+3639,David Clark,Mathematics,2.2,73 ratings,29%,3.8
+3640,Yohanna Tesfai,Communication,0.0,0 ratings,N/A,0
+3641,Michele Hockett Cooper,Nutrition,4.5,32 ratings,94%,2.1
