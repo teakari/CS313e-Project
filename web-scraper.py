@@ -24,24 +24,18 @@ driver.get(url)
 timeout = 20
 
 
-# closes cookies and ads that first appear when going into the website
+# closes cookies and the giant ad in the center that first appear when going into the website
 try:
     cookies_exit = wait.until(EC.element_to_be_clickable((By.XPATH, '/html/body/div[5]/div/div/button')))
     cookies_exit.click()
 except TimeoutException:
-    print("No cookies")
-
-try:
-    close_ad2 = wait.until(EC.element_to_be_clickable((By.XPATH, '//*[@id="IL_SR_X4"]/svg/g/path[2]')))
-    close_ad2.click()
-except TimeoutException:
-    print("Timed Out")
+    print("TIMED OUT: No cookies popup")
 
 try:
     close_ad = wait.until(EC.element_to_be_clickable((By.XPATH, '//*[@id="bx-close-inside-1177612"]')))
     close_ad.click()
 except TimeoutException:
-    print("Unable to close--Timed out")
+    print("TIMED OUT: No ad found ")
 
 
 action = ActionChains(driver)
@@ -55,64 +49,62 @@ try:
         try:
             show_more = wait.until(EC.element_to_be_clickable((By.XPATH, '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[4]/button')))
         except StaleElementReferenceException:
-            print("Hit a stalemate")
             break
         except TimeoutException:
             break
 
 except TimeoutException:
-    print("Timed Out Waiting for Page to Load")
+    print("Timed out waiting for page to load")
 
 
-
+# finds the total number of professors from the count provided by RMP (although it's inaccurate, it still works)
 in_department = driver.find_elements(By.XPATH, '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[1]/div/h1')
 total = in_department[0].text.split()
 total_professors = int(total[0])
-print(total_professors)
 
-
-num_ratings = driver.find_elements(By.XPATH, '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[3]/a/div/div[1]/div/div[2]')
+# list to store all the dictionaries with the professor data
 reviews = []
 
-
+# loops through all of the professors present on the page after it is completely open
 for i in range(1, total_professors + 1):
     try:
-        # finds prof name
+        # finds professor's name
         WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH,
                 '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[3]/a[' + str(i) + ']/div/div[2]/div[1]')))
         name = driver.find_elements(By.XPATH,
                 '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[3]/a[' + str(i) + ']/div/div[2]/div[1]')
 
-        # finds prof rating
+        # finds professor's rating out of 5
         WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH,
                 '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[3]/a[' + str(i) + ']/div/div[1]/div/div[2]')))
         rating = driver.find_elements(By.XPATH,
                 '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[3]/a[' + str(i) + ']/div/div[1]/div/div[2]')
 
-        # finds prof department
+        # finds professor's department
         WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH,
                 '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[3]/a[' + str(i) + ']/div/div[2]/div[2]/div[1]')))
         department = driver.find_elements(By.XPATH,
                 '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[3]/a[' + str(i) + ']/div/div[2]/div[2]/div[1]')
 
         # finds total number of ratings
-        WebDriverWait(driver, timeout).until(EC.presence_of_element_located((By.XPATH,
+        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH,
                 '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[3]/a[' + str(i) + ']/div/div[1]/div/div[3]')))
         num_ratings = driver.find_elements(By.XPATH,
                 '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[3]/a[' + str(i) + ']/div/div[1]/div/div[3]')
 
         # finds the percentage of students who would repeat the course
-        WebDriverWait(driver, timeout).until(EC.presence_of_element_located((By.XPATH,
+        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH,
                 '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[3]/a[' + str(i) + ']/div/div[2]/div[3]/div[1]/div')))
         would_repeat = driver.find_elements(By.XPATH,
                 '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[3]/a[' + str(i) + ']/div/div[2]/div[3]/div[1]/div')
 
         # finds the difficulty of the course rated out of 5
-        WebDriverWait(driver, timeout).until(EC.presence_of_element_located((By.XPATH,
+        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH,
                 '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[3]/a[' + str(i) + ']/div/div[2]/div[3]/div[3]/div')))
         difficulty = driver.find_elements(By.XPATH,
                 '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[3]/a[' + str(i) + ']/div/div[2]/div[3]/div[3]/div')
 
+        # creates a dictionary of the professor and appends it to a list
         professor_review = {'name': name[0].text,
                             'department': department[0].text,
                             'rating': rating[0].text,
@@ -121,10 +113,11 @@ for i in range(1, total_professors + 1):
                             'difficulty': difficulty[0].text}
         reviews.append(professor_review)
 
+    # in case the number of professors provided by RMP does not match the actual number displayed
     except TimeoutException:
         break
 
 
+# creates the .csv file
 df = pd.DataFrame(reviews)
-# print(df)
 df.to_csv('professors.csv')
