@@ -39,8 +39,8 @@ obtained. However, I do expect the ranking to be accurate, especially if a handf
 this only tends to UT Austin professors (although I haven't tested if it can be used with another school), and since RMP isn't an official university website, the amount of professors on there is dependent on the students who write reviews for them, so there will 
 be many professors who are not included in the dataset.
 
-Additionally, past professors who no longer work at UT will also be present on the board, and any professors who have transferred from 
-another university to UT and hasn't had that information updated on RMP won't be included in the count. Unfortunately, professor Teymourian is a part of that statistic since it shows up that he is a professor at Boston University. However, I went ahead and manually added him at the end of the .csv file provided since I was curious where he ranked (though running the webscraper won't produce that same result).
+Additionally, past professors who no longer work at UT may also be present on the board, and any professors who have transferred from 
+another university to UT and hasn't had that information updated on RMP won't be included in the count. Unfortunately, professor Teymourian is a part of that statistic since it shows up that he is a professor at Boston University. However, I went ahead and manually added him at the end of the .csv file provided since I was curious where he ranked (though running the webscraper won't produce that same result). Moreover, some professors who didn't appear on the main board (but do appear when the filter for their department is turned on) will also be missing from the final count. I realized this when I tried finding my CS303e professor Bill Young in the .csv file but he wasn't there--although, he did show up when I turned on the filter for professors in the computer science department.
 
 Also, RMP scores are not the most accurate indication of how "good" a professor truly is since everyone is entitled to their
 own opinions and experiences. That being said, RMP tags a number onto these professors, and that is what I'm going to be analyzing
