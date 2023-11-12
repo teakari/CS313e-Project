@@ -40,7 +40,7 @@ this only tends to UT Austin professors (although I haven't tested if it can be 
 be many professors who are not included in the dataset.
 
 Additionally, past professors who no longer work at UT will also be present on the board, and any professors who have transferred from 
-another university to UT and hasn't had that information updated on RMP won't be included in the count. Unfortunately, professor Teymourian is a part of that statistic since it shows up that he is a professor at Boston University.
+another university to UT and hasn't had that information updated on RMP won't be included in the count. Unfortunately, professor Teymourian is a part of that statistic since it shows up that he is a professor at Boston University. However, I went ahead and manually added him at the end of the .csv file provided since I was curious where he ranked (though running the webscraper won't produce that same result).
 
 Also, RMP scores are not the most accurate indication of how "good" a professor truly is since everyone is entitled to their
 own opinions and experiences. That being said, RMP tags a number onto these professors, and that is what I'm going to be analyzing
