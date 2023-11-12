@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException, ElementClickInterceptedException
+from selenium.common.exceptions import TimeoutException, StaleElementReferenceException
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.action_chains import ActionChains
@@ -15,7 +15,7 @@ options.add_argument("--no-sandbox")
 options.add_argument("--disable-extensions")
 options.add_argument("--dns-prefetch-disable")
 
-url = "https://www.ratemyprofessors.com/search/professors/1255?q=*&did=19"
+url = "https://www.ratemyprofessors.com/search/professors/1255?q=*&did=?"
 
 driver = webdriver.Chrome()
 wait = WebDriverWait(driver, 20)
@@ -51,14 +51,12 @@ button = driver.find_element(By.XPATH, '//*[@id="root"]/div/div/div[4]/div[1]/di
 try:
     show_more = wait.until(EC.element_to_be_clickable((By.XPATH, '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[4]/button')))
     while show_more:
-        try:
-            close_ad2 = wait.until(EC.element_to_be_clickable((By.XPATH, '//*[@id="IL_SR_X4"]/svg/g/path[2]')))
-            action.move_to_element(close_ad2).click().perform()
-            action.move_to_element(button).click().perform()
-        except TimeoutException:
-            action.move_to_element(button).click().perform()
+        action.move_to_element(button).click().perform()
         try:
             show_more = wait.until(EC.element_to_be_clickable((By.XPATH, '//*[@id="root"]/div/div/div[4]/div[1]/div[1]/div[4]/button')))
+        except StaleElementReferenceException:
+            print("Hit a stalemate")
+            break
         except TimeoutException:
             break
 
@@ -128,5 +126,5 @@ for i in range(1, total_professors + 1):
 
 
 df = pd.DataFrame(reviews)
-print(df)
+# print(df)
 df.to_csv('professors.csv')
